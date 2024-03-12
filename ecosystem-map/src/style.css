@@ -1,0 +1,143 @@
+body {
+  --black: #000000de;
+  --background: #fff;
+
+  color: var(--black);
+  background: var(--background);
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+}
+
+.roboto-regular {
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+a {
+  color: var(--black);
+  text-decoration: none;
+
+  /* text-decoration: underline transparent; */
+  border-bottom: 1px solid transparent;
+  transition: border 300ms ease;
+
+  &:hover {
+    border-bottom: 1px solid rgb(0 0 255 / 92.7%);
+  }
+}
+
+.header {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.sub-header {
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.chip {
+  --chip-color: #2196f3;
+
+  /* padding: 3px 3px; */
+  padding: 4px 8px;
+  border-radius: 8px;
+  color: var(--background);
+  border: 1px solid var(--background);
+  cursor: pointer;
+  background: var(--chip-color);
+  transition:
+    color 0.2s,
+    background 0.2s;
+
+  &:hover {
+    border: 1px solid var(--chip-color);
+    background: var(--background);
+    color: var(--black);
+  }
+}
+
+.chip-block {
+  display: flex;
+  flex-flow: row wrap;
+  align-content: flex-start;
+  column-gap: 8px;
+}
+
+.projects {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 24px;
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+
+  /* margin: 8px; */
+  border-radius: 0.3rem;
+  padding: 16px;
+  gap: 10px;
+  border: 0.5px solid var(--black);
+  max-width: 600px;
+}
+
+.project-card__header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.project-card__header--logo {
+  margin-right: 16px;
+
+  img {
+    max-width: 50px;
+    max-height: 50px;
+  }
+}
+
+.project-card__header--name {
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: 500;
+}
+
+.project-card__header--readiness {
+  padding: 8px;
+}
+
+.metrics-panel {
+  display: grid;
+  grid-template-columns: 5rem 5rem auto;
+  grid-template-rows: auto auto auto;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.metrics-panel--row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.project-card__description {
+  padding: 8px 0;
+  border-top: 0.1px solid var(--black);
+  border-bottom: 0.1px solid var(--black);
+}

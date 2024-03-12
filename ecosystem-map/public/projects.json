@@ -1,0 +1,226 @@
+[{
+        "name": "enim sit eiusmod magna amet",
+        "description": "occaecat Lorem",
+        "web": {
+            "site": "proident dolor minim dolore",
+            "blog": "sint aliqua commodo voluptate non",
+            "logo": "default.png"
+        },
+        "layer": [
+            "Layer-1"
+        ],
+        "target_audience": [
+            "Dev teams",
+            "Established corp"
+        ],
+        "category": [
+            "NFT"
+        ],
+        "readiness": {
+            "technology": "In development",
+            "business": "Verified in market/high adoption"
+        },
+        "metrics": {
+            "twitter": [{
+                    "date": "2020-10-22",
+                    "value": 39703090
+                },
+                {
+                    "date": "2028-11-10",
+                    "value": 63613475
+                },
+                {
+                    "date": "2028-12-31",
+                    "value": 11465972
+                }
+            ],
+            "blog": [{
+                    "date": "2034-04-11",
+                    "value": 40547892
+                },
+                {
+                    "date": "2028-02-11",
+                    "value": 22127308
+                },
+                {
+                    "date": "2031-12-01",
+                    "value": 6356683
+                }
+            ],
+            "youtube": [{
+                    "date": "2023-09-01",
+                    "value": 75825487
+                },
+                {
+                    "date": "2023-12-31",
+                    "value": 90359585
+                }
+            ],
+            "github": [{
+                    "date": "2036-03-30",
+                    "value": 72247774
+                },
+                {
+                    "date": "2034-09-06",
+                    "value": 60285091
+                },
+                {
+                    "date": "2026-03-11"
+                },
+                {
+                    "date": "2025-11-19",
+                    "value": 72603108
+                }
+            ],
+            "app_downloads": []
+        }
+    },
+
+    {
+        "name": "cillum adipisicing",
+        "description": "elit officia",
+        "web": {
+            "site": "sed dolor",
+            "twitter": "ea nisi Lorem minim anim",
+            "blog": "ipsum fugiat reprehenderit nisi",
+            "github": "dolore ea",
+            "logo": "default.png"
+        },
+        "layer": [
+            "Layer-0",
+            "Layer-2"
+        ],
+        "target_audience": [
+            "Governmental org",
+            "Established corp",
+            "Personal investors"
+        ],
+        "category": [
+            "NFT",
+            "Exchange",
+            "EVM",
+            "Analytics",
+            "Bridge"
+        ],
+        "readiness": {
+            "technology": "Connected to Relay chain",
+            "business": "Scaling/Alliance"
+        },
+        "metrics": {
+            "twitter": [{
+                    "date": "2026-12-30",
+                    "value": 97542240
+                },
+                {
+                    "date": "2030-02-09"
+                },
+                {
+                    "date": "2031-12-30"
+                }
+            ],
+            "blog": [{
+                    "value": 46405131
+                },
+                {
+                    "date": "2033-07-10",
+                    "value": 97405028
+                }
+            ],
+            "github": [{
+                    "date": "2029-12-21",
+                    "value": 83346538
+                },
+                {
+                    "date": "2023-03-31",
+                    "value": 14717764
+                },
+                {
+                    "date": "2027-10-15"
+                }
+            ],
+            "app_downloads": [{
+                "date": "2038-03-31",
+                "value": 83413310
+            }]
+        }
+    },
+
+    {
+        "name": "sint",
+        "description": "sit aute",
+        "web": {
+            "site": "aliqua tempor pariatur veniam",
+            "logo": "default.png"
+        },
+        "layer": [
+            "Layer-2",
+            "Layer-3",
+            "Layer-4"
+        ],
+        "target_audience": [
+            "Research institute",
+            "Governmental org",
+            "Dev teams"
+        ],
+        "category": [
+            "Bridge",
+            "DAO",
+            "Data"
+        ],
+        "readiness": {
+            "technology": "In production",
+            "business": "Scaling/Alliance"
+        },
+        "metrics": {
+            "twitter": [{
+                "date": "2021-01-10",
+                "value": 30255452
+            }],
+            "blog": [{
+                    "date": "2033-11-08",
+                    "value": 58540716
+                },
+                {
+                    "date": "2036-12-29",
+                    "value": 1045081
+                },
+                {
+                    "date": "2026-03-07",
+                    "value": 92574001
+                },
+                {
+                    "date": "2038-08-30",
+                    "value": 65718989
+                },
+                {
+                    "value": 46972262
+                }
+            ],
+            "github": [{
+                    "date": "2022-09-30",
+                    "value": 48462036
+                },
+                {
+                    "date": "2035-06-21"
+                }
+            ],
+            "app_downloads": [{
+                    "date": "2037-05-21",
+                    "value": 17231615
+                },
+                {
+                    "date": "2020-06-04",
+                    "value": 3868458
+                },
+                {
+                    "date": "2028-09-21",
+                    "value": 71094472
+                },
+                {
+                    "date": "2023-07-05",
+                    "value": 81236366
+                }
+            ]
+        }
+    }
+]
