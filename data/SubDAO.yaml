@@ -1,0 +1,33 @@
+name: SubDAO
+category:
+  - Wallet
+  - DAO
+  - EVM
+description: DAO infrastructure protocol that helps manage digital assets
+  through middleware, multi-sig and other decentralized features
+readiness:
+  business: Business concept/low adoption
+  technology: Validated POC / testnet
+target_audience:
+  - Community DAO
+layer:
+  - Layer-1
+  - Layer-3
+web:
+  logo: default.png
+  site: https://www.subdao.network/
+  twitter: subdao_network
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 74394
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 4
+  blog:
+    - date: 2023-12-31
+      value: 47467
+  app_downloads:
+    - date: 2023-12-31
+      value: 708

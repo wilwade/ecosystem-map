@@ -1,0 +1,24 @@
+name: SIO2
+category:
+  - EVM
+  - DeFi
+description: Astar-native lending hub that supports both EVM and WASM
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer: []
+web:
+  logo: default.png
+  site: https://sio2.finance/
+  twitter: SiO2_Finance
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 7449
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

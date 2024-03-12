@@ -1,0 +1,25 @@
+name: TheDPSproject
+category:
+  - Game
+  - NFT
+  - DAO
+description: mobile and desktop games - Damned pirates society
+readiness:
+  business: Business concept/low adoption
+  technology: In production
+target_audience:
+  - Individuals
+layer:
+  - Layer-3
+web:
+  logo: TheDPSproject.jpg
+  site: https://damnedpiratessociety.io/
+  twitter: TheDPSproject
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 7673
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

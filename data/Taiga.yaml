@@ -1,0 +1,28 @@
+name: Taiga
+category:
+  - DeFi
+description: synthetic asset protocol designed to unify different formats of
+  staking and crowdloan derivatives into a highly efficient standard
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Institutional investors
+  - Personal investors
+  - Startup
+  - Dev teams
+layer: []
+web:
+  logo: Taiga.jpg
+  site: https://www.taigaprotocol.io/
+  twitter: TaigaProtocol
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 1455
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 1075
+  app_downloads: []

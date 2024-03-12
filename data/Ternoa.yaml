@@ -1,0 +1,39 @@
+name: Ternoa
+category:
+  - NFT
+  - Privacy
+  - Wallet
+description: A scalable layer 1 appchain, focused on composable NFTs
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Startup
+  - Dev teams
+  - Established corp
+  - Community DAO
+layer:
+  - Layer-1
+  - Layer-4
+web:
+  logo: Ternoa.jpg
+  site: https://www.ternoa.network/
+  twitter: Ternoa_
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 141638
+    - date: 2022-12-31
+      value: 130000
+  youtube:
+    - date: 2023-12-31
+      value: 2860
+  github:
+    - date: 2023-12-31
+      value: 54
+  blog:
+    - date: 2023-12-31
+      value: 6630
+  app_downloads:
+    - date: 2023-12-31
+      value: 50000

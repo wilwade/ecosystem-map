@@ -1,0 +1,29 @@
+name: Zero/GameDAO
+category:
+  - Game
+description: video games specific, decentralised network enabling innovative
+  creation and operation of video games in the web3 era.
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Dev teams
+  - Individuals
+  - Startup
+layer:
+  - Layer-3
+  - Layer-1
+web:
+  logo: default.png
+  site: https://zero.io/
+  twitter: zerodotio
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 599
+    - date: 2022-12-31
+      value: 602
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

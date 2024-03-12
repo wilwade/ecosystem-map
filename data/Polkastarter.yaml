@@ -1,0 +1,29 @@
+name: Polkastarter
+category:
+  - DeFi
+description: fundraising platform
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Personal investors
+  - Institutional investors
+  - Startup
+layer:
+  - Layer-1
+web:
+  logo: Polkastarter.jpg
+  site: https://polkastarter.com
+  twitter: polkastarter
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 619561
+  youtube:
+    - date: 2023-12-31
+      value: 4730
+  github:
+    - date: 2023-12-31
+      value: 25
+  blog: []
+  app_downloads: []

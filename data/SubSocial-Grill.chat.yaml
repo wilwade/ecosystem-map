@@ -1,0 +1,37 @@
+name: SubSocial/Grill.chat
+category:
+  - Social
+  - Privacy
+  - Dapp
+  - DeFi
+description: platform for decentralized social networks, chat,  donations
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Individuals
+  - Community DAO
+  - Dev teams
+  - Startup
+layer:
+  - Layer-3
+web:
+  logo: SubSocial-Grill.chat.jpg
+  site: https://subsocial.network/
+  twitter: SubsocialChain
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 51036
+    - date: 2022-12-31
+      value: 52100
+  youtube:
+    - date: 2023-12-31
+      value: 815
+  github:
+    - date: 2023-12-31
+      value: 73
+  blog:
+    - date: 2023-12-31
+      value: 4031
+  app_downloads: []

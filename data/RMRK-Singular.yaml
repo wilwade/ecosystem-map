@@ -1,0 +1,38 @@
+name: RMRK/Singular
+category:
+  - NFT
+  - Marketplace
+  - EVM
+description: protocol for multi-asset, nestable and composable NFTs for EVM and beyond
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Individuals
+  - Startup
+  - Personal investors
+  - Dev teams
+  - Community DAO
+layer:
+  - Layer-3
+  - Layer-4
+web:
+  logo: RMRK-Singular.jpg
+  site: https://www.rmrk.app
+  twitter: RmrkApp
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 62429
+    - date: 2022-12-31
+      value: 64300
+  youtube:
+    - date: 2023-12-31
+      value: 4140
+  github:
+    - date: 2023-12-31
+      value: 69
+  blog:
+    - date: 2023-12-31
+      value: 1540
+  app_downloads: []

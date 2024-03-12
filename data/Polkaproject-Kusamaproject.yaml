@@ -1,0 +1,26 @@
+name: Polkaproject/Kusamaproject
+category:
+  - Aggregator
+description: ecosystem projects database
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Dev teams
+  - Startup
+  - Personal investors
+layer: []
+web:
+  logo: default.png
+  site: https://polkaproject.com/
+  twitter: polkaprojectcom
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 72850
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 248
+  app_downloads: []

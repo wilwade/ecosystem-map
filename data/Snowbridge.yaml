@@ -1,0 +1,28 @@
+name: Snowbridge
+category:
+  - Bridge
+description: bridge between Polkadot eco and Ethereum
+readiness:
+  technology: Validated POC / testnet
+target_audience:
+  - Dev teams
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://snowfork.com
+  twitter: snowfork_inc
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 3169
+    - date: 2022-12-31
+      value: 3000
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 265
+  blog:
+    - date: 2023-12-31
+      value: 439
+  app_downloads: []

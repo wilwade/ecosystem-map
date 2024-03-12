@@ -1,0 +1,24 @@
+name: Treasureland
+category:
+  - NFT
+  - Marketplace
+  - Social
+description: multi-chain NFT aggregation protocol that supports NFT mint,
+  issuance, auction, and socialization. It aims to connect NFT creators, users,
+  and consumers in a decentralized way, building the eBay of the blockchain
+  world.
+readiness:
+  technology: Connected to Parachain
+target_audience:
+  - Individuals
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://treasureland.market/
+metrics:
+  twitter: []
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

@@ -1,0 +1,40 @@
+name: WATR Protocol
+category:
+  - Oracle
+  - DeFi
+  - Smart Contracts
+description: blockchain ecosystem for decentralized apps and digital ventures in
+  metals, energy, food and environmental products
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Institutional investors
+  - Dev teams
+  - Governmental org
+  - Research institute
+  - Established corp
+  - Community DAO
+layer:
+  - Layer-1
+  - Layer-3
+  - Layer-4
+web:
+  logo: WATR Protocol.jpg
+  site: https://www.watr.org
+  twitter: WatrProtocol
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 843
+    - date: 2022-12-31
+      value: 675
+  youtube:
+    - date: 2023-12-31
+      value: 21
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 5
+  app_downloads: []

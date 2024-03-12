@@ -1,0 +1,25 @@
+name: Polkascan
+category:
+  - Indexer
+description: blockchain explorer
+readiness:
+  technology: In production
+target_audience:
+  - Dev teams
+layer: []
+web:
+  logo: Polkascan.jpg
+  site: https://explorer.polkascan.io/
+  twitter: polkascan
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 2466
+    - date: 2022-12-31
+      value: 2500
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 171
+  blog: []
+  app_downloads: []

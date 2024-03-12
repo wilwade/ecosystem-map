@@ -1,0 +1,23 @@
+name: Polkasafe
+category:
+  - Wallet
+description: asset management & multisig tool
+readiness:
+  technology: In production
+target_audience:
+  - Community DAO
+  - Startup
+  - Established corp
+layer:
+  - Layer-4
+web:
+  logo: default.png
+  site: https://polkasafe.xyz
+metrics:
+  twitter: []
+  youtube:
+    - date: 2023-12-31
+      value: 16
+  github: []
+  blog: []
+  app_downloads: []

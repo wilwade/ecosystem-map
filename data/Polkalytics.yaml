@@ -1,0 +1,22 @@
+name: Polkalytics
+category:
+  - Analytics
+description: Analytics Service
+readiness:
+  business: Business concept/low adoption
+  technology: In research
+target_audience:
+  - Dev teams
+layer: []
+web:
+  logo: default.png
+  site: https://polkalytics.io
+  twitter: Polkalytics
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 487
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

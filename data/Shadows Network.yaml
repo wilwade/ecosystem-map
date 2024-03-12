@@ -1,0 +1,23 @@
+name: Shadows Network
+category:
+  - DeFi
+description: a hub for issuing, trading, lending and borrowing synthetic assets
+readiness:
+  business: Business concept/low adoption
+  technology: In research
+target_audience: []
+layer: []
+web:
+  logo: default.png
+  site: https://www.shadows.link/
+  twitter: shadows_defi
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 22317
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 647
+  app_downloads: []

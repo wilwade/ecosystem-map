@@ -1,0 +1,39 @@
+name: Unit Network
+category:
+  - DeFi
+  - DAO
+  - Dapp
+  - Exchange
+  - Bridge
+description: Unit Network pioneers a new era of the token-based economy, serving
+  as both a protocol and application. It connects communities, projects,
+  businesses, real-world assets, and network states in an open financial
+  network.
+readiness:
+  business: Business concept/low adoption
+  technology: In development
+target_audience:
+  - Startup
+  - Institutional investors
+  - Community DAO
+  - Dev teams
+  - Individuals
+  - Personal investors
+layer:
+  - Layer-1
+web:
+  logo: Unit Network.jpg
+  site: https://www.unit.network/
+  twitter: theunitnetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 3255
+  youtube:
+    - date: 2023-12-31
+      value: 5230
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 4000
+  app_downloads: []

@@ -1,0 +1,37 @@
+name: SubQuery
+category:
+  - Indexer
+  - Infra
+  - API
+  - Analytics
+  - EVM
+description: data indexing framework, API
+readiness:
+  business: Scaling/Alliance
+  technology: In production
+target_audience:
+  - Startup
+  - Dev teams
+  - Established corp
+layer:
+  - Layer-2
+web:
+  logo: SubQuery.jpg
+  site: https://subquery.network
+  twitter: SubQueryNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 55422
+    - date: 2022-12-31
+      value: 14600
+  youtube:
+    - date: 2023-12-31
+      value: 5620
+  github:
+    - date: 2023-12-31
+      value: 8200
+  blog:
+    - date: 2023-12-31
+      value: 6254
+  app_downloads: []

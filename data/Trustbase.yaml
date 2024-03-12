@@ -1,0 +1,19 @@
+name: Trustbase
+category: []
+description: ""
+readiness:
+  technology: In research
+target_audience: []
+layer: []
+web:
+  logo: default.png
+  site: https://trustbase.network/
+  twitter: TrustBase_Net
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 8867
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

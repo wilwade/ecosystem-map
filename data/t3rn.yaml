@@ -1,0 +1,31 @@
+name: t3rn
+category:
+  - Smart Contracts
+description: smart contract interoperability protocol, XBI standard
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Dev teams
+layer:
+  - Layer-1
+web:
+  logo: t3rn.jpg
+  site: https://www.t3rn.io/
+  twitter: t3rn_io
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 37134
+    - date: 2022-12-31
+      value: 27700
+  youtube:
+    - date: 2023-12-31
+      value: 83
+  github:
+    - date: 2023-12-31
+      value: 129
+  blog:
+    - date: 2023-12-31
+      value: 1073
+  app_downloads: []

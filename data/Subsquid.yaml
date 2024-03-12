@@ -1,0 +1,34 @@
+name: Subsquid
+category:
+  - Infra
+  - API
+  - Indexer
+description: API framework,datalake, supercharging dApps across 100+ chains
+readiness:
+  business: Scaling/Alliance
+  technology: In production
+target_audience:
+  - Dev teams
+  - Startup
+  - Established corp
+layer:
+  - Layer-3
+  - Layer-2
+web:
+  logo: Subsquid.jpg
+  site: https://subsquid.io
+  twitter: subsquid
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 40506
+    - date: 2022-12-31
+      value: 9200
+  youtube:
+    - date: 2023-12-31
+      value: 1710
+  github:
+    - date: 2023-12-31
+      value: 1113
+  blog: []
+  app_downloads: []

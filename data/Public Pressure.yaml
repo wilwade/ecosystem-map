@@ -1,0 +1,22 @@
+name: Public Pressure
+category:
+  - Marketplace
+description: Web3 music marketplace
+readiness:
+  business: Business concept/low adoption
+target_audience:
+  - Individuals
+  - Established corp
+layer: []
+web:
+  logo: default.png
+  site: https://app.publicpressure.io/
+  twitter: jointhepressure
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 7274
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

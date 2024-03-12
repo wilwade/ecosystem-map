@@ -1,0 +1,32 @@
+name: Subspace
+category:
+  - Smart Contracts
+  - NFT
+description: proof-of-capacity network to deploy cross-chain  dApps
+readiness:
+  business: Business concept/low adoption
+  technology: Validated POC / testnet
+target_audience:
+  - Startup
+  - Dev teams
+layer:
+  - Layer-1
+  - Layer-3
+web:
+  logo: default.png
+  site: https://subspace.network/
+  twitter: NetworkSubspace
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 19869
+  youtube:
+    - date: 2023-12-31
+      value: 486
+  github:
+    - date: 2023-12-31
+      value: 300
+  blog:
+    - date: 2023-12-31
+      value: 27
+  app_downloads: []

@@ -1,0 +1,31 @@
+name: Zenlink
+category:
+  - Exchange
+  - Dapp
+description: DEX module, protocol and app for parachains
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Dev teams
+  - Startup
+layer:
+  - Layer-1
+web:
+  logo: Zenlink.jpg
+  site: https://zenlink.pro/en/
+  twitter: ZenlinkPro
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 28253
+    - date: 2022-12-31
+      value: 30900
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 9
+  blog:
+    - date: 2023-12-31
+      value: 3400
+  app_downloads: []

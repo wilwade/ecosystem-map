@@ -1,0 +1,39 @@
+name: Talisman
+category:
+  - Wallet
+  - NFT
+  - EVM
+  - Privacy
+description: multi-chain mobile wallet and extension
+readiness:
+  business: Scaling/Alliance
+  technology: In production
+target_audience:
+  - Individuals
+  - Personal investors
+  - Startup
+  - Institutional investors
+  - Community DAO
+layer: []
+web:
+  logo: Talisman.jpg
+  site: https://talisman.xyz/
+  twitter: wearetalisman
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 16131
+    - date: 2022-12-31
+      value: 14000
+  youtube:
+    - date: 2023-12-31
+      value: 92
+  github:
+    - date: 2023-12-31
+      value: 45
+  blog:
+    - date: 2023-12-31
+      value: 139
+  app_downloads:
+    - date: 2023-12-31
+      value: 70000

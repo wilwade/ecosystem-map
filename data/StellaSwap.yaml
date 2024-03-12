@@ -1,0 +1,32 @@
+name: StellaSwap
+category:
+  - DeFi
+  - Exchange
+  - Smart Contracts
+  - Bridge
+  - EVM
+  - NFT
+description: Swap, earn and build on Moonbeam's leading DEX
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Parachain
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer: []
+web:
+  logo: StellaSwap.jpg
+  site: https://stellaswap.com
+  twitter: StellaSwap
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 34825
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 7
+  blog:
+    - date: 2023-12-31
+      value: 1517
+  app_downloads: []

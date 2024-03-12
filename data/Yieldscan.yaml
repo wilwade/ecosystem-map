@@ -1,0 +1,20 @@
+name: Yieldscan
+category:
+  - Indexer
+description: ""
+readiness: {}
+target_audience:
+  - Dev teams
+layer: []
+web:
+  logo: default.png
+  site: https://yieldscan.app/
+  twitter: YieldScan
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 1130
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

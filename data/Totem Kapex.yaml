@@ -1,0 +1,36 @@
+name: Totem Kapex
+category:
+  - DeFi
+  - Data
+  - Privacy
+  - Smart Contracts
+description: p2p accounting consensus protocol, book-keeping
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+  - Startup
+  - Individuals
+layer:
+  - Layer-1
+web:
+  logo: Totem Kapex.jpg
+  site: https://totemaccounting.com/
+  twitter: Totem_Live_
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 13077
+    - date: 2022-12-31
+      value: 14200
+  youtube:
+    - date: 2023-12-31
+      value: 121
+  github:
+    - date: 2023-12-31
+      value: 4
+  blog:
+    - date: 2023-12-31
+      value: 45
+  app_downloads: []

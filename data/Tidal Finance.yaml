@@ -1,0 +1,34 @@
+name: Tidal Finance
+category:
+  - DeFi
+  - Marketplace
+  - EVM
+description: insurance coverage protocol for assets across chains in  liquidity pools
+readiness:
+  business: Scaling/Alliance
+  technology: In production
+target_audience:
+  - Personal investors
+  - Institutional investors
+  - Community DAO
+  - Established corp
+layer:
+  - Layer-1
+web:
+  logo: Tidal Finance.jpg
+  site: https://www.tidal.finance/
+  twitter: tidaldefi
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 55500
+    - date: 2022-12-31
+      value: 57731
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 9
+  blog:
+    - date: 2023-12-31
+      value: 1903
+  app_downloads: []

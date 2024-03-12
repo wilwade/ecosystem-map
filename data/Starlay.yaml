@@ -1,0 +1,27 @@
+name: Starlay
+category:
+  - DeFi
+  - EVM
+description: a protocol for secure and innovative lending
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Parachain
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://starlay.finance/
+  twitter: starlay_fi
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 80112
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 1054
+  app_downloads: []

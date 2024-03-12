@@ -1,0 +1,36 @@
+name: Subwallet
+category:
+  - Wallet
+  - Privacy
+  - NFT
+description: Non-custodial mobile wallet app w desktop extension
+readiness:
+  business: Scaling/Alliance
+  technology: In production
+target_audience:
+  - Individuals
+  - Startup
+  - Personal investors
+  - Institutional investors
+  - Community DAO
+layer: []
+web:
+  logo: Subwallet.jpg
+  site: https://subwallet.app
+  twitter: subwalletapp
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 30937
+    - date: 2022-12-31
+      value: 5500
+  youtube:
+    - date: 2023-12-31
+      value: 514
+  github:
+    - date: 2023-12-31
+      value: 33
+  blog: []
+  app_downloads:
+    - date: 2023-12-31
+      value: 90000

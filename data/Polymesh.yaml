@@ -1,0 +1,36 @@
+name: Polymesh
+category:
+  - DeFi
+  - Wallet
+description: institutional–grade permissioned blockchain built specifically for
+  regulated assets
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Startup
+  - Established corp
+  - Governmental org
+layer:
+  - Layer-1
+  - Layer-4
+web:
+  logo: default.png
+  site: https://polymesh.network
+  twitter: PolymeshNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 10408
+    - date: 2022-12-31
+      value: 6100
+  youtube:
+    - date: 2023-12-31
+      value: 5000
+  github:
+    - date: 2023-12-31
+      value: 134
+  blog:
+    - date: 2023-12-31
+      value: 3700
+  app_downloads: []

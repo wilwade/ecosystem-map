@@ -1,0 +1,35 @@
+name: Polkadex
+category:
+  - Exchange
+  - DeFi
+description: non-custodial orderbook-based cryptocurrency exchange
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Institutional investors
+  - Personal investors
+  - Individuals
+  - Startup
+layer:
+  - Layer-1
+web:
+  logo: Polkadex.jpg
+  site: https://polkadex.trade/
+  twitter: polkadex
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 62186
+    - date: 2022-12-31
+      value: 64200
+  youtube:
+    - date: 2023-12-31
+      value: 1900
+  github:
+    - date: 2023-12-31
+      value: 239
+  blog:
+    - date: 2023-12-31
+      value: 4400
+  app_downloads: []

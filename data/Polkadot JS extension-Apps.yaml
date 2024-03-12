@@ -1,0 +1,22 @@
+name: Polkadot JS extension/Apps
+category:
+  - Infra
+description: browser extension for managing Polkadot and Substrate network accounts
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Dev teams
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: https://github.com/polkadot-js
+metrics:
+  twitter: []
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 1600
+  blog: []
+  app_downloads: []

@@ -1,0 +1,42 @@
+name: SORA
+category:
+  - DeFi
+  - Wallet
+  - Bridge
+  - Game
+description: level-1 blockchain for Defi with bridges, swap and wallet
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+  - Startup
+  - Personal investors
+  - Institutional investors
+  - Community DAO
+  - Dev teams
+layer:
+  - Layer-1
+  - Layer-3
+web:
+  logo: SORA.jpg
+  site: https://sora.org/
+  twitter: sora_xor
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 37180
+    - date: 2022-12-31
+      value: 32500
+  youtube:
+    - date: 2023-12-31
+      value: 2100
+  github:
+    - date: 2023-12-31
+      value: 6
+  blog:
+    - date: 2023-12-31
+      value: 1800
+  app_downloads:
+    - date: 2023-12-31
+      value: 100000

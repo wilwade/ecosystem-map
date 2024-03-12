@@ -1,0 +1,29 @@
+name: Polkagate
+category:
+  - Wallet
+description: Non-custodial browser extension wallet
+readiness:
+  business: Business concept/low adoption
+  technology: In production
+target_audience:
+  - Individuals
+  - Personal investors
+  - Startup
+  - Institutional investors
+layer: []
+web:
+  logo: Polkagate.jpg
+  site: https://polkagate.xyz/
+  twitter: PolkaGate
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 471
+    - date: 2022-12-31
+      value: 28
+  youtube: []
+  github: []
+  blog: []
+  app_downloads:
+    - date: 2023-12-31
+      value: 1000

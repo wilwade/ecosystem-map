@@ -1,0 +1,35 @@
+name: web3Go
+category:
+  - Data
+  - Analytics
+  - API
+description: open data analytics and service platform, identity management,
+  dashboards and data APIs
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer:
+  - Layer-2
+web:
+  logo: web3Go.jpg
+  site: https://web3go.xyz/#/home/main
+  twitter: Web3Go
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 87911
+    - date: 2022-12-31
+      value: 30900
+  youtube:
+    - date: 2023-12-31
+      value: 1600
+  github:
+    - date: 2023-12-31
+      value: 10
+  blog:
+    - date: 2023-12-31
+      value: 7031
+  app_downloads: []

@@ -1,0 +1,37 @@
+name: Robonomics
+category:
+  - Oracle
+  - Infra
+  - NFT
+  - Smart Contracts
+description: IoT platform for connecting robotics under Polkadot and Ethereum control
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+  - Startup
+  - Research institute
+layer:
+  - Layer-1
+  - Layer-3
+web:
+  logo: Robonomics.jpg
+  site: https://robonomics.network
+  twitter: AIRA_Robonomics
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 28951
+    - date: 2022-12-31
+      value: 28700
+  youtube:
+    - date: 2023-12-31
+      value: 2000
+  github:
+    - date: 2023-12-31
+      value: 205
+  blog:
+    - date: 2023-12-31
+      value: 288
+  app_downloads: []

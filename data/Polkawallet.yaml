@@ -1,0 +1,32 @@
+name: Polkawallet
+category:
+  - Wallet
+description: Non-custodial mobile wallet app
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Individuals
+  - Startup
+  - Personal investors
+  - Institutional investors
+  - Community DAO
+layer: []
+web:
+  logo: default.png
+  site: https://polkawallet.io
+  twitter: polkawallet
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 11289
+    - date: 2022-12-31
+      value: 11700
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 124
+  blog: []
+  app_downloads:
+    - date: 2023-12-31
+      value: 100000

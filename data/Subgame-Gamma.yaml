@@ -1,0 +1,26 @@
+name: Subgame/Gamma
+category:
+  - Game
+description: Game and Payment Module Engine Polkadot Parachain for Game Developers
+readiness:
+  business: Business concept/low adoption
+  technology: In research
+target_audience:
+  - Individuals
+layer:
+  - Layer-1
+  - Layer-3
+web:
+  logo: default.png
+  site: https://www.subgame.org/
+  twitter: SubGame_Network
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 16407
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 473
+  app_downloads: []

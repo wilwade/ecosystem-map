@@ -1,0 +1,37 @@
+name: Unique network/Quartz
+category:
+  - NFT
+  - Game
+  - Marketplace
+description: blockchain for marketplaces, games and dApps, NFT focused.
+  marketplace supports next-generation NFT Utility tools for creators
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Community DAO
+  - Individuals
+  - Startup
+  - Dev teams
+layer:
+  - Layer-3
+web:
+  logo: Unique network-Quartz.jpg
+  site: https://unique.network
+  twitter: Unique_NFTchain
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 35709
+    - date: 2022-12-31
+      value: 35500
+  youtube:
+    - date: 2023-12-31
+      value: 1380
+  github:
+    - date: 2023-12-31
+      value: 111
+  blog:
+    - date: 2023-12-31
+      value: 704
+  app_downloads: []

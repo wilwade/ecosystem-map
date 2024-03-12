@@ -1,0 +1,26 @@
+name: PolkaEx
+category:
+  - Exchange
+  - DeFi
+description: A cross-chain Dex and Launchpad on Polkadot with higher TPS and
+  lower transaction fees
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Institutional investors
+  - Personal investors
+layer:
+  - Layer-2
+web:
+  logo: PolkaEx.jpg
+  site: https://www.polkaex.io
+  twitter: PolkaExOfficial
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 21541
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

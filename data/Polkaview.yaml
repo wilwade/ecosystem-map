@@ -1,0 +1,22 @@
+name: Polkaview
+category:
+  - Indexer
+  - Analytics
+description: live, low-latency, metrics & historical charts across multiple
+  Polkadot-based chains
+readiness: {}
+target_audience:
+  - Dev teams
+layer: []
+web:
+  logo: default.png
+  site: https://polkaview.io/
+  twitter: PolkaViewIO
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 107
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

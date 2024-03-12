@@ -1,0 +1,21 @@
+name: SubIdentity
+category:
+  - Infra
+description: Identity directory web app and code
+readiness:
+  technology: In production
+target_audience:
+  - Dev teams
+layer:
+  - Layer-4
+web:
+  logo: default.png
+  site: https://github.com/TDSoftware/subidentity-webapp
+metrics:
+  twitter: []
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 2
+  blog: []
+  app_downloads: []

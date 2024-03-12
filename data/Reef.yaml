@@ -1,0 +1,39 @@
+name: Reef
+category:
+  - DeFi
+  - NFT
+  - EVM
+  - Game
+  - Smart Contracts
+  - Bridge
+description: EVM compatible blockchain for DeFi
+readiness:
+  business: Scaling/Alliance
+  technology: In production
+target_audience:
+  - Startup
+  - Personal investors
+layer:
+  - Layer-1
+web:
+  logo: Reef.jpg
+  site: https://reef.io/
+  twitter: Reef_Chain
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 234217
+    - date: 2022-12-31
+      value: 236000
+  youtube:
+    - date: 2023-12-31
+      value: 7260
+  github:
+    - date: 2023-12-31
+      value: 142
+  blog:
+    - date: 2023-12-31
+      value: 6246
+  app_downloads:
+    - date: 2023-12-31
+      value: 10000

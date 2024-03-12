@@ -1,0 +1,23 @@
+name: The Great Escape
+category:
+  - EVM
+  - Game
+description: Game - Race with your Ape to collect fruits and kill enemies
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Individuals
+layer: []
+web:
+  logo: The Great Escape.jpg
+  site: https://www.playtge.com/
+  twitter: PlayTGE
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 5289
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

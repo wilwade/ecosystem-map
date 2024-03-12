@@ -1,0 +1,24 @@
+name: Yieldbay
+category:
+  - DeFi
+  - Aggregator
+description: Yield farming and DeFi hub
+readiness:
+  business: Business concept/low adoption
+  technology: Validated POC / testnet
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer: []
+web:
+  logo: default.png
+  site: https://yieldbay.io/
+  twitter: yield_bay
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 1089
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

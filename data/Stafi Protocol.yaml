@@ -1,0 +1,36 @@
+name: Stafi Protocol
+category:
+  - DeFi
+  - Exchange
+  - DAO
+description: DeFi protocol built for staked assets
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Personal investors
+  - Dev teams
+  - Startup
+  - Institutional investors
+layer:
+  - Layer-1
+web:
+  logo: Stafi Protocol.jpg
+  site: https://www.stafi.io/
+  twitter: StaFi_Protocol
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 43600
+    - date: 2022-12-31
+      value: 40500
+  youtube:
+    - date: 2023-12-31
+      value: 51
+  github:
+    - date: 2023-12-31
+      value: 46
+  blog:
+    - date: 2023-12-31
+      value: 3982
+  app_downloads: []

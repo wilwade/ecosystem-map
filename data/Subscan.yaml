@@ -1,0 +1,29 @@
+name: Subscan
+category:
+  - Infra
+  - Indexer
+  - EVM
+  - API
+description: blockchain explorer, API
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Dev teams
+layer: []
+web:
+  logo: Subscan.jpg
+  site: http://subscan.io
+  twitter: subscan_io
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 15406
+    - date: 2022-12-31
+      value: 14600
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 95
+  app_downloads: []

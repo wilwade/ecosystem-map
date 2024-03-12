@@ -1,0 +1,31 @@
+name: Zeitgeist
+category:
+  - Data
+description: Prediction markets protocol
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Community DAO
+  - Personal investors
+  - Individuals
+layer:
+  - Layer-1
+web:
+  logo: Zeitgeist.jpg
+  site: https://zeitgeist.pm
+  twitter: ZeitgeistPM
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 27200
+    - date: 2022-12-31
+      value: 26900
+  youtube:
+    - date: 2023-12-31
+      value: 576
+  github:
+    - date: 2023-12-31
+      value: 162
+  blog: []
+  app_downloads: []

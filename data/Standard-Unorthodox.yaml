@@ -1,0 +1,30 @@
+name: Standard/Unorthodox
+category:
+  - Wallet
+  - Exchange
+  - DeFi
+  - Dapp
+description: all-in-one DeFi app offering trading
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer: []
+web:
+  logo: default.png
+  site: https://www.standardweb3.com/
+  twitter: standardweb3
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 65800
+  youtube:
+    - date: 2023-12-31
+      value: 57
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 233
+  app_downloads: []

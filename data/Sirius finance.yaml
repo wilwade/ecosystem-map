@@ -1,0 +1,30 @@
+name: Sirius finance
+category:
+  - DeFi
+  - DAO
+  - Smart Contracts
+description: stablecoin AMM infrastructure on Astar Network
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: https://www.sirius.finance/
+  twitter: Sirius_Finance
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 41526
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 6
+  blog:
+    - date: 2023-12-31
+      value: 251
+  app_downloads: []

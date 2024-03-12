@@ -1,0 +1,35 @@
+name: Stylo
+category:
+  - Wallet
+  - Dapp
+  - EVM
+description: non-custodial cold offline mobile wallet for Polkadot, Kusama and
+  Substrate based chains or Ethereum
+readiness:
+  business: Business concept/low adoption
+  technology: In production
+target_audience:
+  - Personal investors
+  - Institutional investors
+  - Community DAO
+  - Individuals
+  - Startup
+layer: []
+web:
+  logo: default.png
+  site: https://stylo-app.com/
+  twitter: app_stylo
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 163
+    - date: 2022-12-31
+      value: 117
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 43
+  blog: []
+  app_downloads:
+    - date: 2023-12-31
+      value: 100

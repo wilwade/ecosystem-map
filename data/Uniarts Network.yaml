@@ -1,0 +1,25 @@
+name: Uniarts Network
+category:
+  - NFT
+  - EVM
+description: UniArts is a multi-network NFT ecosystem with substrate developed
+  main-net as well as EVMs based smart contracts for NFT infrastructures, it
+  also provides crowd voting incentives, DAO curation and art grant to help
+  better achieve democratization of art
+readiness:
+  technology: In research
+target_audience: []
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://uniarts.network/
+  twitter: UniartsNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 29846
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

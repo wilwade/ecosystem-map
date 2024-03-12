@@ -1,0 +1,32 @@
+name: Vara
+category:
+  - DeFi
+  - Game
+  - DAO
+  - NFT
+description: Build, test and run your own dApps at warp speed with Web3’s
+  highest-performing layer-1 decentralized network.
+readiness:
+  business: Business concept/low adoption
+  technology: In production
+target_audience:
+  - Dev teams
+  - Startup
+layer:
+  - Layer-1
+web:
+  logo: Vara.jpg
+  site: https://vara.network/
+  twitter: VaraNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 66036
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 7
+  blog:
+    - date: 2023-12-31
+      value: 3801
+  app_downloads: []

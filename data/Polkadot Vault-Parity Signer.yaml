@@ -1,0 +1,27 @@
+name: Polkadot Vault/Parity Signer
+category:
+  - Wallet
+description: non-custodial cold secure mobile wallet
+readiness:
+  business: Business concept/low adoption
+  technology: In production
+target_audience:
+  - Individuals
+  - Startup
+  - Personal investors
+  - Institutional investors
+  - Community DAO
+layer: []
+web:
+  logo: default.png
+  site: https://signer.parity.io/
+metrics:
+  twitter: []
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 462
+  blog: []
+  app_downloads:
+    - date: 2023-12-31
+      value: 10000
