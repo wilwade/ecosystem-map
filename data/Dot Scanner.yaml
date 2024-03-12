@@ -1,0 +1,22 @@
+name: Dot Scanner
+category:
+  - Infra
+description: blockchain explorer
+readiness: {}
+target_audience:
+  - Dev teams
+layer: []
+web:
+  logo: default.png
+  site: https://dotscanner.com/
+  twitter: TheDotScanner
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 62
+    - date: 2022-12-31
+      value: 55
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

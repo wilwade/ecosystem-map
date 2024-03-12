@@ -1,0 +1,27 @@
+name: Beatport
+category:
+  - Marketplace
+  - NFT
+  - Social
+description: marketplace exploring the future of electronic music built on
+  Polkadot’s parachain Aventus, an enterprise-grade blockchain which is a layer
+  1 (parachain) on Polkadot.
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Individuals
+  - Established corp
+layer: []
+web:
+  logo: default.png
+  site: https://beatport.io/
+  twitter: btprtio
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 1078
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

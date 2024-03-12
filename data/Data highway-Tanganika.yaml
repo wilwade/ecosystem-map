@@ -1,0 +1,33 @@
+name: Data highway/Tanganika
+category:
+  - Oracle
+  - NFT
+  - Marketplace
+  - Data
+description: a decentralized Web3 organization specializing in the gathering and
+  trading of Internet of Things (IoT) Data NFTs and F-NFTs. DataHighway is
+  currently building an Inter-Chain Data Marketplace
+readiness:
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://www.datahighway.com/
+  twitter: DataHighway_DHX
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 6074
+    - date: 2022-12-31
+      value: 12500
+  youtube:
+    - date: 2023-12-31
+      value: 109
+  github:
+    - date: 2023-12-31
+      value: 50
+  blog: []
+  app_downloads: []

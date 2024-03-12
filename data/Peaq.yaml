@@ -1,0 +1,35 @@
+name: Peaq
+category:
+  - Dapp
+  - Smart Contracts
+  - Oracle
+description: build decentralized applications (dApps) for vehicles, robots and devices
+readiness:
+  business: Business concept/low adoption
+  technology: In production
+target_audience:
+  - Established corp
+  - Startup
+layer:
+  - Layer-3
+  - Layer-1
+web:
+  logo: Peaq.jpg
+  site: https://www.peaq.network/
+  twitter: peaqnetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 58834
+    - date: 2022-12-31
+      value: 39400
+  youtube:
+    - date: 2023-12-31
+      value: 142
+  github:
+    - date: 2023-12-31
+      value: 6
+  blog:
+    - date: 2023-12-31
+      value: 30
+  app_downloads: []

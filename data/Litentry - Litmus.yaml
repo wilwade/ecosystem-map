@@ -1,0 +1,36 @@
+name: Litentry / Litmus
+category:
+  - Data
+  - Privacy
+  - Aggregator
+description: decentralized identity aggregator
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Individuals
+  - Established corp
+layer:
+  - Layer-1
+  - Layer-4
+web:
+  logo: Litentry - Litmus.jpg
+  site: https://litentry.com/
+  twitter: litentry
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 80290
+    - date: 2022-12-31
+      value: 70700
+  youtube:
+    - date: 2023-12-31
+      value: 803
+  github:
+    - date: 2023-12-31
+      value: 38
+  blog:
+    - date: 2023-12-31
+      value: 4905
+  app_downloads: []

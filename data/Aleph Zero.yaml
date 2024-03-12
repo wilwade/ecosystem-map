@@ -1,0 +1,36 @@
+name: Aleph Zero
+category:
+  - Privacy
+  - Smart Contracts
+  - Wallet
+description: Public blockchain
+readiness:
+  business: Scaling/Alliance
+  technology: In production
+target_audience:
+  - Established corp
+  - Institutional investors
+layer:
+  - Layer-1
+web:
+  logo: Aleph Zero.jpg
+  site: https://alephzero.org/
+  twitter: Aleph__Zero
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 159723
+    - date: 2022-12-31
+      value: 109500
+  youtube:
+    - date: 2023-12-31
+      value: 1890
+  github:
+    - date: 2023-12-31
+      value: 94
+  blog:
+    - date: 2023-12-31
+      value: 182
+  app_downloads:
+    - date: 2023-12-31
+      value: 0

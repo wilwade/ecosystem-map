@@ -1,0 +1,30 @@
+name: Chainflip Labs
+category:
+  - DeFi
+  - Exchange
+description: protocol for cross chain swaps, DEX
+readiness:
+  technology: Validated POC / testnet
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer:
+  - Layer-3
+web:
+  logo: chainflip.png
+  site: https://chainflip.io/
+  twitter: Chainflip
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 62751
+    - date: 2022-12-31
+      value: 17300
+  youtube:
+    - date: 2023-12-31
+      value: 156
+  github:
+    - date: 2023-12-31
+      value: 11
+  blog: []
+  app_downloads: []

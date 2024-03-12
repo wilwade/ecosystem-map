@@ -1,0 +1,34 @@
+name: GameDAO
+category:
+  - Game
+  - DeFi
+  - DAO
+  - NFT
+description: enables the gaming community to collaborate, fund and own high quality games
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Startup
+  - Dev teams
+  - Personal investors
+  - Individuals
+  - Community DAO
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://gamedao.co/
+  twitter: gameDAOco
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 5094
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 13
+  blog:
+    - date: 2023-12-31
+      value: 467
+  app_downloads: []

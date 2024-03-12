@@ -1,0 +1,33 @@
+name: Ares Protocol/Mars
+category:
+  - Oracle
+  - Indexer
+description: decentralized cross-chain oracle
+readiness:
+  business: Scaling/Alliance
+  technology: In development
+target_audience:
+  - Dev teams
+  - Startup
+layer:
+  - Layer-1
+web:
+  logo: Ares Protocol-Mars.jpg
+  site: https://www.aresprotocol.io/
+  twitter: AresProtocolLab
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 29822
+  youtube:
+    - date: 2023-12-31
+      value: 125
+  github:
+    - date: 2023-12-31
+      value: 54
+  blog:
+    - date: 2023-12-31
+      value: 2650
+  app_downloads:
+    - date: 2023-12-31
+      value: 0

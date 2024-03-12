@@ -1,0 +1,42 @@
+name: InvArch /Tinkernet
+category:
+  - DeFi
+  - NFT
+  - Smart Contracts
+  - DAO
+  - Data
+description: Multichain Account abstraction hub, optimized for decentralized
+  operations & financial management spanning across every blockchain.
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Community DAO
+  - Established corp
+  - Research institute
+  - Governmental org
+layer:
+  - Layer-1
+  - Layer-2
+  - Layer-3
+web:
+  logo: InvArch -Tinkernet.jpg
+  site: https://invarch.network/
+  twitter: InvArchNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 17046
+    - date: 2022-12-31
+      value: 10400
+  youtube:
+    - date: 2023-12-31
+      value: 236
+  github:
+    - date: 2023-12-31
+      value: 27
+  blog:
+    - date: 2023-12-31
+      value: 1000
+  app_downloads: []

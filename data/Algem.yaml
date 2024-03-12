@@ -1,0 +1,27 @@
+name: Algem
+category:
+  - DeFi
+  - Dapp
+description: liquid staking DeFi dApp on top of Astar Network
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Parachain
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: https://www.algem.io/
+  twitter: Algem_io
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 8612
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 4
+  blog: []
+  app_downloads: []

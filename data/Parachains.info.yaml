@@ -1,0 +1,29 @@
+name: Parachains.info
+category:
+  - Indexer
+  - Analytics
+description: blockchain explorer
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Dev teams
+  - Startup
+  - Individuals
+layer: []
+web:
+  logo: Parachains.info.jpg
+  site: https://parachains.info/
+  twitter: parachains
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 3715
+    - date: 2022-12-31
+      value: 3400
+  youtube:
+    - date: 2023-12-31
+      value: 3500
+  github: []
+  blog: []
+  app_downloads: []

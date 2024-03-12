@@ -1,0 +1,28 @@
+name: Bluez
+category:
+  - NFT
+  - Marketplace
+  - API
+description: The community driven NFT marketplace for Astar Network
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Startup
+  - Community DAO
+  - Individuals
+layer: []
+web:
+  logo: default.png
+  site: https://bluez.app/
+  twitter: BluezNFT
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 1059
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 17
+  app_downloads: []

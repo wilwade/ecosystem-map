@@ -1,0 +1,35 @@
+name: Darwinia Network/Crab
+category:
+  - EVM
+  - Dapp
+description: community-managed technology and service provider, concentrating on
+  powering the cross-chain functionalities of decentralized apps
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Dev teams
+  - Community DAO
+  - Personal investors
+  - Individuals
+layer:
+  - Layer-1
+web:
+  logo: Darwinia Network-Crab.jpg
+  site: https://darwinia.network/
+  twitter: DarwiniaNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 67540
+    - date: 2022-12-31
+      value: 72600
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 222
+  blog:
+    - date: 2023-12-31
+      value: 4400
+  app_downloads: []

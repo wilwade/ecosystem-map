@@ -1,0 +1,25 @@
+name: Bittensor
+category:
+  - Data
+description: protocol for ML and AI
+readiness:
+  business: Business concept/low adoption
+target_audience:
+  - Research institute
+  - Individuals
+layer:
+  - Layer-2
+web:
+  logo: default.png
+  site: https://bittensor.com/
+  twitter: bittensor_
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 13975
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 576
+  blog: []
+  app_downloads: []

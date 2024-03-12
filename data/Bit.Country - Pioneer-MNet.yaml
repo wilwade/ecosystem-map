@@ -1,0 +1,33 @@
+name: Bit.Country / Pioneer/MNet
+category:
+  - NFT
+  - Game
+description: platform designed to create metaverse-inspired communities
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Established corp
+layer:
+  - Layer-3
+web:
+  logo: Bit.Country - Pioneer/MNet.jpg
+  site: https://bit.country/
+  twitter: BitDotCountry
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 135818
+    - date: 2022-12-31
+      value: 134100
+  youtube:
+    - date: 2023-12-31
+      value: 2320
+  github:
+    - date: 2023-12-31
+      value: 143
+  blog:
+    - date: 2023-12-31
+      value: 8529
+  app_downloads: []

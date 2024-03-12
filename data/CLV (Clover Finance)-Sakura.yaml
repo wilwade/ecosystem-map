@@ -1,0 +1,40 @@
+name: CLV (Clover Finance)/Sakura
+category:
+  - Wallet
+  - EVM
+  - DeFi
+  - NFT
+  - Dapp
+description: Smart contract platform, Multi-chain wallet and Chrome extension
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Personal investors
+  - Startup
+  - Dev teams
+  - Institutional investors
+layer:
+  - Layer-3
+web:
+  logo: CLV (Clover Finance)-Sakura.jpg
+  site: http://clv.org
+  twitter: clv_org
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 146133
+    - date: 2022-12-31
+      value: 149800
+  youtube:
+    - date: 2023-12-31
+      value: 589
+  github:
+    - date: 2023-12-31
+      value: 78
+  blog:
+    - date: 2023-12-31
+      value: 477
+  app_downloads:
+    - date: 2023-12-31
+      value: 60000

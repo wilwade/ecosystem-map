@@ -1,0 +1,31 @@
+name: Beamswap
+category:
+  - DeFi
+  - Exchange
+  - EVM
+  - Bridge
+  - Analytics
+description: Decentralized exchange (DEX) with an automated market maker (AMM),
+  providing liquidity and peer-to-peer transactions, built on the Moonbeam
+  network.
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Parachain
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer: []
+web:
+  logo: default.png
+  site: https://beamswap.io/
+  twitter: Beamswapio
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 65743
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 16711
+  app_downloads: []

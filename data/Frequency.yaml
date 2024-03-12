@@ -1,0 +1,33 @@
+name: Frequency
+category:
+  - Social
+description: Layer 1 blockchain enabling builders to deliver decentralized social apps
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Dev teams
+  - Established corp
+layer:
+  - Layer-3
+  - Layer-4
+  - Layer-1
+web:
+  logo: default.png
+  site: https://www.frequency.xyz/
+  twitter: one_frequency
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 1554
+    - date: 2022-12-31
+      value: 560
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 45
+  blog:
+    - date: 2023-12-31
+      value: 29
+  app_downloads: []

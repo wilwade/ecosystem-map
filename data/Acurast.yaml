@@ -1,0 +1,33 @@
+name: Acurast
+category:
+  - Oracle
+  - Infra
+  - Data
+description: Decentralized Serverless Cloud protocol
+readiness:
+  technology: Validated POC / testnet
+target_audience:
+  - Dev teams
+  - Startup
+layer:
+  - Layer-1
+web:
+  logo: Acurast.jpg
+  site: https://acurast.com/
+  twitter: Acurast
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 18227
+  youtube:
+    - date: 2023-12-31
+      value: 71
+  github:
+    - date: 2023-12-31
+      value: 3
+  blog:
+    - date: 2023-12-31
+      value: 80
+  app_downloads:
+    - date: 2023-12-31
+      value: 0

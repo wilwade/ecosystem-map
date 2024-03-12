@@ -1,0 +1,27 @@
+name: Arthswap
+category:
+  - DeFi
+description: Defi services like swap, pools, staking on Astar
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Parachain
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer: []
+web:
+  logo: default.png
+  site: https://www.arthswap.org
+  twitter: arthswap
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 96638
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 11
+  blog:
+    - date: 2023-12-31
+      value: 2958
+  app_downloads: []

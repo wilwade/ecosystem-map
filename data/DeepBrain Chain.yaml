@@ -1,0 +1,30 @@
+name: DeepBrain Chain
+category:
+  - Infra
+description: high-performance computing network, blockchain mainnet and GPU
+  computing mainnet.
+readiness:
+  business: Scaling/Alliance
+  technology: In production
+target_audience:
+  - Established corp
+  - Startup
+  - Research institute
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://www.deepbrainchain.org/
+  twitter: DeepBrainChain
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 53353
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 21
+  blog:
+    - date: 2023-12-31
+      value: 459
+  app_downloads: []

@@ -1,0 +1,32 @@
+name: Dock
+category:
+  - Wallet
+  - Privacy
+description: Verifiable credentials tools, certificates, wallet, web3 ID and auth0
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Startup
+  - Dev teams
+  - Established corp
+layer:
+  - Layer-4
+web:
+  logo: default.png
+  site: https://www.dock.io
+  twitter: docknetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 60682
+    - date: 2022-12-31
+      value: 65300
+  youtube:
+    - date: 2023-12-31
+      value: 257
+  github:
+    - date: 2023-12-31
+      value: 86
+  blog: []
+  app_downloads: []

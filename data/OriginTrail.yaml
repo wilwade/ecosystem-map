@@ -1,0 +1,35 @@
+name: OriginTrail
+category:
+  - Data
+description: Decentralized Knowledge Graph, decentralized datasets verifier and provider
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+  - Research institute
+  - Governmental org
+  - Startup
+  - Individuals
+layer:
+  - Layer-2
+web:
+  logo: OriginTrail.jpg
+  site: https://origintrail.io/
+  twitter: origin_trail
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 48461
+    - date: 2022-12-31
+      value: 44400
+  youtube:
+    - date: 2023-12-31
+      value: 8400
+  github:
+    - date: 2023-12-31
+      value: 164
+  blog:
+    - date: 2023-12-31
+      value: 1700
+  app_downloads: []

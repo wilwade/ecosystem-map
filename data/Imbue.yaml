@@ -1,0 +1,36 @@
+name: Imbue
+category:
+  - Marketplace
+  - Social
+  - EVM
+description: a multichain platform providing a secure, reliable, and safe
+  freelance marketplace
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Individuals
+  - Established corp
+layer:
+  - Layer-4
+web:
+  logo: Imbue.jpg
+  site: https://www.imbue.network/
+  twitter: ImbueNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 3171
+    - date: 2022-12-31
+      value: 2000
+  youtube:
+    - date: 2023-12-31
+      value: 73
+  github:
+    - date: 2023-12-31
+      value: 14
+  blog:
+    - date: 2023-12-31
+      value: 90
+  app_downloads: []

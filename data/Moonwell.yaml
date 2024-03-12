@@ -1,0 +1,27 @@
+name: Moonwell
+category:
+  - EVM
+  - DeFi
+  - Dapp
+description: Lending, borrowing, and DeFi protocol built on Moonbeam and Moonriver
+readiness:
+  technology: Connected to Parachain
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://moonwell.fi/
+  twitter: MoonwellDeFi
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 31829
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 7
+  blog: []
+  app_downloads: []

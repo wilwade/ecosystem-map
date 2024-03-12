@@ -1,0 +1,30 @@
+name: Coinversation
+category:
+  - Exchange
+  - DeFi
+  - NFT
+description: synthetic asset issuance protocol and decentralised contract trading exchange
+readiness:
+  technology: Connected to Relay chain
+target_audience:
+  - Personal investors
+layer:
+  - Layer-1
+web:
+  logo: Coinversation.jpg
+  site: https://www.coinversation.io/
+  twitter: Coinversation_
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 27724
+    - date: 2022-12-31
+      value: 30592
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 5
+  blog:
+    - date: 2023-12-31
+      value: 2400
+  app_downloads: []

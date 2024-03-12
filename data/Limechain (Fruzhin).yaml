@@ -1,0 +1,32 @@
+name: Limechain (Fruzhin)
+category:
+  - DeFi
+  - NFT
+  - DAO
+  - Dapp
+  - Smart Contracts
+description: Consulting and developing infrastructure, host implementation in Java
+readiness:
+  business: Business concept/low adoption
+  technology: In development
+target_audience:
+  - Startup
+  - Established corp
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://limechain.tech/
+  twitter: LimeChainHQ
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 3314
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 26
+  blog:
+    - date: 2023-12-31
+      value: 6853
+  app_downloads: []

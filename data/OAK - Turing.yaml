@@ -1,0 +1,37 @@
+name: OAK / Turing
+category:
+  - DeFi
+  - Smart Contracts
+  - EVM
+  - Marketplace
+  - Dapp
+description: payment automation - event-driven smart contract VM, autonomous
+  transactions, and on-chain scheduler
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Personal investors
+  - Startup
+  - Established corp
+  - Community DAO
+layer:
+  - Layer-1
+web:
+  logo: OAK - Turing.png
+  site: https://oak.tech/
+  twitter: oak_network
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 30035
+    - date: 2022-12-31
+      value: 15800
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 35
+  blog:
+    - date: 2023-12-31
+      value: 40
+  app_downloads: []

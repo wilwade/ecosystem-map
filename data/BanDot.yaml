@@ -1,0 +1,22 @@
+name: BanDot
+category:
+  - DeFi
+description: Cross-chain smart token swap, unsecured credit lending, liquidity pool
+readiness:
+  business: Business concept/low adoption
+target_audience: []
+layer: []
+web:
+  logo: BanDot.jpg
+  site: ""
+  twitter: hellobandot
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 10526
+  youtube: []
+  github: []
+  blog: []
+  app_downloads:
+    - date: 2023-12-31
+      value: 0

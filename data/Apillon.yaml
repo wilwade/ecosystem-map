@@ -1,0 +1,37 @@
+name: Apillon
+category:
+  - Infra
+  - API
+description: unified API endpoints to web3 services
+readiness:
+  business: Verified in market/high adoption
+  technology: Validated POC / testnet
+target_audience:
+  - Startup
+  - Established corp
+  - Dev teams
+layer:
+  - Layer-4
+  - Layer-2
+web:
+  logo: Apillon.jpg
+  site: https://apillon.io
+  twitter: Apillon
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 42000
+    - date: 2022-12-31
+      value: 37700
+  youtube:
+    - date: 2023-12-31
+      value: 99
+  github:
+    - date: 2023-12-31
+      value: 8
+  blog:
+    - date: 2023-12-31
+      value: 306
+  app_downloads:
+    - date: 2023-12-31
+      value: 0

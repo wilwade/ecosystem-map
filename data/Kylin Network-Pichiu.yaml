@@ -1,0 +1,37 @@
+name: Kylin Network/Pichiu
+category:
+  - Oracle
+  - Data
+  - Analytics
+  - DeFi
+description: infra to build multi-purpose oracles, provide valid, reliable,
+  secure, cost-effective, and easily-coordinated data sources and data analytics
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Community DAO
+  - Dev teams
+layer:
+  - Layer-1
+web:
+  logo: Kylin Network-Pichiu.jpg
+  site: https://www.kylin.network/
+  twitter: Kylin_Network
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 76700
+    - date: 2022-12-31
+      value: 71800
+  youtube:
+    - date: 2023-12-31
+      value: 938
+  github:
+    - date: 2023-12-31
+      value: 41
+  blog:
+    - date: 2023-12-31
+      value: 3300
+  app_downloads: []

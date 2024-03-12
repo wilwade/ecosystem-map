@@ -1,0 +1,29 @@
+name: GM
+category:
+  - DAO
+description: DAO, tokens
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Individuals
+  - Personal investors
+  - Dev teams
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://www.gmordie.com
+  twitter: GmOrDie_
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 1826
+    - date: 2022-12-31
+      value: 2000
+  youtube:
+    - date: 2023-12-31
+      value: 25
+  github: []
+  blog: []
+  app_downloads: []

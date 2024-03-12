@@ -1,0 +1,34 @@
+name: Composable Finance / Picasso
+category:
+  - Bridge
+  - DeFi
+description: Bridges for DeFi
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Dev teams
+  - Startup
+  - Personal investors
+layer:
+  - Layer-1
+web:
+  logo: Composable Finance - Picasso.jpg
+  site: http://composable.finance
+  twitter: ComposableFin
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 32555
+    - date: 2022-12-31
+      value: 31300
+  youtube:
+    - date: 2023-12-31
+      value: 320
+  github:
+    - date: 2023-12-31
+      value: 67
+  blog:
+    - date: 2023-12-31
+      value: 1600
+  app_downloads: []

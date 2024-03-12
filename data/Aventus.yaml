@@ -1,0 +1,36 @@
+name: Aventus
+category:
+  - Wallet
+  - Validator provider
+  - API
+  - Indexer
+description: Solution for enterprise - wallet, staking, governance, block explorer, APIs
+readiness:
+  technology: Connected to Relay chain
+target_audience:
+  - Institutional investors
+  - Startup
+layer:
+  - Layer-2
+web:
+  logo: Aventus.jpg
+  site: https://aventus.io/
+  twitter: AventusNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 19936
+    - date: 2022-12-31
+      value: 19500
+  youtube:
+    - date: 2023-12-31
+      value: 249
+  github:
+    - date: 2023-12-31
+      value: 27
+  blog:
+    - date: 2023-12-31
+      value: 2800
+  app_downloads:
+    - date: 2023-12-31
+      value: 0

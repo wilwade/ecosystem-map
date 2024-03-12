@@ -1,0 +1,37 @@
+name: Ontology
+category:
+  - Wallet
+  - Data
+  - Privacy
+  - EVM
+description: Decentralized Identity Framework, reputation and metadata protocol, wallet
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Startup
+  - Established corp
+  - Individuals
+layer:
+  - Layer-4
+  - Layer-2
+web:
+  logo: Ontology.jpg
+  site: https://ont.io/
+  twitter: OntologyNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 223689
+    - date: 2022-12-31
+      value: 236000
+  youtube:
+    - date: 2023-12-31
+      value: 6000
+  github:
+    - date: 2023-12-31
+      value: 816
+  blog:
+    - date: 2023-12-31
+      value: 11700
+  app_downloads: []

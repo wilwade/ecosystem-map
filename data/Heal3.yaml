@@ -1,0 +1,27 @@
+name: Heal3
+category:
+  - Game
+  - EVM
+description: |-
+  web3 #MovetoEarn app with Game-Fi elements on 
+  @AstarNetwork
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Individuals
+layer: []
+web:
+  logo: default.png
+  site: https://heal3.com/
+  twitter: Heal3official
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 7924
+  youtube: []
+  github: []
+  blog: []
+  app_downloads:
+    - date: 2023-12-31
+      value: 5000

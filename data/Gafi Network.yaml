@@ -1,0 +1,27 @@
+name: Gafi Network
+category:
+  - EVM
+  - Game
+  - NFT
+description: Blockchain gaming platform
+readiness:
+  technology: In development
+target_audience:
+  - Startup
+  - Dev teams
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://gafi.network/
+  twitter: GafiNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 240
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 5
+  blog: []
+  app_downloads: []

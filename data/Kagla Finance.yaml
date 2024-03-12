@@ -1,0 +1,30 @@
+name: Kagla Finance
+category:
+  - DeFi
+  - Exchange
+  - Dapp
+description: native stable swap on Astar Network. a DEX that focuses on stablecoins.
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Parachain
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: https://kagla.finance/
+  twitter: kagla_fi
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 65600
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 2
+  blog:
+    - date: 2023-12-31
+      value: 785
+  app_downloads: []

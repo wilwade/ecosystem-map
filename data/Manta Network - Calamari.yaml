@@ -1,0 +1,37 @@
+name: Manta Network / Calamari
+category:
+  - EVM
+  - DeFi
+  - Smart Contracts
+  - Privacy
+description: privacy layer for the parachains
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Community DAO
+  - Dev teams
+  - Established corp
+layer:
+  - Layer-1
+  - Layer-2
+  - Layer-3
+web:
+  logo: Manta Network - Calamari.jpg
+  site: https://www.manta.network/
+  twitter: MantaNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 377100
+    - date: 2022-12-31
+      value: 74700
+  youtube:
+    - date: 2023-12-31
+      value: 586
+  github:
+    - date: 2023-12-31
+      value: 92
+  blog: []
+  app_downloads: []

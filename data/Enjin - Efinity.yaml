@@ -1,0 +1,42 @@
+name: Enjin / Efinity
+category:
+  - NFT
+  - Game
+  - Dapp
+  - Smart Contracts
+  - Wallet
+  - Marketplace
+  - Indexer
+description: infrastructure for NFT, Metaverse, games and apps. NFT marketplace
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Dev teams
+  - Individuals
+layer:
+  - Layer-3
+  - Layer-1
+web:
+  logo: Enjin - Efinity.jpg
+  site: https://enjin.io/products/efinity
+  twitter: enjin
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 511272
+    - date: 2022-12-31
+      value: 71700
+  youtube:
+    - date: 2023-12-31
+      value: 17800
+  github:
+    - date: 2023-12-31
+      value: 377
+  blog:
+    - date: 2023-12-31
+      value: 394000
+  app_downloads:
+    - date: 2023-12-31
+      value: 16200

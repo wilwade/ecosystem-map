@@ -1,0 +1,32 @@
+name: Equilibrium / Genshiro
+category:
+  - DeFi
+  - Exchange
+description: lending platform and a cross-chain DEX
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer: []
+web:
+  logo: Equilibrium - Genshiro.jpg
+  site: https://equilibrium.io/
+  twitter: EquilibriumDeFi
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 60146
+    - date: 2022-12-31
+      value: 62200
+  youtube:
+    - date: 2023-12-31
+      value: 1400
+  github:
+    - date: 2023-12-31
+      value: 21
+  blog:
+    - date: 2023-12-31
+      value: 4700
+  app_downloads: []

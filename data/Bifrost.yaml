@@ -1,0 +1,35 @@
+name: Bifrost
+category:
+  - DeFi
+  - Smart Contracts
+description: derivatives protocol that provides cross-chain liquidity for staked assets
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Personal investors
+layer:
+  - Layer-1
+web:
+  logo: Bifrost.jpg
+  site: https://bifrost.finance/
+  twitter: BifrostFinance
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 83870
+    - date: 2022-12-31
+      value: 80100
+  youtube:
+    - date: 2023-12-31
+      value: 504
+  github:
+    - date: 2023-12-31
+      value: 200
+  blog:
+    - date: 2023-12-31
+      value: 4060
+  app_downloads:
+    - date: 2023-12-31
+      value: 0

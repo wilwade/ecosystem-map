@@ -1,0 +1,36 @@
+name: Nodle
+category:
+  - Oracle
+  - Dapp
+  - Social
+description: Enabling BLE to connect IoT devices to the Internet at a low-cost
+  while maintaining privacy and security
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Individuals
+  - Startup
+layer:
+  - Layer-3
+  - Layer-4
+web:
+  logo: Nodle.jpg
+  site: https://www.nodle.com/
+  twitter: nodlenetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 53100
+    - date: 2022-12-31
+      value: 55900
+  youtube:
+    - date: 2023-12-31
+      value: 7400
+  github:
+    - date: 2023-12-31
+      value: 94
+  blog:
+    - date: 2023-12-31
+      value: 1200
+  app_downloads: []

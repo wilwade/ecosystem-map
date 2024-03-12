@@ -1,0 +1,35 @@
+name: Astar / Shiden
+category:
+  - Smart Contracts
+description: smart contract platform that supports multiple blockchains and virtual machines
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Personal investors
+  - Institutional investors
+layer:
+  - Layer-3
+web:
+  logo: Astar - Shiden.jpg
+  site: https://astar.network/
+  twitter: AstarNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 352994
+    - date: 2022-12-31
+      value: 360100
+  youtube:
+    - date: 2023-12-31
+      value: 4330
+  github:
+    - date: 2023-12-31
+      value: 678
+  blog:
+    - date: 2023-12-31
+      value: 7600
+  app_downloads:
+    - date: 2023-12-31
+      value: 0

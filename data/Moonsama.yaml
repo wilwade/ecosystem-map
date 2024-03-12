@@ -1,0 +1,27 @@
+name: Moonsama
+category:
+  - NFT
+  - Marketplace
+  - EVM
+  - Dapp
+description: Multi-chain protocol for NFT applications
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Startup
+  - Dev teams
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: https://moonsama.com/
+  twitter: MoonsamaNFT
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 28164
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

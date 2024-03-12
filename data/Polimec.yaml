@@ -1,0 +1,29 @@
+name: Polimec
+category:
+  - DeFi
+  - Aggregator
+description: fundraising in a decentralized, transparent, and regulatory compliant manner
+readiness:
+  business: Business concept/low adoption
+  technology: Validated POC / testnet
+target_audience:
+  - Startup
+  - Personal investors
+  - Institutional investors
+  - Individuals
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://www.polimec.org/
+  twitter: PolimecProtocol
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 15000
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 173
+  app_downloads: []

@@ -1,0 +1,33 @@
+name: Airgap
+category:
+  - Wallet
+description: non-custodial cold secure mobile wallet
+readiness:
+  technology: Validated POC / testnet
+target_audience:
+  - Personal investors
+  - Individuals
+layer:
+  - Layer-4
+web:
+  logo: Airgap.jpg
+  site: https://airgap.it
+  twitter: AirGap_it
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 6544
+    - date: 2022-12-31
+      value: 4700
+  youtube:
+    - date: 2023-12-31
+      value: 240
+  github:
+    - date: 2023-12-31
+      value: 384
+  blog:
+    - date: 2023-12-31
+      value: 284
+  app_downloads:
+    - date: 2023-12-31
+      value: 10000

@@ -1,0 +1,36 @@
+name: Crust Network/Crust shadow
+category:
+  - NFT
+  - Dapp
+  - EVM
+  - Data
+description: decentralized cloud storage provider - dapp hosting, nft storage, ipfs storage
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+  - Dev teams
+layer:
+  - Layer-1
+  - Layer-2
+web:
+  logo: Crust Network-Crust shadow.jpg
+  site: https://crust.network/
+  twitter: CrustNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 109980
+    - date: 2022-12-31
+      value: 107900
+  youtube:
+    - date: 2023-12-31
+      value: 1700
+  github:
+    - date: 2023-12-31
+      value: 402
+  blog:
+    - date: 2023-12-31
+      value: 3800
+  app_downloads: []

@@ -1,0 +1,35 @@
+name: Dora Factory
+category:
+  - DAO
+  - EVM
+description: The DAO-as-a-Service Infrastructure for Decentralized Governance
+  and Open Source Ventures
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Dev teams
+  - Community DAO
+layer:
+  - Layer-3
+web:
+  logo: Dora Factory.jpg
+  site: https://dorafactory.org/
+  twitter: DoraFactory
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 25219
+    - date: 2022-12-31
+      value: 22900
+  youtube:
+    - date: 2023-12-31
+      value: 21
+  github:
+    - date: 2023-12-31
+      value: 13
+  blog:
+    - date: 2023-12-31
+      value: 839
+  app_downloads: []

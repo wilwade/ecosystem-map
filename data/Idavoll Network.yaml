@@ -1,0 +1,25 @@
+name: Idavoll Network
+category:
+  - DAO
+description: cross-chain DAO platform
+readiness: {}
+target_audience:
+  - Community DAO
+  - Startup
+  - Institutional investors
+layer:
+  - Layer-4
+web:
+  logo: default.png
+  site: https://idavoll.network/
+  twitter: idavollDAO
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 17096
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 6
+  blog: []
+  app_downloads: []

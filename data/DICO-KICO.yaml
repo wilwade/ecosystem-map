@@ -1,0 +1,34 @@
+name: DICO/KICO
+category:
+  - DAO
+  - DeFi
+description: DAO + ICO + Swap. DICO is positioned as a parachain of
+  decentralized ICO+ exchange
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Community DAO
+  - Dev teams
+  - Startup
+  - Personal investors
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: ""
+  twitter: DICONetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 632
+    - date: 2022-12-31
+      value: 682
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 17
+  blog:
+    - date: 2023-12-31
+      value: 60
+  app_downloads: []

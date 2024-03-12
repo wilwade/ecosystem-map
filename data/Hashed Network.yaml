@@ -1,0 +1,26 @@
+name: Hashed Network
+category:
+  - Dapp
+  - Smart Contracts
+  - Privacy
+description: Platform for business use cases like tax credit marketplace, multisigs etc
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+layer:
+  - Layer-1
+  - Layer-4
+web:
+  logo: default.png
+  site: https://hashed.network/
+  twitter: HashedNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 879
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

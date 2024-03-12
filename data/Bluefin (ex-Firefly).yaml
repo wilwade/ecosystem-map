@@ -1,0 +1,27 @@
+name: Bluefin (ex-Firefly)
+category:
+  - Exchange
+description: orderbook-based derivatives exchange
+readiness:
+  business: Verified in market/high adoption
+  technology: In development
+target_audience:
+  - Personal investors
+  - Institutional investors
+layer: []
+web:
+  logo: default.png
+  site: https://bluefin.io/
+  twitter: bluefinapp
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 79307
+    - date: 2022-12-31
+      value: 77000
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 4
+  blog: []
+  app_downloads: []

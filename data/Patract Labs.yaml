@@ -1,0 +1,28 @@
+name: Patract Labs
+category:
+  - Smart Contracts
+description: Wasm smart contract development tools
+readiness:
+  technology: In development
+target_audience:
+  - Dev teams
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: https://www.patract.io/
+  twitter: PatractLabs
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 4176
+    - date: 2022-12-31
+      value: 4500
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 75
+  blog:
+    - date: 2023-12-31
+      value: 130
+  app_downloads: []

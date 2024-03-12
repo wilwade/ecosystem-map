@@ -1,0 +1,24 @@
+name: ICE/SNOW
+category: []
+description: EVM and Wasm compatible network
+readiness:
+  technology: Connected to Relay chain
+target_audience: []
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: ""
+  twitter: helloiconworld
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 10163
+    - date: 2022-12-31
+      value: 26900
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 10481
+  app_downloads: []

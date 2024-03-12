@@ -1,0 +1,35 @@
+name: Encointer
+category:
+  - Wallet
+  - Privacy
+  - DeFi
+description: cryptocurrency for universal basic income and self-sovereign
+  identity system, wallet
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Individuals
+  - Governmental org
+  - Community DAO
+layer:
+  - Layer-1
+  - Layer-4
+web:
+  logo: Encointer.jpg
+  site: https://encointer.org/
+  twitter: encointer
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 1532
+    - date: 2022-12-31
+      value: 1400
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 4
+  blog:
+    - date: 2023-12-31
+      value: 90
+  app_downloads: []

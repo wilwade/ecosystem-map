@@ -1,0 +1,35 @@
+name: Mangata
+category:
+  - Exchange
+  - EVM
+  - DeFi
+description: The infrastructure enabling native swaps between Ethereum and other
+  blockchains using multi-chain ZK rollup technology
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Institutional investors
+  - Personal investors
+layer:
+  - Layer-1
+web:
+  logo: Mangata.jpg
+  site: https://www.mangata.finance/
+  twitter: MangataFinance
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 23204
+    - date: 2022-12-31
+      value: 9200
+  youtube:
+    - date: 2023-12-31
+      value: 227
+  github:
+    - date: 2023-12-31
+      value: 65
+  blog:
+    - date: 2023-12-31
+      value: 107
+  app_downloads: []

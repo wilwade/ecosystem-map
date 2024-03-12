@@ -1,0 +1,22 @@
+name: Apexti/web3metrics
+category:
+  - Data
+  - Analytics
+  - Indexer
+description: infrastructure and indexing services
+readiness: {}
+target_audience:
+  - Dev teams
+layer: []
+web:
+  logo: default.png
+  site: https://www.apexti.com/
+  twitter: apexti
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 11
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

@@ -1,0 +1,30 @@
+name: Deeper Network
+category:
+  - Data
+  - Privacy
+description: security- and privacy-first network and devices
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Individuals
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://www.deeper.network/
+  twitter: deeper_network
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 49346
+  youtube:
+    - date: 2023-12-31
+      value: 6680
+  github:
+    - date: 2023-12-31
+      value: 136
+  blog:
+    - date: 2023-12-31
+      value: 5835
+  app_downloads: []

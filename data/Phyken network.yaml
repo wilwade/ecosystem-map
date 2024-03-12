@@ -1,0 +1,26 @@
+name: Phyken network
+category:
+  - DeFi
+  - Privacy
+description: Layer 1 blockchain and DeFi protocol for Green Real World Assets (GRWA)
+readiness:
+  business: Business concept/low adoption
+  technology: In research
+target_audience:
+  - Startup
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://phyken.network/
+  twitter: phyken_network
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 862
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 1
+  blog: []
+  app_downloads: []

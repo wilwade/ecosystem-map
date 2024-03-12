@@ -1,0 +1,22 @@
+name: Evrloot
+category:
+  - Game
+description: Game (dark fantasy, storytelling)
+readiness:
+  technology: In production
+target_audience:
+  - Individuals
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: https://evrloot.io/
+  twitter: EVRL00T
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 1755
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

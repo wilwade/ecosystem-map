@@ -1,0 +1,38 @@
+name: Kilt
+category:
+  - Privacy
+  - Oracle
+  - Data
+  - Wallet
+description: identity protocol for issuing self-sovereign, verifiable
+  credentials and decentralized identifiers
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+  - Startup
+  - Individuals
+layer:
+  - Layer-1
+  - Layer-4
+web:
+  logo: Kilt.jpg
+  site: https://www.kilt.io/
+  twitter: Kiltprotocol
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 69699
+    - date: 2022-12-31
+      value: 71500
+  youtube:
+    - date: 2023-12-31
+      value: 1100
+  github:
+    - date: 2023-12-31
+      value: 67
+  blog:
+    - date: 2023-12-31
+      value: 2200
+  app_downloads: []

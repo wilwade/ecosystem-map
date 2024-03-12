@@ -1,0 +1,29 @@
+name: Orbiter One
+category:
+  - DeFi
+  - DAO
+  - Smart Contracts
+  - EVM
+description: lending protocol offering incentive rewards, Cross-Chain Deposits and DAO
+readiness:
+  technology: Connected to Parachain
+target_audience:
+  - Personal investors
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: https://orbiter.one/
+  twitter: OrbiterOne
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 11268
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 2
+  blog:
+    - date: 2023-12-31
+      value: 24
+  app_downloads: []

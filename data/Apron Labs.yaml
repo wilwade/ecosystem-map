@@ -1,0 +1,35 @@
+name: Apron Labs
+category:
+  - Data
+  - API
+description: API access to various blockchain networks
+readiness:
+  business: Scaling/Alliance
+  technology: In development
+target_audience:
+  - Startup
+  - Dev teams
+layer:
+  - Layer-3
+web:
+  logo: Apron Labs.jpg
+  site: https://apron.network/
+  twitter: apronofficial1
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 30383
+    - date: 2022-12-31
+      value: 32500
+  youtube:
+    - date: 2023-12-31
+      value: 0
+  github:
+    - date: 2023-12-31
+      value: 3
+  blog:
+    - date: 2023-12-31
+      value: 32923
+  app_downloads:
+    - date: 2023-12-31
+      value: 0

@@ -1,0 +1,39 @@
+name: Parallel Finance / Heiko
+category:
+  - DeFi
+  - Wallet
+  - DAO
+  - Dapp
+  - NFT
+  - EVM
+  - Indexer
+description: decentralized lending, staking, and borrowing protocol, wallet, DAO
+  wallet (https://parax.ai/Products/Polkadot)
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Community DAO
+  - Personal investors
+layer:
+  - Layer-2
+web:
+  logo: default.png
+  site: https://parallel.fi
+  twitter: ParallelFi
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 91471
+    - date: 2022-12-31
+      value: 96700
+  youtube:
+    - date: 2023-12-31
+      value: 2900
+  github:
+    - date: 2023-12-31
+      value: 90
+  blog:
+    - date: 2023-12-31
+      value: 573
+  app_downloads: []

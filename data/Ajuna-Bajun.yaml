@@ -1,0 +1,35 @@
+name: Ajuna/Bajun
+category:
+  - Game
+  - NFT
+  - Privacy
+description: hosting and support for Unity games
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+layer:
+  - Layer-2
+web:
+  logo: Ajuna-Bajun.jpg
+  site: https://ajuna.io/baju/
+  twitter: AjunaNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 21256
+    - date: 2022-12-31
+      value: 16400
+  youtube:
+    - date: 2023-12-31
+      value: 360
+  github:
+    - date: 2023-12-31
+      value: 37
+  blog:
+    - date: 2023-12-31
+      value: 3500
+  app_downloads:
+    - date: 2023-12-31
+      value: 0

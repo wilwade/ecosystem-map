@@ -1,0 +1,37 @@
+name: Cosmize
+category:
+  - EVM
+  - NFT
+  - Game
+  - Social
+  - Dapp
+description: |-
+  virtual social platform developed on 
+  Astar Network, metaverse
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Established corp
+  - Community DAO
+  - Individuals
+  - Startup
+  - Dev teams
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: https://www.cosmize.io/
+  twitter: cosmize_io
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 12477
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 71
+  app_downloads:
+    - date: 2023-12-31
+      value: 100

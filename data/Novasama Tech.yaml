@@ -1,0 +1,38 @@
+name: Novasama Tech
+category:
+  - Wallet
+  - NFT
+  - Dapp
+  - DAO
+description: non-custodial mobile wallet w crowdloans  and staking
+readiness:
+  business: Scaling/Alliance
+  technology: In production
+target_audience:
+  - Individuals
+  - Personal investors
+  - Institutional investors
+  - Community DAO
+layer: []
+web:
+  logo: Novasama Tech.jpg
+  site: https://novawallet.io/
+  twitter: NovaWalletApp
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 12153
+    - date: 2022-12-31
+      value: 8800
+  youtube:
+    - date: 2023-12-31
+      value: 426
+  github:
+    - date: 2023-12-31
+      value: 14
+  blog:
+    - date: 2023-12-31
+      value: 1800
+  app_downloads:
+    - date: 2023-12-31
+      value: 50000

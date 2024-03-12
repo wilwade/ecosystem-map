@@ -1,0 +1,37 @@
+name: Chainsafe
+category:
+  - Bridge
+  - Data
+  - Infra
+  - EVM
+  - Smart Contracts
+description: platform to build games, IPFS/Filecoin network, encrypted file storage.
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Dev teams
+  - Established corp
+  - Startup
+layer:
+  - Layer-1
+web:
+  logo: Chainsafe.jpg
+  site: https://chainsafe.io/
+  twitter: ChainSafeth
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 13527
+    - date: 2022-12-31
+      value: 12500
+  youtube:
+    - date: 2023-12-31
+      value: 1900
+  github:
+    - date: 2023-12-31
+      value: 361
+  blog:
+    - date: 2023-12-31
+      value: 6600
+  app_downloads: []

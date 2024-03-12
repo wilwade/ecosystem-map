@@ -1,0 +1,19 @@
+name: PolkaCube
+category:
+  - Indexer
+  - Validator provider
+description: comprehensive on-chain key staking statistics monitoring, optimized
+  staking strategy guidance
+readiness: {}
+target_audience:
+  - Dev teams
+layer: []
+web:
+  logo: default.png
+  site: polkacube.hashquark.io
+metrics:
+  twitter: []
+  youtube: []
+  github: []
+  blog: []
+  app_downloads: []

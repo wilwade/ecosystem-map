@@ -1,0 +1,32 @@
+name: Centrifuge / Altair
+category:
+  - DeFi
+  - Marketplace
+description: DeFi protocol and marketplace for real-world asset pools
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+layer:
+  - Layer-1
+web:
+  logo: Centrifuge - Altair.jpg
+  site: https://centrifuge.io/
+  twitter: centrifuge
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 64766
+    - date: 2022-12-31
+      value: 58700
+  youtube:
+    - date: 2023-12-31
+      value: 2000
+  github:
+    - date: 2023-12-31
+      value: 124
+  blog:
+    - date: 2023-12-31
+      value: 1300
+  app_downloads: []

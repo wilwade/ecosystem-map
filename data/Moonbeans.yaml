@@ -1,0 +1,32 @@
+name: Moonbeans
+category:
+  - NFT
+  - Bridge
+  - DAO
+  - Marketplace
+  - EVM
+description: NFT marketplace on Moonbeam
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Parachain
+target_audience:
+  - Individuals
+  - Community DAO
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: https://moonbeans.io/
+  twitter: MoonbeansIO
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 5380
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 1
+  blog:
+    - date: 2023-12-31
+      value: 54
+  app_downloads: []

@@ -1,0 +1,34 @@
+name: HydraDX/Basilisk
+category:
+  - DeFi
+  - Exchange
+description: liquidity protocol, trading
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Established corp
+  - Community DAO
+  - Personal investors
+  - Institutional investors
+layer:
+  - Layer-1
+web:
+  logo: HydraDX-Basilisk.jpg
+  site: https://hydradx.io/
+  twitter: hydra_dx
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 30116
+    - date: 2022-12-31
+      value: 27100
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 156
+  blog:
+    - date: 2023-12-31
+      value: 44
+  app_downloads: []

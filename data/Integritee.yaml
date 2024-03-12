@@ -1,0 +1,35 @@
+name: Integritee
+category:
+  - Data
+  - Privacy
+  - Bridge
+description: public blockchain solution for securely processing sensitive
+  business or personal data
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Startup
+  - Established corp
+  - Research institute
+layer:
+  - Layer-4
+  - Layer-1
+web:
+  logo: Integritee.jpg
+  site: https://integritee.network/
+  twitter: integri_t_e_e
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 23519
+    - date: 2022-12-31
+      value: 21458
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 75
+  blog:
+    - date: 2023-12-31
+      value: 2500
+  app_downloads: []

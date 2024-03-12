@@ -1,0 +1,27 @@
+name: CodaDot
+category:
+  - NFT
+  - Marketplace
+description: NFT marketplace
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Personal investors
+  - Individuals
+layer:
+  - Layer-4
+web:
+  logo: CodaDot.jpg
+  site: https://kodadot.xyz/
+  twitter: KodaDot
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 14777
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 30
+  app_downloads: []

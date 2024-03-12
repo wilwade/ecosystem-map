@@ -1,0 +1,32 @@
+name: DAO IPCI
+category:
+  - Oracle
+  - Marketplace
+  - Smart Contracts
+description: Blockchain technology for carbon markets, environmental assets and liabilities
+readiness:
+  business: Business concept/low adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+  - Research institute
+  - Community DAO
+  - Governmental org
+layer:
+  - Layer-3
+web:
+  logo: DAO IPCI.jpg
+  site: https://ipci.io/
+  twitter: DAO_IPCI
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 849
+    - date: 2022-12-31
+      value: 852
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 2
+  blog: []
+  app_downloads: []

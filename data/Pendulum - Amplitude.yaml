@@ -1,0 +1,36 @@
+name: Pendulum / Amplitude
+category:
+  - DeFi
+  - Bridge
+  - Smart Contracts
+  - EVM
+description: Decentralized blockchain technology for cross-border payments and
+  traditional finance infrastructure
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+  - Startup
+  - Individuals
+layer:
+  - Layer-1
+  - Layer-3
+web:
+  logo: Pendulum - Amplitude.jpg
+  site: https://pendulumchain.org/
+  twitter: pendulum_chain
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 53000
+    - date: 2022-12-31
+      value: 11200
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 11
+  blog:
+    - date: 2023-12-31
+      value: 442
+  app_downloads: []

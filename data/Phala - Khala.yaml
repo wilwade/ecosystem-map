@@ -1,0 +1,36 @@
+name: Phala / Khala
+category:
+  - Smart Contracts
+  - NFT
+  - EVM
+  - Infra
+  - Exchange
+description: computing network, off-chain computation, analytics, cloud infrastructure
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+layer:
+  - Layer-2
+  - Layer-3
+web:
+  logo: Phala - Khala.jpg
+  site: https://www.phala.network/en/
+  twitter: PhalaNetwork
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 116843
+    - date: 2022-12-31
+      value: 119000
+  youtube:
+    - date: 2023-12-31
+      value: 4600
+  github:
+    - date: 2023-12-31
+      value: 305
+  blog:
+    - date: 2023-12-31
+      value: 2300
+  app_downloads: []

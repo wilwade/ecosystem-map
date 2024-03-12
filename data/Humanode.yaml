@@ -1,0 +1,30 @@
+name: Humanode
+category:
+  - Smart Contracts
+  - EVM
+  - DAO
+description: a standalone Substrate chain, the first crypto-biometric network
+  where One human = One node that brings sybil resistance and innovative
+  governance models to the crypto industry using private biometric technology.
+readiness:
+  business: Business concept/low adoption
+  technology: In production
+target_audience:
+  - Dev teams
+layer:
+  - Layer-1
+  - Layer-3
+web:
+  logo: default.png
+  site: https://humanode.io/
+  twitter: humanode_io
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 149761
+  youtube: []
+  github: []
+  blog:
+    - date: 2023-12-31
+      value: 576
+  app_downloads: []

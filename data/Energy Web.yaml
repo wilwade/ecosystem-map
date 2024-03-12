@@ -1,0 +1,34 @@
+name: Energy Web
+category:
+  - Data
+  - Smart Contracts
+description: operating systems for decarbonized energy grids
+readiness:
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
+target_audience:
+  - Established corp
+  - Startup
+  - Governmental org
+layer:
+  - Layer-1
+web:
+  logo: Energy Web.png
+  site: https://www.energyweb.org/
+  twitter: energywebx
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 72521
+    - date: 2022-12-31
+      value: 65600
+  youtube:
+    - date: 2023-12-31
+      value: 3100
+  github:
+    - date: 2023-12-31
+      value: 90
+  blog:
+    - date: 2023-12-31
+      value: 2200
+  app_downloads: []

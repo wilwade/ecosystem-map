@@ -1,0 +1,31 @@
+name: ChainX/SherpaX
+category:
+  - DeFi
+  - Smart Contracts
+description: a trusted and scalable BTC Layer2 Network
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Personal investors
+  - Institutional investors
+  - Dev teams
+  - Startup
+layer:
+  - Layer-2
+web:
+  logo: ChainX-SherpaX.jpg
+  site: https://chainx.org
+  twitter: chainx_org
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 96457
+  youtube: []
+  github:
+    - date: 2023-12-31
+      value: 298
+  blog:
+    - date: 2023-12-31
+      value: 4870
+  app_downloads: []
