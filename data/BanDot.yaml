@@ -1,6 +1,7 @@
 name: BanDot
 category:
   - DeFi
+  - FiDe
 description: Cross-chain smart token swap, unsecured credit lending, liquidity pool
 readiness:
   business: Business concept/low adoption
@@ -13,7 +14,7 @@ web:
 metrics:
   twitter:
     - date: 2023-12-31
-      value: 10526
+      value: "10526"
   youtube: []
   github: []
   blog: []
