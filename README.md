@@ -1,4 +1,4 @@
-# Polkadot ecosystem map
+# [Polkadot ecosystem map](https://justbeteiligungen.github.io/ecosystem-map/)
 
 👋 This repository is the data source for the community-sourced Ecosystem directory curated by JUST Opensource team. 
 
@@ -19,3 +19,103 @@ As things change and grow, so does this repo. It may evolve over time as the com
 **🧫** Use it as a base for product/UX/stakeholders research
 
 **🪄** If you are interested in those, but don’t know where to start - reach out to JUST team, we provide advisory services.
+
+# 📋 Description
+
+## Target audience
+
+| Commercial business unit | Non-commercial business unit |
+| ------------------------ | ---------------------------- |
+| Startup | Research Institute |
+| Established corporation | Governmental organization |
+| Institutional investor | Community DAO |
+| Personal investor | Individual tinkerer |
+| | Dev team (grants) |
+
+## Technology progress
+
+- In research
+- Validated POC/testnet
+- In development
+- In production
+- Connected to relay chain
+- Connected to parachain
+
+## Business progress
+
+- Business concept/low adoption
+- Verified in market/high adoption
+- Scaling/Alliance
+
+## Awareness funnel
+
+> [!NOTE]
+> Media exposure is the metrics that we used for several reasons:
+> Identify the most popular marketing channels and calculate average values across the engagement funnel for the ecosystem to then compare with the competitors.
+>
+> To verify the assumption, that deviation from the median is not significant for the majority of projects, thus indirectly confirming the total number of users engaged with the ecosystem and individual projects and that fluctuations in the number of engaged users within individual projects on yearly snapshots can be an indication of their success or decline
+
+Education - The percentage of ppl who dive deeper into videos/articles after reading the team’s X
+
+Tech engagement - The percentage of ppl who star repo after seeing videos/reading articles
+
+Engagement - The percentage of app downloads/installations after reading the team’s X
+
+## Type/layer
+
+0 - protocol
+
+1 - consensus (consensus, node operators, parachains)
+
+2 - scaling (off-chain computing, messages, governance, bridges)
+
+3 - smart contracts, dApps
+
+4 - identity, keys
+
+## Category
+
+| Infrastructure | Ecosystem |
+| -------------- | --------- |
+| exchange | DAO |
+| oracle | wallet |
+| validator provider | game |
+| indexer | DeFi |
+| analytics | Marketplace |
+| data | Social |
+| bridge | dApp |
+| EVM | Aggregator |
+| API | NFT |
+| Smart contracts | Privacy |
+
+# 🤝 How To Contribute & Guidelines
+
+TBD
+
+# 🗿 Data sources
+
+All of the data is taken from open sources (mostly X, Youtube, Medium, Linkedin, Github, app stores, teams websites and comms, gov proposals) some fields might be empty. The database is being updated 2 times per year by @faultcore and @oshakarishvili to the best of our knowledge. We welcome you to update it as well, especially if you are part of the project.
+
+*The directory is available for general information purposes only and is not an official endorsement of the projects by JUST team.* 
+
+*We will also take the liberty of not disclosing some of the metrics by which we evaluate projects, although we would be more than happy to engage in a productive discussion about unifying the metrics by which projects in the ecosystem are categorized.*
+
+# Other ecosystem navigators
+
+Discover projects in the ecosystem with the help of other providers:
+
+https://github.com/haquefardeen/awesome-dot?tab=readme-ov-file
+
+https://polkaproject.com/
+
+https://parachains.info/
+
+https://polkadot.network/ecosystem/dapps/
+
+https://www.dotmarketcap.com/ecosystem
+
+https://www.alchemy.com/ecosystem/polkadot
+
+https://dotinsights.subwallet.app/
+
+https://www.dtmb.xyz
