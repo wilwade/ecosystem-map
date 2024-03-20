@@ -23,3 +23,4 @@ metrics:
       value: 6
   blog: []
   app_downloads: []
+inactive: true

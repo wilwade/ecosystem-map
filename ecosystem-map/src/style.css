@@ -96,6 +96,10 @@ a {
   max-width: 600px;
 }
 
+.project-card--inactive {
+  opacity: 0.5;
+}
+
 .project-card__header {
   display: flex;
   flex-direction: row;
