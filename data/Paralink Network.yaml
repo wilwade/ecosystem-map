@@ -28,3 +28,4 @@ metrics:
       value: 4
   blog: []
   app_downloads: []
+inactive: true
