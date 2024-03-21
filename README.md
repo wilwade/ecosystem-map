@@ -32,7 +32,7 @@ As things change and grow, so does this repo. It may evolve over time as the com
 | Personal investor | Individual tinkerer |
 | | Dev team (grants) |
 
-## Technology progress
+## Technology readiness
 
 - In research
 - Validated POC/testnet
@@ -41,7 +41,7 @@ As things change and grow, so does this repo. It may evolve over time as the com
 - Connected to relay chain
 - Connected to parachain
 
-## Business progress
+## Business readiness
 
 - Business concept/low adoption
 - Verified in market/high adoption
@@ -90,7 +90,56 @@ Engagement - The percentage of app downloads/installations after reading the tea
 
 # 🤝 How To Contribute & Guidelines
 
-TBD
+We welcome you to independently verify the information and contribute to the dataset.
+
+Adding a new entity consists of two simple steps:
+
+1. Fork the repository. Create a new markdown file in the directory with the copy of the template, filled with your details. Add a new .svg or .png logo image in the directory. 
+2. Once you're done, create a pull request in the main repo. The pull request should only contain *two new files*—the Markdown file created from the template and a logo image.
+
+Below is an example submission for Acala
+```
+
+name: Acala / Karura
+category:
+  - DeFi
+description: DeFi platform that offers a suite of financial products and
+  services, including lending, borrowing, staking, and trading, in a secure and
+  scalable way. Acala is also Ethereum-compatible, making it easy for developers
+  to bring their existing applications to the Polkadot ecosystem.
+readiness:
+  business: Scaling/Alliance
+  technology: Connected to Relay chain
+target_audience:
+  - Dev teams
+  - Startup
+  - Personal investors
+  - Institutional investors
+  - Community DAO
+layer:
+  - Layer-3
+web:
+  logo: Acala - Karura.jpg
+  site: https://acala.network/
+  twitter: AcalaNetwork
+
+```
+
+Below are the available markdown headers for adding entities with guidelines for each header (only input what is applicable for what you are adding):
+
+- `name`: The project  name (will also be used as page name)
+- `category`: A  list of categories describing the project, each starts by dash and on the new line. [See the list](#category)
+- `description`: The short project description
+- `Business readiness`: Choose one from the [list](#business-readiness)
+- `Technology readiness`: Choose one from the [list](#technology-readiness)
+- `Target audience`: A list of customers, each starts by dash and on the new line. [See the list](#target-audience)
+- `Layer`: A list of layers, each starts by dash and on the new line. [See the list](#typelayer)
+- `logo`: A relative path to the corresponding SVG/PNG image
+- `website`: A URL to the project website
+- `twitter`: A Twitter handle
+- `youtube`: A YouTube handle
+- `blog`: A URL to the blogging platform of choice (Medium/Linkedin/etc.), preferably with subscribers counter
+- `github`: A URL to the GitHub page
 
 # 🗿 Data sources
 
