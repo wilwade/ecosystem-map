@@ -107,6 +107,7 @@ properties:
           - In production
           - Connected to Relay chain
           - Connected to Parachain
+          - Discontinued
       business:
         type: string
         enum:
