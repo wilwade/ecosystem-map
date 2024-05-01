@@ -9,11 +9,15 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
-layer: []
+ecosystem:
+  - Polkadot
+layer:
+  - None
 web:
   logo: Equilibrium - Genshiro.jpg
   site: https://equilibrium.io/
   twitter: EquilibriumDeFi
+  discord: https://discord.com/invite/p2FmYuW5Hu
 metrics:
   twitter:
     - date: 2023-12-31
@@ -26,6 +30,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 21
+  discord:
+    - date: 2023-12-31
+      value: 9912
   blog:
     - date: 2023-12-31
       value: 4700

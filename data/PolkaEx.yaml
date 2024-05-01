@@ -10,17 +10,24 @@ readiness:
 target_audience:
   - Institutional investors
   - Personal investors
+ecosystem:
+  - Polkadot
 layer:
   - Layer-2
 web:
   logo: PolkaEx.jpg
   site: https://www.polkaex.io
   twitter: PolkaExOfficial
+  discord: https://discord.com/invite/9dPacRKQyN
+  contact: business@polkaex.io
 metrics:
   twitter:
     - date: 2023-12-31
       value: 21541
   youtube: []
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 3519
   blog: []
   app_downloads: []

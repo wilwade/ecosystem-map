@@ -15,12 +15,17 @@ target_audience:
   - Startup
   - Established corp
   - Community DAO
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-1
 web:
-  logo: OAK - Turing.png
+  logo: OAK - Turing.jpg
   site: https://oak.tech/
   twitter: oak_network
+  discord: https://discord.com/invite/7W9UDvsbwh
+  contact: contact@oak.tech
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,6 +36,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 35
+  discord:
+    - date: 2023-12-31
+      value: 17642
   blog:
     - date: 2023-12-31
       value: 40

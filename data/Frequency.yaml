@@ -9,6 +9,8 @@ target_audience:
   - Startup
   - Dev teams
   - Established corp
+ecosystem:
+  - Polkadot
 layer:
   - Layer-3
   - Layer-4
@@ -17,6 +19,8 @@ web:
   logo: default.png
   site: https://www.frequency.xyz/
   twitter: one_frequency
+  discord: https://discord.com/invite/JchmHX5afV
+  contact: info@frequency.xyz
 metrics:
   twitter:
     - date: 2023-12-31
@@ -27,6 +31,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 45
+  discord:
+    - date: 2023-12-31
+      value: 340
   blog:
     - date: 2023-12-31
       value: 29

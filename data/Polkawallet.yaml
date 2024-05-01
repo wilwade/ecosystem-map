@@ -11,11 +11,19 @@ target_audience:
   - Personal investors
   - Institutional investors
   - Community DAO
-layer: []
+ecosystem:
+  - Polkadot
+  - Kusama
+  - Acala Network
+  - Astar Network
+  - Moonbeam
+layer:
+  - None
 web:
   logo: default.png
   site: https://polkawallet.io
   twitter: polkawallet
+  contact: hello@polkawallet.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -26,6 +34,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 124
+  discord: []
   blog: []
   app_downloads:
     - date: 2023-12-31

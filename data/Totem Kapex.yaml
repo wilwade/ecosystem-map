@@ -12,12 +12,16 @@ target_audience:
   - Established corp
   - Startup
   - Individuals
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: Totem Kapex.jpg
   site: https://totemaccounting.com/
   twitter: Totem_Live_
+  discord: https://discord.com/invite/kmuZucW
+  contact: info@totemaccounting.com
 metrics:
   twitter:
     - date: 2023-12-31
@@ -30,6 +34,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 4
+  discord:
+    - date: 2023-12-31
+      value: 346
   blog:
     - date: 2023-12-31
       value: 45

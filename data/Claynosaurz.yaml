@@ -1,0 +1,29 @@
+name: Claynosaurz
+category:
+  - NFT
+  - Game
+description: Game, short videos, collectibles
+readiness:
+  business: Verified in market/high adoption
+  technology: In production
+target_audience:
+  - Individuals
+ecosystem:
+  - Solana
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: https://claynosaurz.com/
+  twitter: Claynosaurz
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 68836
+  youtube:
+    - date: 2023-12-31
+      value: 27800
+  github: []
+  discord: []
+  blog: []
+  app_downloads: []

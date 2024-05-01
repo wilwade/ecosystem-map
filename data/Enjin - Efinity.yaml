@@ -15,6 +15,9 @@ target_audience:
   - Startup
   - Dev teams
   - Individuals
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-3
   - Layer-1
@@ -22,6 +25,8 @@ web:
   logo: Enjin - Efinity.jpg
   site: https://enjin.io/products/efinity
   twitter: enjin
+  discord: https://discord.com/invite/7scUTVVhdT
+  contact: contact@enjin.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -34,6 +39,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 377
+  discord:
+    - date: 2023-12-31
+      value: 8000
   blog:
     - date: 2023-12-31
       value: 394000

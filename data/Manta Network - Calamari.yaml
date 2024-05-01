@@ -13,14 +13,19 @@ target_audience:
   - Community DAO
   - Dev teams
   - Established corp
+ecosystem:
+  - Polygon
+  - Polkadot
+  - Kusama
 layer:
   - Layer-1
   - Layer-2
   - Layer-3
 web:
   logo: Manta Network - Calamari.jpg
-  site: https://www.manta.network/
+  site: https://www.manta.network/x
   twitter: MantaNetwork
+  discord: https://discord.com/invite/mantanetwork
 metrics:
   twitter:
     - date: 2023-12-31
@@ -33,5 +38,8 @@ metrics:
   github:
     - date: 2023-12-31
       value: 92
+  discord:
+    - date: 2023-12-31
+      value: 233187
   blog: []
   app_downloads: []

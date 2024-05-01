@@ -13,12 +13,16 @@ readiness:
 target_audience:
   - Startup
   - Personal investors
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: Reef.jpg
   site: https://reef.io/
   twitter: Reef_Chain
+  discord: https://discord.com/invite/reefchain
+  contact: https://docs.google.com/forms/d/e/1FAIpQLSfj6o8Ga9tuuNHc2nTNnHQMZB2cejoEsn1z8TzdX9v1mDcVdg/viewform
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,6 +35,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 142
+  discord:
+    - date: 2023-12-31
+      value: 4817
   blog:
     - date: 2023-12-31
       value: 6246

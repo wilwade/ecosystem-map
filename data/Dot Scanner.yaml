@@ -2,10 +2,13 @@ name: Dot Scanner
 category:
   - Infra
 description: blockchain explorer
-readiness: {}
+readiness:
+  technology: Discontinued
 target_audience:
   - Dev teams
-layer: []
+ecosystem: []
+layer:
+  - None
 web:
   logo: default.png
   site: https://dotscanner.com/
@@ -18,5 +21,6 @@ metrics:
       value: 55
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []

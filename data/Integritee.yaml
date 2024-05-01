@@ -12,6 +12,8 @@ target_audience:
   - Startup
   - Established corp
   - Research institute
+ecosystem:
+  - Polkadot
 layer:
   - Layer-4
   - Layer-1
@@ -19,6 +21,8 @@ web:
   logo: Integritee.jpg
   site: https://integritee.network/
   twitter: integri_t_e_e
+  discord: https://discord.com/invite/anhtxwr4eS
+  contact: hello@integritee.network
 metrics:
   twitter:
     - date: 2023-12-31
@@ -29,6 +33,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 75
+  discord:
+    - date: 2023-12-31
+      value: 3331
   blog:
     - date: 2023-12-31
       value: 2500

@@ -1,10 +1,12 @@
 name: Trustbase
 category: []
-description: ""
+description: Polkadot Parachain Based on Independent Smart Contract Language
 readiness:
-  technology: In research
+  technology: Discontinued
 target_audience: []
-layer: []
+ecosystem: []
+layer:
+  - None
 web:
   logo: default.png
   site: https://trustbase.network/
@@ -15,5 +17,6 @@ metrics:
       value: 8867
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []

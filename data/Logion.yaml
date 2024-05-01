@@ -14,12 +14,16 @@ readiness:
 target_audience:
   - Startup
   - Established corp
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: default.png
   site: https://logion.network/
   twitter: logion_network
+  discord: https://discord.com/invite/FvnxrtCYr6
+  contact: info@logion.network
 metrics:
   twitter:
     - date: 2023-12-31
@@ -28,6 +32,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 5
+  discord:
+    - date: 2023-12-31
+      value: 254
   blog:
     - date: 2023-12-31
       value: 71

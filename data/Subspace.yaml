@@ -9,6 +9,9 @@ readiness:
 target_audience:
   - Startup
   - Dev teams
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-1
   - Layer-3
@@ -16,6 +19,8 @@ web:
   logo: default.png
   site: https://subspace.network/
   twitter: NetworkSubspace
+  discord: https://discord.com/invite/subspace-network
+  contact: hello@subspace.network
 metrics:
   twitter:
     - date: 2023-12-31
@@ -26,6 +31,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 300
+  discord:
+    - date: 2023-12-31
+      value: 42540
   blog:
     - date: 2023-12-31
       value: 27

@@ -9,12 +9,17 @@ readiness:
 target_audience:
   - Dev teams
   - Startup
+ecosystem:
+  - Moonbeam
+  - Astar Network
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: Zenlink.jpg
   site: https://zenlink.pro/en/
   twitter: ZenlinkPro
+  contact: apollo@zenlink.pro.
 metrics:
   twitter:
     - date: 2023-12-31
@@ -25,6 +30,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 9
+  discord: []
   blog:
     - date: 2023-12-31
       value: 3400

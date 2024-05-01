@@ -10,7 +10,10 @@ readiness:
   technology: Connected to Parachain
 target_audience:
   - Individuals
-layer: []
+ecosystem:
+  - Astar Network
+layer:
+  - None
 web:
   logo: default.png
   site: https://heal3.com/
@@ -21,6 +24,7 @@ metrics:
       value: 7924
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads:
     - date: 2023-12-31

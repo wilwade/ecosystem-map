@@ -7,7 +7,11 @@ description: infrastructure and indexing services
 readiness: {}
 target_audience:
   - Dev teams
-layer: []
+ecosystem:
+  - Polkadot
+  - Kusama
+layer:
+  - None
 web:
   logo: default.png
   site: https://www.apexti.com/
@@ -18,5 +22,6 @@ metrics:
       value: 11
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []

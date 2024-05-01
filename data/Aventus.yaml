@@ -10,12 +10,16 @@ readiness:
 target_audience:
   - Institutional investors
   - Startup
+ecosystem:
+  - Polkadot
 layer:
   - Layer-2
 web:
   logo: Aventus.jpg
   site: https://aventus.io/
   twitter: AventusNetwork
+  discord: https://discord.com/invite/Q4MmEfdjMp
+  contact: info@aventus.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -28,6 +32,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 27
+  discord:
+    - date: 2023-12-31
+      value: 93
   blog:
     - date: 2023-12-31
       value: 2800

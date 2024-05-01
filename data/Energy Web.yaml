@@ -10,12 +10,16 @@ target_audience:
   - Established corp
   - Startup
   - Governmental org
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
-  logo: Energy Web.png
+  logo: Energy Web.jpg
   site: https://www.energyweb.org/
   twitter: energywebx
+  discord: https://discord.com/invite/psraNwqGqp
+  contact: https://www.energyweb.org/book-a-demo/
 metrics:
   twitter:
     - date: 2023-12-31
@@ -28,6 +32,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 90
+  discord:
+    - date: 2023-12-31
+      value: 10741
   blog:
     - date: 2023-12-31
       value: 2200

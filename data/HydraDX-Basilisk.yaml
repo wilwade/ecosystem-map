@@ -12,12 +12,16 @@ target_audience:
   - Community DAO
   - Personal investors
   - Institutional investors
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-1
 web:
   logo: HydraDX-Basilisk.jpg
   site: https://hydradx.io/
   twitter: hydra_dx
+  discord: https://discord.com/invite/xtVnQgq
 metrics:
   twitter:
     - date: 2023-12-31
@@ -28,6 +32,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 156
+  discord:
+    - date: 2023-12-31
+      value: 5011
   blog:
     - date: 2023-12-31
       value: 44

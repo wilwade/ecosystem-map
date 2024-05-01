@@ -15,12 +15,26 @@ target_audience:
   - Community DAO
   - Startup
   - Individuals
+ecosystem:
+  - Solana
+  - Bitcoin
+  - BNB Chain
+  - NEAR
+  - TON
+  - Sui
+  - Tezos
+  - Moonbeam
+  - Polkadot
+  - Kusama
+  - Cosmos
 layer:
   - Layer-2
 web:
   logo: Math.jpg
   site: https://mathwallet.org/en-us/
   twitter: MathWallet
+  discord: https://discord.com/invite/gXSfnk5eP5
+  contact: labs@mathwallet.org
 metrics:
   twitter:
     - date: 2023-12-31
@@ -33,6 +47,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 85
+  discord:
+    - date: 2023-12-31
+      value: 9197
   blog:
     - date: 2023-12-31
       value: 3000

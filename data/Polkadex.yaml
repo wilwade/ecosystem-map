@@ -11,12 +11,15 @@ target_audience:
   - Personal investors
   - Individuals
   - Startup
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: Polkadex.jpg
   site: https://polkadex.trade/
   twitter: polkadex
+  discord: https://discord.com/invite/Uvua83QAzk
 metrics:
   twitter:
     - date: 2023-12-31
@@ -29,6 +32,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 239
+  discord:
+    - date: 2023-12-31
+      value: 3336
   blog:
     - date: 2023-12-31
       value: 4400

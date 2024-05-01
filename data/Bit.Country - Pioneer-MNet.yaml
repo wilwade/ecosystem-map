@@ -2,19 +2,25 @@ name: Bit.Country / Pioneer/MNet
 category:
   - NFT
   - Game
-description: platform designed to create metaverse-inspired communities
+description: Bit.Country enables users to launch their own metaverses for their
+  community. Metaverse.Network enables developers to launch Ethereum-compatible
+  smart contracts.
 readiness:
   business: Verified in market/high adoption
   technology: Connected to Relay chain
 target_audience:
   - Startup
   - Established corp
+ecosystem:
+  - Polkadot
 layer:
   - Layer-3
 web:
   logo: Bit.Country - Pioneer/MNet.jpg
   site: https://bit.country/
   twitter: BitDotCountry
+  discord: https://discord.com/invite/PaMAXZZ59N
+  contact: https://forms.zohopublic.com/industryconnect/form/BCMNEcosystemPartner/formperma/0tovB7pdQ3lh1b808uro4OAG04ZdCRO70ld8HItv0Ek
 metrics:
   twitter:
     - date: 2023-12-31
@@ -27,6 +33,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 143
+  discord:
+    - date: 2023-12-31
+      value: 49201
   blog:
     - date: 2023-12-31
       value: 8529

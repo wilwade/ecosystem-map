@@ -7,12 +7,20 @@ readiness:
 target_audience:
   - Personal investors
   - Individuals
+ecosystem:
+  - Bitcoin
+  - Ethereum
+  - Polkadot
+  - Kusama
+  - Cosmos
+  - Tezos
 layer:
   - Layer-4
 web:
   logo: Airgap.jpg
   site: https://airgap.it
   twitter: AirGap_it
+  contact: hi@airgap.it
 metrics:
   twitter:
     - date: 2023-12-31
@@ -25,6 +33,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 384
+  discord: []
   blog:
     - date: 2023-12-31
       value: 284

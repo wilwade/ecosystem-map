@@ -11,6 +11,8 @@ readiness:
 target_audience:
   - Individuals
   - Startup
+ecosystem:
+  - Polkadot
 layer:
   - Layer-3
   - Layer-4
@@ -18,6 +20,7 @@ web:
   logo: Nodle.jpg
   site: https://www.nodle.com/
   twitter: nodlenetwork
+  discord: https://discord.com/invite/N5nTUt8RWJ
 metrics:
   twitter:
     - date: 2023-12-31
@@ -30,6 +33,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 94
+  discord:
+    - date: 2023-12-31
+      value: 16561
   blog:
     - date: 2023-12-31
       value: 1200

@@ -11,11 +11,19 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
-layer: []
+ecosystem:
+  - Polygon
+  - Polkadot
+  - Ethereum
+  - Cosmos
+  - NEAR
+layer:
+  - None
 web:
   logo: default.png
   site: https://www.standardweb3.com/
   twitter: standardweb3
+  discord: https://discord.com/invite/DxQyWX2mHg
 metrics:
   twitter:
     - date: 2023-12-31
@@ -24,6 +32,9 @@ metrics:
     - date: 2023-12-31
       value: 57
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 6495
   blog:
     - date: 2023-12-31
       value: 233

@@ -9,6 +9,8 @@ readiness:
   technology: Connected to Parachain
 target_audience:
   - Personal investors
+ecosystem:
+  - Moonbeam
 layer:
   - Layer-3
 web:
@@ -23,6 +25,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 2
+  discord: []
   blog:
     - date: 2023-12-31
       value: 24

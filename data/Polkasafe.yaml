@@ -8,6 +8,11 @@ target_audience:
   - Community DAO
   - Startup
   - Established corp
+ecosystem:
+  - Polkadot
+  - Kusama
+  - Aleph Zero
+  - Astar Network
 layer:
   - Layer-4
 web:
@@ -19,5 +24,6 @@ metrics:
     - date: 2023-12-31
       value: 16
   github: []
+  discord: []
   blog: []
   app_downloads: []

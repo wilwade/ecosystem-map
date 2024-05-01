@@ -7,6 +7,11 @@ readiness:
   technology: In production
 target_audience:
   - Dev teams
+ecosystem:
+  - Polkadot
+  - Kusama
+  - Acala Network
+  - Astar Network
 layer:
   - Layer-3
 web:
@@ -18,5 +23,6 @@ metrics:
   github:
     - date: 2023-12-31
       value: 1600
+  discord: []
   blog: []
   app_downloads: []

@@ -4,19 +4,23 @@ category:
 description: a hub for issuing, trading, lending and borrowing synthetic assets
 readiness:
   business: Business concept/low adoption
-  technology: In research
+  technology: Discontinued
 target_audience: []
-layer: []
+ecosystem: []
+layer:
+  - None
 web:
   logo: default.png
   site: https://www.shadows.link/
   twitter: shadows_defi
+  contact: contact@shadows.link
 metrics:
   twitter:
     - date: 2023-12-31
       value: 22317
   youtube: []
   github: []
+  discord: []
   blog:
     - date: 2023-12-31
       value: 647

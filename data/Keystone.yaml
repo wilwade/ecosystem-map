@@ -13,7 +13,17 @@ target_audience:
   - Startup
   - Community DAO
   - Established corp
-layer: []
+ecosystem:
+  - Solana
+  - Polygon
+  - Ethereum
+  - Bitcoin
+  - BNB Chain
+  - Cosmos
+  - Aave
+  - TON
+layer:
+  - None
 web:
   logo: default.png
   site: https://keyst.one/
@@ -28,6 +38,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 65
+  discord: []
   blog:
     - date: 2023-12-31
       value: 451

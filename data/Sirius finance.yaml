@@ -5,17 +5,22 @@ category:
   - Smart Contracts
 description: stablecoin AMM infrastructure on Astar Network
 readiness:
-  business: Business concept/low adoption
+  business: Verified in market/high adoption
   technology: Connected to Parachain
 target_audience:
   - Personal investors
   - Institutional investors
+ecosystem:
+  - Polkadot
+  - Astar Network
 layer:
   - Layer-3
 web:
   logo: default.png
   site: https://www.sirius.finance/
   twitter: Sirius_Finance
+  discord: https://discord.com/invite/7yHgwnWF7F
+  contact: business@sirius.finance
 metrics:
   twitter:
     - date: 2023-12-31
@@ -24,6 +29,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 6
+  discord:
+    - date: 2023-12-31
+      value: 38661
   blog:
     - date: 2023-12-31
       value: 251

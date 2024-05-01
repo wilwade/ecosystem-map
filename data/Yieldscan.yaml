@@ -1,20 +1,31 @@
 name: Yieldscan
 category:
   - Indexer
-description: ""
-readiness: {}
+description: a portfolio management platform for NPoS (nominated proof-of-stake)
+  networks like Kusama and Polkadot.
+readiness:
+  technology: Discontinued
 target_audience:
   - Dev teams
-layer: []
+ecosystem:
+  - Polkadot
+  - Kusama
+layer:
+  - None
 web:
   logo: default.png
   site: https://yieldscan.app/
   twitter: YieldScan
+  discord: https://discord.com/invite/5Dggqx8
+  contact: contact@yieldscan.app
 metrics:
   twitter:
     - date: 2023-12-31
       value: 1130
   youtube: []
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 57
   blog: []
   app_downloads: []

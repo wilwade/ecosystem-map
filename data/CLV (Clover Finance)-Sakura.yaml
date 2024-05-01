@@ -14,12 +14,18 @@ target_audience:
   - Startup
   - Dev teams
   - Institutional investors
+ecosystem:
+  - Polkadot
+  - Ethereum
+  - Polygon
 layer:
   - Layer-3
 web:
   logo: CLV (Clover Finance)-Sakura.jpg
   site: http://clv.org
   twitter: clv_org
+  discord: https://discord.com/invite/M6SxuXqMVB
+  contact: info@clover.finance
 metrics:
   twitter:
     - date: 2023-12-31
@@ -32,6 +38,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 78
+  discord:
+    - date: 2023-12-31
+      value: 14834
   blog:
     - date: 2023-12-31
       value: 477

@@ -1,18 +1,24 @@
-name: Bittensor-Tensor
+name: Bittensor/Tensor
 category:
   - Data
+  - Wallet
 description: protocol for ML and AI
 readiness:
   business: Business concept/low adoption
+  technology: In production
 target_audience:
   - Research institute
   - Individuals
+ecosystem:
+  - Polkadot
 layer:
   - Layer-2
 web:
   logo: default.png
   site: https://bittensor.com/
   twitter: bittensor_
+  discord: https://discord.com/invite/qasY3HA9F9
+  contact: hi@bluefin.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -21,5 +27,10 @@ metrics:
   github:
     - date: 2023-12-31
       value: 576
+  discord:
+    - date: 2023-12-31
+      value: 26335
   blog: []
-  app_downloads: []
+  app_downloads:
+    - date: 2023-12-31
+      value: 20000

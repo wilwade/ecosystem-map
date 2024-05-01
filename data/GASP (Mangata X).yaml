@@ -11,12 +11,16 @@ readiness:
 target_audience:
   - Institutional investors
   - Personal investors
+ecosystem:
+  - Polygon
+  - Ethereum
 layer:
   - Layer-1
 web:
-  logo: Mangata.jpg
+  logo: GASP (Mangata X).jpg
   site: https://www.mangata.finance/
-  twitter: MangataFinance
+  twitter: Gasp_xyz
+  discord: https://discord.com/invite/mangata
 metrics:
   twitter:
     - date: 2023-12-31
@@ -29,6 +33,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 65
+  discord:
+    - date: 2023-12-31
+      value: 691
   blog:
     - date: 2023-12-31
       value: 107

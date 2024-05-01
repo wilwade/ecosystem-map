@@ -10,6 +10,11 @@ readiness:
   technology: Validated POC / testnet
 target_audience:
   - Community DAO
+ecosystem:
+  - Polygon
+  - BNB Chain
+  - Moonbeam
+  - Ethereum
 layer:
   - Layer-1
   - Layer-3
@@ -25,6 +30,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 4
+  discord: []
   blog:
     - date: 2023-12-31
       value: 47467

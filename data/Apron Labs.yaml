@@ -9,12 +9,16 @@ readiness:
 target_audience:
   - Startup
   - Dev teams
+ecosystem:
+  - Polkadot
 layer:
   - Layer-3
 web:
   logo: Apron Labs.jpg
   site: https://apron.network/
   twitter: apronofficial1
+  discord: https://discord.com/invite/Bu6HzJP2YY
+  contact: contact@apron.network
 metrics:
   twitter:
     - date: 2023-12-31
@@ -27,6 +31,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 3
+  discord:
+    - date: 2023-12-31
+      value: 10876
   blog:
     - date: 2023-12-31
       value: 32923

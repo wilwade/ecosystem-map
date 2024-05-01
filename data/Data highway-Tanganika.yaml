@@ -11,6 +11,8 @@ readiness:
   technology: Connected to Relay chain
 target_audience:
   - Established corp
+ecosystem:
+  - Arweave
 layer:
   - Layer-1
 web:
@@ -29,5 +31,6 @@ metrics:
   github:
     - date: 2023-12-31
       value: 50
+  discord: []
   blog: []
   app_downloads: []

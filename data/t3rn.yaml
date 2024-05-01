@@ -7,12 +7,16 @@ readiness:
   technology: In production
 target_audience:
   - Dev teams
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: t3rn.jpg
   site: https://www.t3rn.io/
   twitter: t3rn_io
+  discord: https://discord.com/invite/T3sJYkEvPY
+  contact: https://www.t3rn.io/
 metrics:
   twitter:
     - date: 2023-12-31
@@ -25,6 +29,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 129
+  discord:
+    - date: 2023-12-31
+      value: 20145
   blog:
     - date: 2023-12-31
       value: 1073

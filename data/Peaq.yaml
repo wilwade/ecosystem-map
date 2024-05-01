@@ -10,6 +10,8 @@ readiness:
 target_audience:
   - Established corp
   - Startup
+ecosystem:
+  - Polkadot
 layer:
   - Layer-3
   - Layer-1
@@ -17,6 +19,8 @@ web:
   logo: Peaq.jpg
   site: https://www.peaq.network/
   twitter: peaqnetwork
+  discord: https://discord.com/invite/XhJwuFKAAD
+  contact: info@peaq.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -29,6 +33,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 6
+  discord:
+    - date: 2023-12-31
+      value: 83088
   blog:
     - date: 2023-12-31
       value: 30

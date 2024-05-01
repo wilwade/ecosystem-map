@@ -5,11 +5,13 @@ category:
   - EVM
 description: DeFi insurance marketplace for the global crypto ecosystem
 readiness:
-  technology: Connected to Parachain
+  technology: Discontinued
 target_audience:
   - Personal investors
   - Institutional investors
-layer: []
+ecosystem: []
+layer:
+  - None
 web:
   logo: default.png
   site: https://www.polkacover.com/
@@ -17,5 +19,6 @@ metrics:
   twitter: []
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []

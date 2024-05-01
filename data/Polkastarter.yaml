@@ -9,12 +9,18 @@ target_audience:
   - Personal investors
   - Institutional investors
   - Startup
+ecosystem:
+  - Ethereum
+  - Polygon
+  - BNB Chain
 layer:
   - Layer-1
 web:
   logo: Polkastarter.jpg
   site: https://polkastarter.com
   twitter: polkastarter
+  discord: https://discord.com/invite/wa3SexwQTF
+  contact: Support@Polkastarter.com
 metrics:
   twitter:
     - date: 2023-12-31
@@ -25,5 +31,8 @@ metrics:
   github:
     - date: 2023-12-31
       value: 25
+  discord:
+    - date: 2023-12-31
+      value: 19349
   blog: []
   app_downloads: []

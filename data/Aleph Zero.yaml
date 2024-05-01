@@ -10,12 +10,17 @@ readiness:
 target_audience:
   - Established corp
   - Institutional investors
+ecosystem:
+  - Aleph Zero
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: Aleph Zero.jpg
   site: https://alephzero.org/
   twitter: Aleph__Zero
+  discord: https://discord.com/invite/alephzero
+  contact: hello@cardinals.cc
 metrics:
   twitter:
     - date: 2023-12-31
@@ -28,6 +33,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 94
+  discord:
+    - date: 2023-12-31
+      value: 13096
   blog:
     - date: 2023-12-31
       value: 182

@@ -4,9 +4,10 @@ category:
 description: Game and Payment Module Engine Polkadot Parachain for Game Developers
 readiness:
   business: Business concept/low adoption
-  technology: In research
+  technology: Discontinued
 target_audience:
   - Individuals
+ecosystem: []
 layer:
   - Layer-1
   - Layer-3
@@ -20,6 +21,7 @@ metrics:
       value: 16407
   youtube: []
   github: []
+  discord: []
   blog:
     - date: 2023-12-31
       value: 473

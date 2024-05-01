@@ -9,18 +9,23 @@ readiness:
 target_audience:
   - Personal investors
   - Individuals
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-4
 web:
   logo: CodaDot.jpg
   site: https://kodadot.xyz/
   twitter: KodaDot
+  contact: info@kodadot.xyz
 metrics:
   twitter:
     - date: 2023-12-31
       value: 14777
   youtube: []
   github: []
+  discord: []
   blog:
     - date: 2023-12-31
       value: 30

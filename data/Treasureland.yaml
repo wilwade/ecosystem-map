@@ -8,9 +8,10 @@ description: multi-chain NFT aggregation protocol that supports NFT mint,
   and consumers in a decentralized way, building the eBay of the blockchain
   world.
 readiness:
-  technology: Connected to Parachain
+  technology: Discontinued
 target_audience:
   - Individuals
+ecosystem: []
 layer:
   - Layer-1
 web:
@@ -20,5 +21,6 @@ metrics:
   twitter: []
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []

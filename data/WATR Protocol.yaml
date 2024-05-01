@@ -16,6 +16,8 @@ target_audience:
   - Research institute
   - Established corp
   - Community DAO
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
   - Layer-3
@@ -24,6 +26,7 @@ web:
   logo: WATR Protocol.jpg
   site: https://www.watr.org
   twitter: WatrProtocol
+  contact: https://watr.org/
 metrics:
   twitter:
     - date: 2023-12-31
@@ -34,6 +37,7 @@ metrics:
     - date: 2023-12-31
       value: 21
   github: []
+  discord: []
   blog:
     - date: 2023-12-31
       value: 5

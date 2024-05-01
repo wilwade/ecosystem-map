@@ -3,9 +3,10 @@ category:
   - Smart Contracts
 description: Wasm smart contract development tools
 readiness:
-  technology: In development
+  technology: Discontinued
 target_audience:
   - Dev teams
+ecosystem: []
 layer:
   - Layer-3
 web:
@@ -22,6 +23,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 75
+  discord: []
   blog:
     - date: 2023-12-31
       value: 130

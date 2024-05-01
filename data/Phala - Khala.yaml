@@ -11,6 +11,9 @@ readiness:
   technology: Connected to Relay chain
 target_audience:
   - Established corp
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-2
   - Layer-3
@@ -18,6 +21,7 @@ web:
   logo: Phala - Khala.jpg
   site: https://www.phala.network/en/
   twitter: PhalaNetwork
+  discord: https://discord.com/invite/phala
 metrics:
   twitter:
     - date: 2023-12-31
@@ -30,6 +34,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 305
+  discord:
+    - date: 2023-12-31
+      value: 8111
   blog:
     - date: 2023-12-31
       value: 2300

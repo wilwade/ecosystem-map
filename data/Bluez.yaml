@@ -11,7 +11,10 @@ target_audience:
   - Startup
   - Community DAO
   - Individuals
-layer: []
+ecosystem:
+  - Astar Network
+layer:
+  - None
 web:
   logo: default.png
   site: https://bluez.app/
@@ -22,6 +25,7 @@ metrics:
       value: 1059
   youtube: []
   github: []
+  discord: []
   blog:
     - date: 2023-12-31
       value: 17

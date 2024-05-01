@@ -11,18 +11,25 @@ target_audience:
   - Personal investors
   - Institutional investors
   - Individuals
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: default.png
   site: https://www.polimec.org/
   twitter: PolimecProtocol
+  discord: https://discord.com/invite/4CZh8HNVuT
+  contact: INFO@POLIMEC.ORG
 metrics:
   twitter:
     - date: 2023-12-31
       value: 15000
   youtube: []
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 812
   blog:
     - date: 2023-12-31
       value: 173

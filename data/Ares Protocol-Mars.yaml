@@ -9,12 +9,18 @@ readiness:
 target_audience:
   - Dev teams
   - Startup
+ecosystem:
+  - Polkadot
+  - BNB Chain
+  - Kusama
 layer:
   - Layer-1
 web:
   logo: Ares Protocol-Mars.jpg
   site: https://www.aresprotocol.io/
   twitter: AresProtocolLab
+  discord: https://discord.com/invite/cqduK4ZNaY
+  contact: info@aresprotocol.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -25,6 +31,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 54
+  discord:
+    - date: 2023-12-31
+      value: 11237
   blog:
     - date: 2023-12-31
       value: 2650

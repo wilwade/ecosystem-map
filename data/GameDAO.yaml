@@ -14,12 +14,17 @@ target_audience:
   - Personal investors
   - Individuals
   - Community DAO
+ecosystem:
+  - Acala Network
 layer:
   - Layer-1
+  - Layer-3
 web:
   logo: default.png
   site: https://gamedao.co/
   twitter: gameDAOco
+  discord: https://discord.com/invite/YyrN6H6pvC
+  contact: support@gamedao.co
 metrics:
   twitter:
     - date: 2023-12-31
@@ -28,6 +33,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 13
+  discord:
+    - date: 2023-12-31
+      value: 269
   blog:
     - date: 2023-12-31
       value: 467

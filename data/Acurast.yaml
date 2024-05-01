@@ -9,12 +9,20 @@ readiness:
 target_audience:
   - Dev teams
   - Startup
+ecosystem:
+  - Polkadot
+  - Polygon
+  - Kusama
+  - Aleph Zero
+  - Ethereum
 layer:
   - Layer-1
 web:
   logo: Acurast.jpg
   site: https://acurast.com/
   twitter: Acurast
+  discord: https://discord.com/invite/wqgC6b6aKe
+  contact: hi@acurast.com
 metrics:
   twitter:
     - date: 2023-12-31
@@ -25,6 +33,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 3
+  discord:
+    - date: 2023-12-31
+      value: 9595
   blog:
     - date: 2023-12-31
       value: 80

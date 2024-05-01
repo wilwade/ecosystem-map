@@ -9,12 +9,17 @@ readiness:
   technology: Connected to Relay chain
 target_audience:
   - Startup
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-2
 web:
   logo: Ajuna-Bajun.jpg
   site: https://ajuna.io/baju/
   twitter: AjunaNetwork
+  discord: https://discord.com/invite/cE72GYcFgY
+  contact: https://ajuna.io/contact/
 metrics:
   twitter:
     - date: 2023-12-31
@@ -27,6 +32,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 37
+  discord:
+    - date: 2023-12-31
+      value: 7962
   blog:
     - date: 2023-12-31
       value: 3500

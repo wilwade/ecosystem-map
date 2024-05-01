@@ -13,12 +13,25 @@ target_audience:
   - Startup
   - Dev teams
   - Established corp
+ecosystem:
+  - Polkadot
+  - Cosmos
+  - NEAR
+  - Astar Network
+  - Avalanche
+  - BNB Chain
+  - Ethereum
+  - Polygon
+  - Kusama
+  - Moonbeam
 layer:
   - Layer-2
 web:
   logo: SubQuery.jpg
   site: https://subquery.network
   twitter: SubQueryNetwork
+  discord: https://discord.com/invite/78zg8aBSMG
+  contact: hello@subquery.network
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,6 +44,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 8200
+  discord:
+    - date: 2023-12-31
+      value: 47407
   blog:
     - date: 2023-12-31
       value: 6254

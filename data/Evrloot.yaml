@@ -6,6 +6,9 @@ readiness:
   technology: In production
 target_audience:
   - Individuals
+ecosystem:
+  - Polkadot
+  - Moonbeam
 layer:
   - Layer-3
 web:
@@ -18,5 +21,6 @@ metrics:
       value: 1755
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []

@@ -10,6 +10,10 @@ target_audience:
   - Startup
   - Dev teams
   - Personal investors
+ecosystem:
+  - Polkadot
+  - Moonbeam
+  - Kusama
 layer:
   - Layer-3
   - Layer-1
@@ -17,6 +21,8 @@ web:
   logo: Moonbeam - Moonriver.jpg
   site: https://moonbeam.network/
   twitter: MoonbeamNetwork
+  discord: https://discord.com/invite/PfpUATX
+  contact: https://moonbeam.network/contact/
 metrics:
   twitter:
     - date: 2023-12-31
@@ -29,6 +35,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 754
+  discord:
+    - date: 2023-12-31
+      value: 56753
   blog:
     - date: 2023-12-31
       value: 16500

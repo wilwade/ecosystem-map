@@ -11,17 +11,26 @@ target_audience:
   - Personal investors
   - Startup
   - Dev teams
-layer: []
+ecosystem:
+  - Polkadot
+  - Astar Network
+  - Moonbeam
+layer:
+  - None
 web:
   logo: Taiga.jpg
   site: https://www.taigaprotocol.io/
   twitter: TaigaProtocol
+  discord: https://discord.com/invite/CZWCCtD6mG
 metrics:
   twitter:
     - date: 2023-12-31
       value: 1455
   youtube: []
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 40368
   blog:
     - date: 2023-12-31
       value: 1075

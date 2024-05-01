@@ -10,12 +10,17 @@ target_audience:
   - Startup
   - Dev teams
   - Established corp
+ecosystem:
+  - Polkadot
 layer:
   - Layer-4
+  - Layer-1
 web:
   logo: default.png
   site: https://www.dock.io
   twitter: docknetwork
+  discord: https://discord.com/invite/feW8KGf7r3
+  contact: marketing@dock.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -28,5 +33,8 @@ metrics:
   github:
     - date: 2023-12-31
       value: 86
+  discord:
+    - date: 2023-12-31
+      value: 4918
   blog: []
   app_downloads: []

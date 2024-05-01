@@ -9,16 +9,24 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
-layer: []
+ecosystem:
+  - Polkadot
+  - Kusama
+layer:
+  - None
 web:
   logo: default.png
   site: https://yieldbay.io/
   twitter: yield_bay
+  discord: https://discord.com/invite/AKHuvbz7q4
 metrics:
   twitter:
     - date: 2023-12-31
       value: 1089
   youtube: []
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 155
   blog: []
   app_downloads: []

@@ -12,12 +12,15 @@ readiness:
 target_audience:
   - Dev teams
   - Startup
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: Vara.jpg
   site: https://vara.network/
   twitter: VaraNetwork
+  discord: https://discord.com/invite/x8ZeSy6S6K
 metrics:
   twitter:
     - date: 2023-12-31
@@ -26,6 +29,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 7
+  discord:
+    - date: 2023-12-31
+      value: 21303
   blog:
     - date: 2023-12-31
       value: 3801

@@ -8,6 +8,7 @@ readiness:
   technology: Connected to Relay chain
 target_audience:
   - Personal investors
+ecosystem: []
 layer:
   - Layer-1
 web:
@@ -24,6 +25,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 5
+  discord: []
   blog:
     - date: 2023-12-31
       value: 2400

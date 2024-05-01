@@ -13,7 +13,19 @@ target_audience:
   - Established corp
   - Personal investors
   - Institutional investors
-layer: []
+ecosystem:
+  - Polkadot
+  - Solana
+  - Ethereum
+  - Cosmos
+  - Avalanche
+  - Cardano
+  - Flow
+  - NEAR
+  - Polygon
+  - Sui
+layer:
+  - None
 web:
   logo: default.png
   site: https://www.coinbase.com/cloud
@@ -28,6 +40,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 11
+  discord: []
   blog:
     - date: 2023-12-31
       value: 335000

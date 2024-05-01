@@ -8,12 +8,15 @@ readiness:
   technology: In research
 target_audience:
   - Startup
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: default.png
   site: https://phyken.network/
   twitter: phyken_network
+  contact: hello@metaquity.xyz
 metrics:
   twitter:
     - date: 2023-12-31
@@ -22,5 +25,6 @@ metrics:
   github:
     - date: 2023-12-31
       value: 1
+  discord: []
   blog: []
   app_downloads: []

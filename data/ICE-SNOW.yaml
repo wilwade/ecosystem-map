@@ -2,13 +2,14 @@ name: ICE/SNOW
 category: []
 description: EVM and Wasm compatible network
 readiness:
-  technology: Connected to Relay chain
+  technology: Discontinued
 target_audience: []
+ecosystem: []
 layer:
   - Layer-3
 web:
   logo: default.png
-  site: ""
+  site: https://github.com/icon-community/ice-substrate
   twitter: helloiconworld
 metrics:
   twitter:
@@ -18,6 +19,7 @@ metrics:
       value: 26900
   youtube: []
   github: []
+  discord: []
   blog:
     - date: 2023-12-31
       value: 10481

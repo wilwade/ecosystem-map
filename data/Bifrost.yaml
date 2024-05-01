@@ -9,12 +9,18 @@ readiness:
 target_audience:
   - Startup
   - Personal investors
+ecosystem:
+  - Polkadot
+  - Kusama
+  - Ethereum
 layer:
   - Layer-1
 web:
   logo: Bifrost.jpg
   site: https://bifrost.finance/
   twitter: BifrostFinance
+  discord: https://discord.com/invite/8DRBw2h5X4
+  contact: hello@bifrost.finance
 metrics:
   twitter:
     - date: 2023-12-31
@@ -27,6 +33,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 200
+  discord:
+    - date: 2023-12-31
+      value: 17950
   blog:
     - date: 2023-12-31
       value: 4060

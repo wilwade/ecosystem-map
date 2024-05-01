@@ -14,11 +14,23 @@ target_audience:
   - Startup
   - Institutional investors
   - Community DAO
-layer: []
+ecosystem:
+  - Polkadot
+  - Kusama
+  - Aleph Zero
+  - Astar Network
+  - Moonbeam
+  - Acala Network
+  - Ethereum
+  - Polygon
+  - BNB Chain
+layer:
+  - None
 web:
   logo: Talisman.jpg
   site: https://talisman.xyz/
   twitter: wearetalisman
+  contact: info@talisman.xyz
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,6 +43,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 45
+  discord: []
   blog:
     - date: 2023-12-31
       value: 139

@@ -6,11 +6,15 @@ readiness:
   technology: In production
 target_audience:
   - Dev teams
-layer: []
+ecosystem:
+  - Polkadot
+layer:
+  - None
 web:
   logo: default.png
   site: https://polkastats.io/
   twitter: PolkaStats
+  contact: hello@polkastats.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -21,5 +25,6 @@ metrics:
   github:
     - date: 2023-12-31
       value: 20
+  discord: []
   blog: []
   app_downloads: []

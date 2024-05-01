@@ -14,18 +14,25 @@ target_audience:
   - Individuals
   - Established corp
   - Community DAO
+ecosystem:
+  - Polkadot
 layer:
   - Layer-4
 web:
   logo: zCloak Network.jpg
   site: https://zcloak.network/
   twitter: zCloakNetwork
+  discord: https://discord.com/invite/wcKt6MDRJz
+  contact: https://docs.google.com/forms/d/e/1FAIpQLSeywayoAtlCvVA11cy_1YCgFjpfbvQcE-fdusdxAkqL7hU82Q/viewform
 metrics:
   twitter:
     - date: 2023-12-31
       value: 64157
   youtube: []
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 40892
   blog:
     - date: 2023-12-31
       value: 1520

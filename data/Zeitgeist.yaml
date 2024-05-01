@@ -9,12 +9,15 @@ target_audience:
   - Community DAO
   - Personal investors
   - Individuals
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: Zeitgeist.jpg
   site: https://zeitgeist.pm
   twitter: ZeitgeistPM
+  discord: https://discord.com/invite/xv8HuA4s8v
 metrics:
   twitter:
     - date: 2023-12-31
@@ -27,5 +30,8 @@ metrics:
   github:
     - date: 2023-12-31
       value: 162
+  discord:
+    - date: 2023-12-31
+      value: 2226
   blog: []
   app_downloads: []

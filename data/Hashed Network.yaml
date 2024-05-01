@@ -9,6 +9,8 @@ readiness:
   technology: Connected to Relay chain
 target_audience:
   - Established corp
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
   - Layer-4
@@ -16,11 +18,13 @@ web:
   logo: default.png
   site: https://hashed.network/
   twitter: HashedNetwork
+  contact: https://hashed.network/contact/
 metrics:
   twitter:
     - date: 2023-12-31
       value: 879
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []

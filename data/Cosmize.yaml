@@ -17,18 +17,22 @@ target_audience:
   - Individuals
   - Startup
   - Dev teams
+ecosystem:
+  - Astar Network
 layer:
   - Layer-3
 web:
   logo: default.png
   site: https://www.cosmize.io/
   twitter: cosmize_io
+  contact: contact@cosmize.io
 metrics:
   twitter:
     - date: 2023-12-31
       value: 12477
   youtube: []
   github: []
+  discord: []
   blog:
     - date: 2023-12-31
       value: 71

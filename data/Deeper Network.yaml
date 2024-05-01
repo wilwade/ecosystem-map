@@ -8,12 +8,16 @@ readiness:
   technology: In production
 target_audience:
   - Individuals
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: default.png
   site: https://www.deeper.network/
   twitter: deeper_network
+  discord: https://discord.com/invite/EWUyAJyH2B
+  contact: marketing@deeper.network
 metrics:
   twitter:
     - date: 2023-12-31
@@ -24,6 +28,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 136
+  discord:
+    - date: 2023-12-31
+      value: 9581
   blog:
     - date: 2023-12-31
       value: 5835

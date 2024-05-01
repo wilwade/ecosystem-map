@@ -9,16 +9,24 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
-layer: []
+ecosystem:
+  - Polkadot
+  - Astar Network
+layer:
+  - None
 web:
   logo: default.png
   site: https://sio2.finance/
   twitter: SiO2_Finance
+  discord: https://discord.com/invite/7u53a255Nh
 metrics:
   twitter:
     - date: 2023-12-31
       value: 7449
   youtube: []
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 3379
   blog: []
   app_downloads: []
