@@ -15,16 +15,10 @@ export default function ChipFilterBlock({
 }) {
   return (
     <div>
-      <div
-        style={{
-          fontSize: "16px",
-          lineHeight: "20px",
-          padding: "8px 0px 8px 0",
-        }}
-      >
+      <div className="chip-header">
         {name}
       </div>
-      <div className="chip-block table--item">
+      <div className="chip-block">
         {Object.keys(filters)
           .sort()
           .map((i) => (

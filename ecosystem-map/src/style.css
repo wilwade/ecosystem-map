@@ -7,6 +7,7 @@ body {
   font-size: 14px;
   display: flex;
   align-items: center;
+  margin: 24px;
 }
 
 .roboto-regular {
@@ -41,7 +42,7 @@ a {
 
 .sub-header {
   font-size: 16px;
-  line-height: 30px;
+  margin-top: 8px;
 }
 
 .container {
@@ -53,7 +54,7 @@ a {
 .chip {
   --chip-color: #2196f3;
 
-  /* padding: 3px 3px; */
+  font-size: 16px;
   padding: 4px 8px;
   border-radius: 8px;
   color: var(--background);
@@ -69,6 +70,12 @@ a {
     background: var(--background);
     color: var(--black);
   }
+}
+
+.chip-header {
+  font-size: 20px;
+  line-height: 28px;
+  padding: 8px, 0;
 }
 
 .chip-block {
@@ -127,7 +134,7 @@ a {
 
 .metrics-panel {
   display: grid;
-  grid-template-columns: 5rem 5rem auto;
+  grid-template-columns: 6rem 6rem auto;
   grid-template-rows: auto auto auto;
   flex-direction: column;
   gap: 0.5rem;

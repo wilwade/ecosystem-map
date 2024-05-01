@@ -1,227 +1,394 @@
 [{
-        "name": "enim sit eiusmod magna amet",
-        "description": "occaecat Lorem",
-        "web": {
-            "site": "proident dolor minim dolore",
-            "blog": "sint aliqua commodo voluptate non",
-            "logo": "default.png"
-        },
-        "layer": [
-            "Layer-1"
-        ],
-        "target_audience": [
-            "Dev teams",
-            "Established corp"
-        ],
-        "category": [
-            "NFT"
-        ],
-        "readiness": {
-            "technology": "In development",
-            "business": "Verified in market/high adoption"
-        },
-        "metrics": {
-            "twitter": [{
-                    "date": "2020-10-22",
-                    "value": 39703090
-                },
-                {
-                    "date": "2028-11-10",
-                    "value": 63613475
-                },
-                {
-                    "date": "2028-12-31",
-                    "value": 11465972
-                }
-            ],
-            "blog": [{
-                    "date": "2034-04-11",
-                    "value": 40547892
-                },
-                {
-                    "date": "2028-02-11",
-                    "value": 22127308
-                },
-                {
-                    "date": "2031-12-01",
-                    "value": 6356683
-                }
-            ],
-            "youtube": [{
-                    "date": "2023-09-01",
-                    "value": 75825487
-                },
-                {
-                    "date": "2023-12-31",
-                    "value": 90359585
-                }
-            ],
-            "github": [{
-                    "date": "2036-03-30",
-                    "value": 72247774
-                },
-                {
-                    "date": "2034-09-06",
-                    "value": 60285091
-                },
-                {
-                    "date": "2026-03-11"
-                },
-                {
-                    "date": "2025-11-19",
-                    "value": 72603108
-                }
-            ],
-            "app_downloads": []
-        }
+    "name": "Acala / Karura",
+    "category": ["DeFi"],
+    "description": "DeFi platform that offers a suite of financial products and services, including lending, borrowing, staking, and trading, in a secure and scalable way. Acala is also Ethereum-compatible, making it easy for developers to bring their existing applications to the Polkadot ecosystem.",
+    "readiness": {
+        "business": "Scaling/Alliance",
+        "technology": "Connected to Relay chain"
     },
-
-    {
-        "name": "cillum adipisicing",
-        "description": "elit officia",
-        "inactive": true,
-        "web": {
-            "site": "sed dolor",
-            "twitter": "ea nisi Lorem minim anim",
-            "blog": "ipsum fugiat reprehenderit nisi",
-            "github": "dolore ea",
-            "logo": "default.png"
-        },
-        "layer": [
-            "Layer-0",
-            "Layer-2"
-        ],
-        "target_audience": [
-            "Governmental org",
-            "Established corp",
-            "Personal investors"
-        ],
-        "category": [
-            "NFT",
-            "Exchange",
-            "EVM",
-            "Analytics",
-            "Bridge"
-        ],
-        "readiness": {
-            "technology": "Connected to Relay chain",
-            "business": "Scaling/Alliance"
-        },
-        "metrics": {
-            "twitter": [{
-                    "date": "2026-12-30",
-                    "value": 97542240
-                },
-                {
-                    "date": "2030-02-09"
-                },
-                {
-                    "date": "2031-12-30"
-                }
-            ],
-            "blog": [{
-                    "value": 46405131
-                },
-                {
-                    "date": "2033-07-10",
-                    "value": 97405028
-                }
-            ],
-            "github": [{
-                    "date": "2029-12-21",
-                    "value": 83346538
-                },
-                {
-                    "date": "2023-03-31",
-                    "value": 14717764
-                },
-                {
-                    "date": "2027-10-15"
-                }
-            ],
-            "app_downloads": [{
-                "date": "2038-03-31",
-                "value": 83413310
-            }]
-        }
+    "target_audience": ["Dev teams", "Startup", "Personal investors", "Institutional investors", "Community DAO"],
+    "layer": ["Layer-3"],
+    "web": {
+        "logo": "Acala - Karura.jpg",
+        "site": "https://acala.network/",
+        "twitter": "AcalaNetwork"
     },
-
-    {
-        "name": "sint",
-        "description": "sit aute",
-        "web": {
-            "site": "aliqua tempor pariatur veniam",
-            "logo": "default.png"
-        },
-        "layer": [
-            "Layer-2",
-            "Layer-3",
-            "Layer-4"
-        ],
-        "target_audience": [
-            "Research institute",
-            "Governmental org",
-            "Dev teams"
-        ],
-        "category": [
-            "Bridge",
-            "DAO",
-            "Data"
-        ],
-        "readiness": {
-            "technology": "In production",
-            "business": "Scaling/Alliance"
-        },
-        "metrics": {
-            "twitter": [{
-                "date": "2021-01-10",
-                "value": 30255452
-            }],
-            "blog": [{
-                    "date": "2033-11-08",
-                    "value": 58540716
-                },
-                {
-                    "date": "2036-12-29",
-                    "value": 1045081
-                },
-                {
-                    "date": "2026-03-07",
-                    "value": 92574001
-                },
-                {
-                    "date": "2038-08-30",
-                    "value": 65718989
-                },
-                {
-                    "value": 46972262
-                }
-            ],
-            "github": [{
-                    "date": "2022-09-30",
-                    "value": 48462036
-                },
-                {
-                    "date": "2035-06-21"
-                }
-            ],
-            "app_downloads": [{
-                    "date": "2037-05-21",
-                    "value": 17231615
-                },
-                {
-                    "date": "2020-06-04",
-                    "value": 3868458
-                },
-                {
-                    "date": "2028-09-21",
-                    "value": 71094472
-                },
-                {
-                    "date": "2023-07-05",
-                    "value": 81236366
-                }
-            ]
-        }
+    "metrics": {
+        "twitter": [{
+            "date": "2023-12-31",
+            "value": 260292
+        }, {
+            "date": "2022-12-31",
+            "value": 269100
+        }],
+        "youtube": [{
+            "date": "2023-12-31",
+            "value": 17300
+        }],
+        "github": [{
+            "date": "2023-12-31",
+            "value": 708
+        }],
+        "blog": [{
+            "date": "2023-12-31",
+            "value": 5954
+        }],
+        "app_downloads": [{
+            "date": "2023-12-31",
+            "value": 0
+        }]
     }
-]
+}, {
+    "name": "Acurast",
+    "category": ["Oracle", "Infra", "Data"],
+    "description": "Decentralized Serverless Cloud protocol",
+    "readiness": {
+        "technology": "Validated POC / testnet"
+    },
+    "target_audience": ["Dev teams", "Startup"],
+    "layer": ["Layer-1"],
+    "web": {
+        "logo": "Acurast.jpg",
+        "site": "https://acurast.com/",
+        "twitter": "Acurast"
+    },
+    "metrics": {
+        "twitter": [{
+            "date": "2023-12-31",
+            "value": 18227
+        }],
+        "youtube": [{
+            "date": "2023-12-31",
+            "value": 71
+        }],
+        "github": [{
+            "date": "2023-12-31",
+            "value": 3
+        }],
+        "blog": [{
+            "date": "2023-12-31",
+            "value": 80
+        }],
+        "app_downloads": [{
+            "date": "2023-12-31",
+            "value": 0
+        }]
+    }
+}, {
+    "name": "Airgap",
+    "category": ["Wallet"],
+    "description": "non-custodial cold secure mobile wallet",
+    "readiness": {
+        "technology": "Validated POC / testnet"
+    },
+    "target_audience": ["Personal investors", "Individuals"],
+    "layer": ["Layer-4"],
+    "web": {
+        "logo": "Airgap.jpg",
+        "site": "https://airgap.it",
+        "twitter": "AirGap_it"
+    },
+    "metrics": {
+        "twitter": [{
+            "date": "2023-12-31",
+            "value": 6544
+        }, {
+            "date": "2022-12-31",
+            "value": 4700
+        }],
+        "youtube": [{
+            "date": "2023-12-31",
+            "value": 240
+        }],
+        "github": [{
+            "date": "2023-12-31",
+            "value": 384
+        }],
+        "blog": [{
+            "date": "2023-12-31",
+            "value": 284
+        }],
+        "app_downloads": [{
+            "date": "2023-12-31",
+            "value": 10000
+        }]
+    }
+}, {
+    "name": "Ajuna/Bajun",
+    "category": ["Game", "NFT", "Privacy"],
+    "description": "hosting and support for Unity games",
+    "readiness": {
+        "business": "Scaling/Alliance",
+        "technology": "Connected to Relay chain"
+    },
+    "target_audience": ["Startup"],
+    "layer": ["Layer-2"],
+    "web": {
+        "logo": "Ajuna-Bajun.jpg",
+        "site": "https://ajuna.io/baju/",
+        "twitter": "AjunaNetwork"
+    },
+    "metrics": {
+        "twitter": [{
+            "date": "2023-12-31",
+            "value": 21256
+        }, {
+            "date": "2022-12-31",
+            "value": 16400
+        }],
+        "youtube": [{
+            "date": "2023-12-31",
+            "value": 360
+        }],
+        "github": [{
+            "date": "2023-12-31",
+            "value": 37
+        }],
+        "blog": [{
+            "date": "2023-12-31",
+            "value": 3500
+        }],
+        "app_downloads": [{
+            "date": "2023-12-31",
+            "value": 0
+        }]
+    }
+}, {
+    "name": "Aleph Zero",
+    "category": ["Privacy", "Smart Contracts", "Wallet"],
+    "description": "Public blockchain",
+    "readiness": {
+        "business": "Scaling/Alliance",
+        "technology": "In production"
+    },
+    "target_audience": ["Established corp", "Institutional investors"],
+    "layer": ["Layer-1"],
+    "web": {
+        "logo": "Aleph Zero.jpg",
+        "site": "https://alephzero.org/",
+        "twitter": "Aleph__Zero"
+    },
+    "metrics": {
+        "twitter": [{
+            "date": "2023-12-31",
+            "value": 159723
+        }, {
+            "date": "2022-12-31",
+            "value": 109500
+        }],
+        "youtube": [{
+            "date": "2023-12-31",
+            "value": 1890
+        }],
+        "github": [{
+            "date": "2023-12-31",
+            "value": 94
+        }],
+        "blog": [{
+            "date": "2023-12-31",
+            "value": 182
+        }],
+        "app_downloads": [{
+            "date": "2023-12-31",
+            "value": 0
+        }]
+    }
+}, {
+    "name": "Algem",
+    "category": ["DeFi", "Dapp"],
+    "description": "liquid staking DeFi dApp on top of Astar Network",
+    "readiness": {
+        "business": "Verified in market/high adoption",
+        "technology": "Connected to Parachain"
+    },
+    "target_audience": ["Personal investors", "Institutional investors"],
+    "layer": ["Layer-3"],
+    "web": {
+        "logo": "default.png",
+        "site": "https://www.algem.io/",
+        "twitter": "Algem_io"
+    },
+    "metrics": {
+        "twitter": [{
+            "date": "2023-12-31",
+            "value": 8612
+        }],
+        "youtube": [],
+        "github": [{
+            "date": "2023-12-31",
+            "value": 4
+        }],
+        "blog": [],
+        "app_downloads": []
+    }
+}, {
+    "name": "Apexti/web3metrics",
+    "category": ["Data", "Analytics", "Indexer"],
+    "description": "infrastructure and indexing services",
+    "readiness": {},
+    "target_audience": ["Dev teams"],
+    "layer": [],
+    "web": {
+        "logo": "default.png",
+        "site": "https://www.apexti.com/",
+        "twitter": "apexti"
+    },
+    "metrics": {
+        "twitter": [{
+            "date": "2023-12-31",
+            "value": 11
+        }],
+        "youtube": [],
+        "github": [],
+        "blog": [],
+        "app_downloads": []
+    }
+}, {
+    "name": "Apillon",
+    "category": ["Infra", "API"],
+    "description": "unified API endpoints to web3 services",
+    "readiness": {
+        "business": "Verified in market/high adoption",
+        "technology": "Validated POC / testnet"
+    },
+    "target_audience": ["Startup", "Established corp", "Dev teams"],
+    "layer": ["Layer-4", "Layer-2"],
+    "web": {
+        "logo": "Apillon.jpg",
+        "site": "https://apillon.io",
+        "twitter": "Apillon"
+    },
+    "metrics": {
+        "twitter": [{
+            "date": "2023-12-31",
+            "value": 42000
+        }, {
+            "date": "2022-12-31",
+            "value": 37700
+        }],
+        "youtube": [{
+            "date": "2023-12-31",
+            "value": 99
+        }],
+        "github": [{
+            "date": "2023-12-31",
+            "value": 8
+        }],
+        "blog": [{
+            "date": "2023-12-31",
+            "value": 306
+        }],
+        "app_downloads": [{
+            "date": "2023-12-31",
+            "value": 0
+        }]
+    }
+}, {
+    "name": "Apron Labs",
+    "category": ["Data", "API"],
+    "description": "API access to various blockchain networks",
+    "readiness": {
+        "business": "Scaling/Alliance",
+        "technology": "In development"
+    },
+    "target_audience": ["Startup", "Dev teams"],
+    "layer": ["Layer-3"],
+    "web": {
+        "logo": "Apron Labs.jpg",
+        "site": "https://apron.network/",
+        "twitter": "apronofficial1"
+    },
+    "metrics": {
+        "twitter": [{
+            "date": "2023-12-31",
+            "value": 30383
+        }, {
+            "date": "2022-12-31",
+            "value": 32500
+        }],
+        "youtube": [{
+            "date": "2023-12-31",
+            "value": 0
+        }],
+        "github": [{
+            "date": "2023-12-31",
+            "value": 3
+        }],
+        "blog": [{
+            "date": "2023-12-31",
+            "value": 32923
+        }],
+        "app_downloads": [{
+            "date": "2023-12-31",
+            "value": 0
+        }]
+    }
+}, {
+    "name": "Ares Protocol/Mars",
+    "category": ["Oracle", "Indexer"],
+    "description": "decentralized cross-chain oracle",
+    "readiness": {
+        "business": "Scaling/Alliance",
+        "technology": "In development"
+    },
+    "target_audience": ["Dev teams", "Startup"],
+    "layer": ["Layer-1"],
+    "web": {
+        "logo": "Ares Protocol-Mars.jpg",
+        "site": "https://www.aresprotocol.io/",
+        "twitter": "AresProtocolLab"
+    },
+    "metrics": {
+        "twitter": [{
+            "date": "2023-12-31",
+            "value": 29822
+        }],
+        "youtube": [{
+            "date": "2023-12-31",
+            "value": 125
+        }],
+        "github": [{
+            "date": "2023-12-31",
+            "value": 54
+        }],
+        "blog": [{
+            "date": "2023-12-31",
+            "value": 2650
+        }],
+        "app_downloads": [{
+            "date": "2023-12-31",
+            "value": 0
+        }]
+    }
+}, {
+    "name": "Arthswap",
+    "category": ["DeFi"],
+    "description": "Defi services like swap, pools, staking on Astar",
+    "readiness": {
+        "business": "Verified in market/high adoption",
+        "technology": "Connected to Parachain"
+    },
+    "target_audience": ["Personal investors", "Institutional investors"],
+    "layer": [],
+    "web": {
+        "logo": "default.png",
+        "site": "https://www.arthswap.org",
+        "twitter": "arthswap"
+    },
+    "metrics": {
+        "twitter": [{
+            "date": "2023-12-31",
+            "value": 96638
+        }],
+        "youtube": [],
+        "github": [{
+            "date": "2023-12-31",
+            "value": 11
+        }],
+        "blog": [{
+            "date": "2023-12-31",
+            "value": 2958
+        }],
+        "app_downloads": []
+    }
+}]

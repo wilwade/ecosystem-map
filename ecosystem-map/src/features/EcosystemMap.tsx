@@ -138,9 +138,13 @@ export default function EcosystemMap() {
           of projects
         </div>
         <div className="sub-header">
-          curated by JUST Opensource team. This is a preview of our database,
+          Curated by JUST Open Source team. This is a preview of our database,
           for further details please visit <a href="https://github.com/JUSTBeteiligungen/ecosystem-map">our Github</a>. Filter by category, type
-          and potential audience. The directory is available for general information purposes only and is not an official endorsement of the projects by JUST team.
+          and potential audience.
+          <br />
+          <i>
+            The directory is available for general information purposes only and is not an official endorsement of the projects by JUST team.
+          </i>
         </div>
       </div>
       <div style={{ display: "flex", flexDirection: "column", gap: "8px" }}>

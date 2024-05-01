@@ -38,6 +38,20 @@ function BlogLogo() {
   );
 }
 
+function AppLogo() {
+  return (
+    <svg xmlns="http://www.w3.org/2000/svg" fill="#000000" height="15px" width="15px" version="1.1" viewBox="0 0 512 512">
+      <g>
+        <g>
+          <path d="M410.8,12H103.2C74.4,12,51,35.5,51,64.3v385.4c0,28.9,23.4,52.3,52.2,52.3h307.5c28.8,0,52.2-23.5,52.2-52.3V64.3    C463,35.5,439.6,12,410.8,12z M422.2,449.7c0,6.3-5.1,11.5-11.5,11.5H103.2c-6.3,0-11.5-5.2-11.5-11.5V64.3    c0-6.3,5.1-11.5,11.5-11.5h307.5c6.3,0,11.5,5.2,11.5,11.5V449.7z"/>
+          <path d="m315.7,209.7c-9.4-6.2-22-3.6-28.3,5.8l-10,15.2v-114.9c0-11.3-9.1-20.4-20.4-20.4-11.3,0-20.4,9.1-20.4,20.4v114.9l-10-15.2c-6.2-9.4-18.9-12-28.3-5.8-9.4,6.2-12,18.9-5.8,28.3l47.4,71.9c3.8,5.7 10.2,9.2 17,9.2 6.8,0 13.2-3.4 17-9.2l47.4-71.9c6.4-9.4 3.8-22.1-5.6-28.3z"/>
+          <path d="m272.7,401.2h-31.4c-11.3,0-20.4,9.1-20.4,20.4s9.1,20.4 20.4,20.4h31.4c11.3,0 20.4-9.1 20.4-20.4s-9.1-20.4-20.4-20.4z"/>
+        </g>
+      </g>
+    </svg>
+  )
+}
+
 export default function Metrics({ project }: { project: ProjectInfo }) {
   const twitter = React.useMemo(
     () =>
@@ -89,21 +103,14 @@ export default function Metrics({ project }: { project: ProjectInfo }) {
       : undefined;
   }, [blog, youtube, twitter]);
 
-  const engagement = React.useMemo(() => {
-    if (appDownloads === undefined || appDownloads === 0) {
-      if (blog === undefined || youtube === undefined || github === undefined) {
-        return undefined;
-      }
+  const techEngagement = React.useMemo(() => {
+      const s = Number(blog) + Number(youtube);
+      return s > 0 ? round((Number(github) / s) * 100, 100) : undefined;
+  }, [github, blog, youtube]);
 
-      const s = blog + youtube;
-
-      return s > 0 ? round((github / s) * 100, 100) : undefined;
-    }
-
-    return Number(twitter) > 0
-      ? round((appDownloads / Number(twitter)) * 100, 100)
-      : undefined;
-  }, [appDownloads, twitter, github, blog, youtube]);
+  const engagement = React.useMemo(() => Number(twitter) > 0
+      ? round((Number(appDownloads) / Number(twitter)) * 100, 100)
+      : undefined, [appDownloads, twitter, github, blog, youtube]);
 
   return (
     <div className="metrics-panel">
@@ -111,7 +118,10 @@ export default function Metrics({ project }: { project: ProjectInfo }) {
       <div className="roboto-medium">Engagement</div>
       <div className="roboto-medium">Readiness</div>
       <div>
-        <TwitterLogo /> {twitter ?? "—"}
+        {project.web.twitter ?
+          <a href={`https://x.com/${project.web.twitter}`}><TwitterLogo /> {twitter ?? "—"}</a> :
+          <><TwitterLogo /> {twitter ?? "—"}</>
+        }
       </div>
       <div />
       <div>{project.readiness.business ?? "—"}</div>
@@ -125,7 +135,16 @@ export default function Metrics({ project }: { project: ProjectInfo }) {
       <div>
         <GithubLogo /> {github ?? "—"}
       </div>
-      <div style={{ opacity: 0.5 }}>{engagement ? `${engagement}%` : "—"}</div>
+      <div style={{ opacity: 0.5 }}>{techEngagement ? `${techEngagement}%` : "—"}</div>
+      <div />
+      {appDownloads ? (
+        <>
+          <div><AppLogo /> {appDownloads ?? "—"}</div>
+          <div style={{ opacity: 0.5 }}>{engagement ? `${engagement}%` : "—"}</div>
+          <div />
+        </>
+      ) : undefined}
+      
     </div>
   );
 }
