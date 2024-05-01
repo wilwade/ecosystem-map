@@ -79,6 +79,7 @@
     {
         "name": "cillum adipisicing",
         "description": "elit officia",
+        "inactive": true,
         "web": {
             "site": "sed dolor",
             "twitter": "ea nisi Lorem minim anim",

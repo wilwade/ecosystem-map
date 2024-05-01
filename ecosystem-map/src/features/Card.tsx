@@ -17,8 +17,10 @@ export default function Card({
     [P in TCategory]: (key: string) => void;
   };
 }) {
+  const inactive = card?.inactive ? "project-card--inactive" : "";
+
   return (
-    <div className="project-card">
+    <div className={`project-card ${inactive}`}>
       <div className="project-card__header">
         <div className="project-card__header--logo">
           <img
@@ -32,7 +34,7 @@ export default function Card({
         </div>
         <div className="project-card__header--name">
           <a target="_blank" href={card.web.site} rel="noreferrer noopener">
-            {card.name}
+            {card.name} {inactive ? "[inactive]" : ""}
           </a>
         </div>
       </div>
