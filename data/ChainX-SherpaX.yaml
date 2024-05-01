@@ -33,4 +33,3 @@ metrics:
     - date: 2023-12-31
       value: 4870
   app_downloads: []
-inactive: true

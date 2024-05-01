@@ -28,7 +28,6 @@ export interface Metrics {
 export interface ProjectInfo {
   name: string;
   description: string;
-  inactive?: boolean;
   category: string[];
   target_audience: string[];
   ecosystem?: string[];

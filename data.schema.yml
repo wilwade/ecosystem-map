@@ -19,9 +19,6 @@ properties:
     type: string
   description:
     type: string
-  inactive:
-    type: boolean
-    default: false
 
   web:
     type: object

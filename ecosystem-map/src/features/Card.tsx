@@ -17,7 +17,7 @@ export default function Card({
     [P in TCategory]: (key: string) => void;
   };
 }) {
-  const inactive = card?.inactive ? "project-card--inactive" : "";
+  const inactive = card?.readiness?.technology === "Discontinued" ? "project-card--inactive" : "";
 
   return (
     <div className={`project-card ${inactive}`}>
