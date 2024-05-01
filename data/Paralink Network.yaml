@@ -5,17 +5,21 @@ category:
 description: Oracle, query tool for smart contracts
 readiness:
   business: Scaling/Alliance
-  technology: In development
+  technology: Discontinued
 target_audience:
   - Startup
   - Dev teams
   - Established corp
+ecosystem:
+  - Polkadot
 layer:
   - Layer-3
 web:
   logo: default.png
   site: https://paralink.network
   twitter: ParalinkNetwork
+  discord: https://discord.com/invite/QzaZAqJT6B
+  contact: info@paralink.network
 metrics:
   twitter:
     - date: 2023-12-31
@@ -26,6 +30,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 4
+  discord:
+    - date: 2023-12-31
+      value: 130
   blog: []
   app_downloads: []
 inactive: true

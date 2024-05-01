@@ -9,6 +9,8 @@ readiness:
   technology: In production
 target_audience:
   - Individuals
+ecosystem:
+  - Moonbeam
 layer:
   - Layer-3
 web:
@@ -21,5 +23,6 @@ metrics:
       value: 7673
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []

@@ -4,10 +4,13 @@ category:
   - Validator provider
 description: comprehensive on-chain key staking statistics monitoring, optimized
   staking strategy guidance
-readiness: {}
+readiness:
+  technology: Discontinued
 target_audience:
   - Dev teams
-layer: []
+ecosystem: []
+layer:
+  - None
 web:
   logo: default.png
   site: polkacube.hashquark.io
@@ -15,6 +18,7 @@ metrics:
   twitter: []
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []
 inactive: true

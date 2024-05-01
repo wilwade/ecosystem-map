@@ -11,6 +11,8 @@ readiness:
   technology: In production
 target_audience:
   - Dev teams
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
   - Layer-3
@@ -18,12 +20,14 @@ web:
   logo: default.png
   site: https://humanode.io/
   twitter: humanode_io
+  contact: core@humanode.io
 metrics:
   twitter:
     - date: 2023-12-31
       value: 149761
   youtube: []
   github: []
+  discord: []
   blog:
     - date: 2023-12-31
       value: 576

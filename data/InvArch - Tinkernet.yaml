@@ -1,4 +1,4 @@
-name: InvArch /Tinkernet
+name: InvArch / Tinkernet
 category:
   - DeFi
   - NFT
@@ -16,14 +16,18 @@ target_audience:
   - Established corp
   - Research institute
   - Governmental org
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-1
   - Layer-2
   - Layer-3
 web:
-  logo: InvArch -Tinkernet.jpg
+  logo: InvArch - Tinkernet.jpg
   site: https://invarch.network/
   twitter: InvArchNetwork
+  discord: https://discord.com/invite/InvArch
 metrics:
   twitter:
     - date: 2023-12-31
@@ -36,6 +40,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 27
+  discord:
+    - date: 2023-12-31
+      value: 31676
   blog:
     - date: 2023-12-31
       value: 1000

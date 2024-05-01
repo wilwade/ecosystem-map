@@ -9,18 +9,26 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
+ecosystem:
+  - Polkadot
+  - Astar Network
+  - Acala Network
 layer:
   - Layer-1
 web:
   logo: default.png
   site: https://starlay.finance/
   twitter: starlay_fi
+  discord: https://discord.com/invite/M4NjBJZ94b
 metrics:
   twitter:
     - date: 2023-12-31
       value: 80112
   youtube: []
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 39273
   blog:
     - date: 2023-12-31
       value: 1054

@@ -13,6 +13,8 @@ target_audience:
   - Established corp
   - Startup
   - Individuals
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
   - Layer-4
@@ -20,6 +22,8 @@ web:
   logo: Kilt.jpg
   site: https://www.kilt.io/
   twitter: Kiltprotocol
+  discord: https://discord.com/invite/HztRqvzbhG
+  contact: https://www.kilt.io/contact-us
 metrics:
   twitter:
     - date: 2023-12-31
@@ -32,6 +36,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 67
+  discord:
+    - date: 2023-12-31
+      value: 1385
   blog:
     - date: 2023-12-31
       value: 2200

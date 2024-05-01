@@ -11,12 +11,21 @@ target_audience:
   - Startup
   - Dev teams
   - Community DAO
+ecosystem:
+  - Polkadot
+  - Polygon
+  - Solana
+  - TON
+  - Ethereum
+  - BNB Chain
+  - Cosmos
 layer:
   - Layer-3
 web:
   logo: Dora Factory.jpg
   site: https://dorafactory.org/
   twitter: DoraFactory
+  contact: support@dorafactory.org
 metrics:
   twitter:
     - date: 2023-12-31
@@ -29,6 +38,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 13
+  discord: []
   blog:
     - date: 2023-12-31
       value: 839

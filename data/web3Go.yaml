@@ -11,12 +11,18 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
+ecosystem:
+  - Polkadot
+  - BNB Chain
+  - Moonbeam
 layer:
   - Layer-2
 web:
   logo: web3Go.jpg
-  site: https://web3go.xyz/#/home/main
+  site: https://web3go.xyz/
   twitter: Web3Go
+  discord: https://discord.com/invite/web3go
+  contact: info@web3go.xyz
 metrics:
   twitter:
     - date: 2023-12-31
@@ -29,6 +35,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 10
+  discord:
+    - date: 2023-12-31
+      value: 222525
   blog:
     - date: 2023-12-31
       value: 7031

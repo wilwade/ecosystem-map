@@ -13,12 +13,17 @@ target_audience:
   - Individuals
   - Startup
   - Dev teams
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-3
 web:
   logo: Unique network-Quartz.jpg
   site: https://unique.network
   twitter: Unique_NFTchain
+  discord: https://discord.com/invite/jHVdZhsakC
+  contact: hello@unique.network
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,6 +36,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 111
+  discord:
+    - date: 2023-12-31
+      value: 15757
   blog:
     - date: 2023-12-31
       value: 704

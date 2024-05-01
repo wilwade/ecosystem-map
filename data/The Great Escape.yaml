@@ -8,16 +8,24 @@ readiness:
   technology: Connected to Parachain
 target_audience:
   - Individuals
-layer: []
+ecosystem:
+  - Moonbeam
+layer:
+  - None
 web:
   logo: The Great Escape.jpg
   site: https://www.playtge.com/
   twitter: PlayTGE
+  discord: https://discord.com/invite/keJS7k8MUT
+  contact: contact@thegreatescapegame.com
 metrics:
   twitter:
     - date: 2023-12-31
       value: 5289
   youtube: []
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 2132
   blog: []
   app_downloads: []

@@ -12,6 +12,9 @@ target_audience:
   - Startup
   - Dev teams
   - Individuals
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-2
   - Layer-3
@@ -20,6 +23,7 @@ web:
   logo: Edgeware-Kabocha.jpg
   site: https://edgewa.re/
   twitter: EdgewareDAO
+  discord: https://discord.com/invite/bDktqyj
 metrics:
   twitter:
     - date: 2023-12-31
@@ -32,6 +36,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 14
+  discord:
+    - date: 2023-12-31
+      value: 3769
   blog:
     - date: 2023-12-31
       value: 300

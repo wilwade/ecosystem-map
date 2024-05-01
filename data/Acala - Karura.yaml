@@ -14,12 +14,17 @@ target_audience:
   - Personal investors
   - Institutional investors
   - Community DAO
+ecosystem:
+  - Polkadot
+  - Acala Network
 layer:
   - Layer-3
 web:
   logo: Acala - Karura.jpg
   site: https://acala.network/
   twitter: AcalaNetwork
+  discord: https://discord.com/invite/amxDHYvy
+  contact: hello@acala.network
 metrics:
   twitter:
     - date: 2023-12-31
@@ -32,6 +37,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 708
+  discord:
+    - date: 2023-12-31
+      value: 3537
   blog:
     - date: 2023-12-31
       value: 5954

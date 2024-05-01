@@ -12,6 +12,8 @@ target_audience:
   - Individuals
   - Governmental org
   - Community DAO
+ecosystem:
+  - Kusama
 layer:
   - Layer-1
   - Layer-4
@@ -19,6 +21,7 @@ web:
   logo: Encointer.jpg
   site: https://encointer.org/
   twitter: encointer
+  contact: https://encointer.org/contact-us/
 metrics:
   twitter:
     - date: 2023-12-31
@@ -29,6 +32,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 4
+  discord: []
   blog:
     - date: 2023-12-31
       value: 90

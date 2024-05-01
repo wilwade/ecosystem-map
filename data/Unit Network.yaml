@@ -19,12 +19,16 @@ target_audience:
   - Dev teams
   - Individuals
   - Personal investors
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: Unit Network.jpg
   site: https://www.unit.network/
   twitter: theunitnetwork
+  discord: https://discord.com/invite/unitnetwork
+  contact: support@unit.network
 metrics:
   twitter:
     - date: 2023-12-31
@@ -33,6 +37,9 @@ metrics:
     - date: 2023-12-31
       value: 5230
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 549
   blog:
     - date: 2023-12-31
       value: 4000

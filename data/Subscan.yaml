@@ -10,11 +10,20 @@ readiness:
   technology: In production
 target_audience:
   - Dev teams
-layer: []
+ecosystem:
+  - Polkadot
+  - Kusama
+  - Aleph Zero
+  - Astar Network
+  - Moonbeam
+  - Acala Network
+layer:
+  - None
 web:
   logo: Subscan.jpg
   site: http://subscan.io
   twitter: subscan_io
+  contact: hello@subscan.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -23,6 +32,7 @@ metrics:
       value: 14600
   youtube: []
   github: []
+  discord: []
   blog:
     - date: 2023-12-31
       value: 95

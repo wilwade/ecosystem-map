@@ -1,10 +1,11 @@
-name: Novasama Tech
+name: Nova Wallet / Spektr / Vault
 category:
   - Wallet
   - NFT
   - Dapp
   - DAO
-description: non-custodial mobile wallet w crowdloans  and staking
+description: non-custodial mobile wallet w crowdloans  and staking, enterprise
+  desktop wallet with multisigs, highly secure cold wallet
 readiness:
   business: Scaling/Alliance
   technology: In production
@@ -13,10 +14,18 @@ target_audience:
   - Personal investors
   - Institutional investors
   - Community DAO
-layer: []
+ecosystem:
+  - Polkadot
+  - Kusama
+  - Aleph Zero
+  - Moonbeam
+  - Astar Network
+  - Acala Network
+layer:
+  - Layer-4
 web:
-  logo: Novasama Tech.jpg
-  site: https://novawallet.io/
+  logo: Nova Wallet - Spektr / Vault.jpg
+  site: https://novasama.io/
   twitter: NovaWalletApp
 metrics:
   twitter:
@@ -30,6 +39,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 14
+  discord: []
   blog:
     - date: 2023-12-31
       value: 1800

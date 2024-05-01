@@ -10,12 +10,23 @@ target_audience:
   - Dev teams
   - Startup
   - Personal investors
+ecosystem:
+  - Polkadot
+  - Kusama
+  - Ethereum
+  - Cosmos
+  - Solana
+  - NEAR
+  - Astar Network
+  - Moonbeam
 layer:
   - Layer-1
 web:
   logo: Composable Finance - Picasso.jpg
   site: http://composable.finance
   twitter: ComposableFin
+  discord: https://discord.com/invite/composable
+  contact: https://docs.google.com/forms/d/e/1FAIpQLSc29Jwg0VAJdFB9_NZ2IvH6HVX8Af7XqiyVt2LUxecn5Ilosw/viewform
 metrics:
   twitter:
     - date: 2023-12-31
@@ -28,6 +39,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 67
+  discord:
+    - date: 2023-12-31
+      value: 19944
   blog:
     - date: 2023-12-31
       value: 1600

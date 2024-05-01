@@ -14,17 +14,22 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
-layer: []
+ecosystem:
+  - Moonbeam
+layer:
+  - None
 web:
   logo: default.png
   site: https://beamswap.io/
   twitter: Beamswapio
+  contact: info@beamswap.io
 metrics:
   twitter:
     - date: 2023-12-31
       value: 65743
   youtube: []
   github: []
+  discord: []
   blog:
     - date: 2023-12-31
       value: 16711

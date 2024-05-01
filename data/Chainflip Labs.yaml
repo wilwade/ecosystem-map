@@ -8,12 +8,17 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
+ecosystem:
+  - Polkadot
+  - Ethereum
+  - Bitcoin
 layer:
   - Layer-3
 web:
-  logo: chainflip.png
+  logo: Chainflip Labs.jpg
   site: https://chainflip.io/
   twitter: Chainflip
+  contact: https://docs.google.com/forms/d/e/1FAIpQLSeH-IXNGzcMNLNFFaTxWYcMXNPOeEQHSggs_5P9RASV22_WkQ/viewform
 metrics:
   twitter:
     - date: 2023-12-31
@@ -26,5 +31,6 @@ metrics:
   github:
     - date: 2023-12-31
       value: 11
+  discord: []
   blog: []
   app_downloads: []

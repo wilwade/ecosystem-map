@@ -12,6 +12,12 @@ target_audience:
   - Startup
   - Established corp
   - Individuals
+ecosystem:
+  - Aave
+  - Ethereum
+  - BNB Chain
+  - NEAR
+  - Polkadot
 layer:
   - Layer-4
   - Layer-2
@@ -19,6 +25,7 @@ web:
   logo: Ontology.jpg
   site: https://ont.io/
   twitter: OntologyNetwork
+  contact: https://ont.io/contact/
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,6 +38,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 816
+  discord: []
   blog:
     - date: 2023-12-31
       value: 11700

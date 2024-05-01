@@ -11,17 +11,22 @@ readiness:
 target_audience:
   - Dev teams
   - Startup
+ecosystem:
+  - Ethereum
+  - Moonbeam
 layer:
   - Layer-3
 web:
   logo: default.png
   site: https://www.evelon.app/
   twitter: EvelonApp
+  contact: team@evelon.app
 metrics:
   twitter:
     - date: 2023-12-31
       value: 5951
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []

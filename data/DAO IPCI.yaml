@@ -12,12 +12,15 @@ target_audience:
   - Research institute
   - Community DAO
   - Governmental org
+ecosystem:
+  - Polkadot
 layer:
   - Layer-3
 web:
   logo: DAO IPCI.jpg
   site: https://ipci.io/
   twitter: DAO_IPCI
+  contact: info@ipci.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -28,5 +31,6 @@ metrics:
   github:
     - date: 2023-12-31
       value: 2
+  discord: []
   blog: []
   app_downloads: []

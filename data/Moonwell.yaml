@@ -9,12 +9,16 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
+ecosystem:
+  - Moonbeam
+  - Ethereum
 layer:
   - Layer-1
 web:
   logo: default.png
   site: https://moonwell.fi/
   twitter: MoonwellDeFi
+  contact: contact@moonwell.fi
 metrics:
   twitter:
     - date: 2023-12-31
@@ -23,5 +27,6 @@ metrics:
   github:
     - date: 2023-12-31
       value: 7
+  discord: []
   blog: []
   app_downloads: []

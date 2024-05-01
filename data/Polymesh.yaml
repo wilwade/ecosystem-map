@@ -11,6 +11,7 @@ target_audience:
   - Startup
   - Established corp
   - Governmental org
+ecosystem: []
 layer:
   - Layer-1
   - Layer-4
@@ -18,6 +19,7 @@ web:
   logo: default.png
   site: https://polymesh.network
   twitter: PolymeshNetwork
+  contact: https://polymesh.network/contact-us
 metrics:
   twitter:
     - date: 2023-12-31
@@ -30,7 +32,10 @@ metrics:
   github:
     - date: 2023-12-31
       value: 134
+  discord: []
   blog:
     - date: 2023-12-31
       value: 3700
-  app_downloads: []
+  app_downloads:
+    - date: 2023-12-31
+      value: 10000

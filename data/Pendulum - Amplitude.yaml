@@ -13,6 +13,8 @@ target_audience:
   - Established corp
   - Startup
   - Individuals
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
   - Layer-3
@@ -20,6 +22,8 @@ web:
   logo: Pendulum - Amplitude.jpg
   site: https://pendulumchain.org/
   twitter: pendulum_chain
+  discord: https://discord.com/invite/wJ2fQh776B
+  contact: community@pendulumchain.org
 metrics:
   twitter:
     - date: 2023-12-31
@@ -30,6 +34,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 11
+  discord:
+    - date: 2023-12-31
+      value: 2134
   blog:
     - date: 2023-12-31
       value: 442

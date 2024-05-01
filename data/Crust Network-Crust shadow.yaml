@@ -11,6 +11,8 @@ readiness:
 target_audience:
   - Established corp
   - Dev teams
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
   - Layer-2
@@ -18,6 +20,8 @@ web:
   logo: Crust Network-Crust shadow.jpg
   site: https://crust.network/
   twitter: CrustNetwork
+  discord: https://discord.com/invite/Jbw2PAUSCR
+  contact: https://docs.google.com/forms/d/e/1FAIpQLSesR1Wv5cLXFEVngDeAs1iU_SZMgHz9VUBTAVM7eVPk38yzPg/viewform
 metrics:
   twitter:
     - date: 2023-12-31
@@ -30,6 +34,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 402
+  discord:
+    - date: 2023-12-31
+      value: 5421
   blog:
     - date: 2023-12-31
       value: 3800

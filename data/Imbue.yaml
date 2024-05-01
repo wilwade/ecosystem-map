@@ -12,12 +12,16 @@ target_audience:
   - Startup
   - Individuals
   - Established corp
+ecosystem:
+  - Kusama
+  - Polkadot
 layer:
   - Layer-4
 web:
   logo: Imbue.jpg
   site: https://www.imbue.network/
   twitter: ImbueNetwork
+  discord: https://discord.com/invite/cVTEhDhVKs
 metrics:
   twitter:
     - date: 2023-12-31
@@ -30,6 +34,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 14
+  discord:
+    - date: 2023-12-31
+      value: 342
   blog:
     - date: 2023-12-31
       value: 90

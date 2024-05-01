@@ -12,12 +12,17 @@ readiness:
 target_audience:
   - Institutional investors
   - Startup
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-1
 web:
   logo: Interlay - Kintsugi.jpg
   site: https://interlay.io
   twitter: InterlayHQ
+  discord: https://discord.com/invite/interlay
+  contact: contact@interlay.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -30,6 +35,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 177
+  discord:
+    - date: 2023-12-31
+      value: 10125
   blog:
     - date: 2023-12-31
       value: 381

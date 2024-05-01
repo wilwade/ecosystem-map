@@ -15,6 +15,9 @@ target_audience:
   - Institutional investors
   - Community DAO
   - Dev teams
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-1
   - Layer-3
@@ -22,6 +25,7 @@ web:
   logo: SORA.jpg
   site: https://sora.org/
   twitter: sora_xor
+  discord: https://discord.com/invite/4TXRN6Y4gb
 metrics:
   twitter:
     - date: 2023-12-31
@@ -34,6 +38,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 6
+  discord:
+    - date: 2023-12-31
+      value: 2369
   blog:
     - date: 2023-12-31
       value: 1800

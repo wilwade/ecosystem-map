@@ -12,16 +12,21 @@ readiness:
 target_audience:
   - Individuals
   - Established corp
-layer: []
+ecosystem:
+  - Polkadot
+layer:
+  - None
 web:
   logo: default.png
   site: https://beatport.io/
   twitter: btprtio
+  contact: partnerships@beatport.io
 metrics:
   twitter:
     - date: 2023-12-31
       value: 1078
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []

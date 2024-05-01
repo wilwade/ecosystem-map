@@ -11,6 +11,9 @@ target_audience:
   - Startup
   - Individuals
   - Established corp
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-1
   - Layer-4
@@ -18,6 +21,8 @@ web:
   logo: Litentry - Litmus.jpg
   site: https://litentry.com/
   twitter: litentry
+  discord: https://discord.com/invite/6KxSqDPgWh
+  contact: info@litentry.com
 metrics:
   twitter:
     - date: 2023-12-31
@@ -30,6 +35,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 38
+  discord:
+    - date: 2023-12-31
+      value: 31427
   blog:
     - date: 2023-12-31
       value: 4905

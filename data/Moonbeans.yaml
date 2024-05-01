@@ -12,12 +12,15 @@ readiness:
 target_audience:
   - Individuals
   - Community DAO
+ecosystem:
+  - Moonbeam
 layer:
   - Layer-3
 web:
   logo: default.png
   site: https://moonbeans.io/
   twitter: MoonbeansIO
+  contact: contact@moonbeans.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -26,6 +29,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 1
+  discord: []
   blog:
     - date: 2023-12-31
       value: 54

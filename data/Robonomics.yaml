@@ -12,6 +12,8 @@ target_audience:
   - Established corp
   - Startup
   - Research institute
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
   - Layer-3
@@ -19,6 +21,8 @@ web:
   logo: Robonomics.jpg
   site: https://robonomics.network
   twitter: AIRA_Robonomics
+  discord: https://discord.com/invite/J57BHwpteR
+  contact: https://robonomics.network/contact/
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,6 +35,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 205
+  discord:
+    - date: 2023-12-31
+      value: 2293
   blog:
     - date: 2023-12-31
       value: 288

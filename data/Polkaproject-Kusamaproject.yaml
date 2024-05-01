@@ -9,7 +9,11 @@ target_audience:
   - Dev teams
   - Startup
   - Personal investors
-layer: []
+ecosystem:
+  - Polkadot
+  - Kusama
+layer:
+  - None
 web:
   logo: default.png
   site: https://polkaproject.com/
@@ -20,6 +24,7 @@ metrics:
       value: 72850
   youtube: []
   github: []
+  discord: []
   blog:
     - date: 2023-12-31
       value: 248

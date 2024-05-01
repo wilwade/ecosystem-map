@@ -6,12 +6,17 @@ readiness:
   technology: Validated POC / testnet
 target_audience:
   - Dev teams
+ecosystem:
+  - Polkadot
+  - Ethereum
 layer:
   - Layer-1
 web:
   logo: default.png
   site: https://snowfork.com
   twitter: snowfork_inc
+  discord: https://discord.com/invite/CH7D8mhwRy
+  contact: https://snowfork.com/contact-us/
 metrics:
   twitter:
     - date: 2023-12-31
@@ -22,6 +27,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 265
+  discord:
+    - date: 2023-12-31
+      value: 121
   blog:
     - date: 2023-12-31
       value: 439

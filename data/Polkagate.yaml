@@ -10,11 +10,16 @@ target_audience:
   - Personal investors
   - Startup
   - Institutional investors
-layer: []
+ecosystem:
+  - Polkadot
+  - Kusama
+layer:
+  - None
 web:
   logo: Polkagate.jpg
   site: https://polkagate.xyz/
   twitter: PolkaGate
+  contact: polkagate@outlook.com
 metrics:
   twitter:
     - date: 2023-12-31
@@ -23,6 +28,7 @@ metrics:
       value: 28
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads:
     - date: 2023-12-31

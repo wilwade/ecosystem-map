@@ -9,6 +9,8 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
+ecosystem:
+  - Astar Network
 layer:
   - Layer-3
 web:
@@ -23,5 +25,6 @@ metrics:
   github:
     - date: 2023-12-31
       value: 4
+  discord: []
   blog: []
   app_downloads: []

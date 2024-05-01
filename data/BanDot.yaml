@@ -4,11 +4,14 @@ category:
 description: Cross-chain smart token swap, unsecured credit lending, liquidity pool
 readiness:
   business: Business concept/low adoption
+  technology: Discontinued
 target_audience: []
-layer: []
+ecosystem: []
+layer:
+  - None
 web:
   logo: BanDot.jpg
-  site: ""
+  site: https://github.com/bandotio
   twitter: hellobandot
 metrics:
   twitter:
@@ -16,6 +19,7 @@ metrics:
       value: 10526
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads:
     - date: 2023-12-31

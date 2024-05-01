@@ -9,6 +9,8 @@ target_audience:
   - Individuals
   - Personal investors
   - Dev teams
+ecosystem:
+  - Kusama
 layer:
   - Layer-1
 web:
@@ -25,5 +27,6 @@ metrics:
     - date: 2023-12-31
       value: 25
   github: []
+  discord: []
   blog: []
   app_downloads: []

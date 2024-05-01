@@ -9,12 +9,15 @@ readiness:
 target_audience:
   - Startup
   - Dev teams
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: default.png
   site: https://gafi.network/
   twitter: GafiNetwork
+  contact: hello@grindy.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -23,5 +26,6 @@ metrics:
   github:
     - date: 2023-12-31
       value: 5
+  discord: []
   blog: []
   app_downloads: []

@@ -32,14 +32,46 @@ properties:
         type: string
       blog:
         type: string
+      discord:
+        type: string
       github:
         type: string
       logo:
+        type: string
+      contact:
         type: string
     required:
       - site
       - logo
     additionalProperties: false
+
+  ecosystem:
+    type: array
+    uniqueItems: true
+    items:
+      type: string
+      enum:
+        - Polkadot
+        - Kusama
+        - Acala Network
+        - Moonbeam
+        - Astar Network
+        - Aleph Zero
+        - Bitcoin
+        - Ethereum
+        - Polygon
+        - Cosmos
+        - Solana
+        - Tezos
+        - BNB Chain
+        - Avalanche
+        - Cardano
+        - Flow
+        - NEAR
+        - Sui
+        - Aave
+        - TON
+        - Arweave
 
   layer:
     type: array
@@ -52,6 +84,7 @@ properties:
         - Layer-2
         - Layer-3
         - Layer-4
+        - None
 
   target_audience:
     type: array
@@ -110,6 +143,7 @@ properties:
           - In production
           - Connected to Relay chain
           - Connected to Parachain
+          - Discontinued
       business:
         type: string
         enum:
@@ -126,6 +160,8 @@ properties:
       blog: 
         $ref: "#/definitions/record"
       youtube: 
+        $ref: "#/definitions/record"
+      discord:
         $ref: "#/definitions/record"
       github:
         $ref: "#/definitions/record"

@@ -13,12 +13,17 @@ target_audience:
   - Dev teams
   - Established corp
   - Startup
+ecosystem:
+  - Polkadot
+  - Ethereum
+  - Moonbeam
 layer:
   - Layer-1
 web:
   logo: Chainsafe.jpg
   site: https://chainsafe.io/
   twitter: ChainSafeth
+  contact: info@chainsafe.io
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,6 +36,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 361
+  discord: []
   blog:
     - date: 2023-12-31
       value: 6600

@@ -3,10 +3,12 @@ category:
   - Indexer
 description: blockchain explorer
 readiness:
-  technology: In production
+  technology: Discontinued
 target_audience:
   - Dev teams
-layer: []
+ecosystem: []
+layer:
+  - None
 web:
   logo: Polkascan.jpg
   site: https://explorer.polkascan.io/
@@ -21,5 +23,6 @@ metrics:
   github:
     - date: 2023-12-31
       value: 171
+  discord: []
   blog: []
   app_downloads: []

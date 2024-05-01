@@ -13,12 +13,16 @@ target_audience:
   - Community DAO
   - Dev teams
   - Startup
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-3
 web:
   logo: SubSocial-Grill.chat.jpg
   site: https://subsocial.network/
   twitter: SubsocialChain
+  contact: subsocial@pm.me
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,6 +35,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 73
+  discord: []
   blog:
     - date: 2023-12-31
       value: 4031

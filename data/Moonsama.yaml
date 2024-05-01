@@ -11,17 +11,24 @@ readiness:
 target_audience:
   - Startup
   - Dev teams
+ecosystem:
+  - Moonbeam
 layer:
   - Layer-3
 web:
   logo: default.png
   site: https://moonsama.com/
   twitter: MoonsamaNFT
+  discord: https://discord.com/invite/sA2ccnHPMC
+  contact: https://moonsama.com/
 metrics:
   twitter:
     - date: 2023-12-31
       value: 28164
   youtube: []
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 9157
   blog: []
   app_downloads: []

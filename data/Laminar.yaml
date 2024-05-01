@@ -3,21 +3,25 @@ category:
   - Oracle
   - DeFi
 description: Decentralised financial protocols, oracles
-readiness: {}
+readiness:
+  technology: Discontinued
 target_audience:
   - Dev teams
+ecosystem: []
 layer:
   - Layer-1
 web:
   logo: default.png
   site: https://laminar.one/
   twitter: LaminarProtocol
+  contact: hello@laminar.one
 metrics:
   twitter:
     - date: 2023-12-31
       value: 11922
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []
 inactive: true

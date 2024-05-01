@@ -19,12 +19,16 @@ target_audience:
   - Institutional investors
   - Established corp
   - Dev teams
+ecosystem:
+  - Polkadot
+  - Kusama
 layer:
   - Layer-2
 web:
   logo: Opensquare.jpg
   site: https://www.opensquare.network/products
   twitter: OpensquareN
+  contact: hi@opensquare.network
 metrics:
   twitter:
     - date: 2023-12-31
@@ -37,5 +41,6 @@ metrics:
   github:
     - date: 2023-12-31
       value: 12
+  discord: []
   blog: []
   app_downloads: []

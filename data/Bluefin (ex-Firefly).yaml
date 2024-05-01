@@ -8,7 +8,10 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
-layer: []
+ecosystem:
+  - Sui
+layer:
+  - None
 web:
   logo: default.png
   site: https://bluefin.io/
@@ -23,6 +26,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 4
+  discord: []
   blog: []
   app_downloads: []
 inactive: true

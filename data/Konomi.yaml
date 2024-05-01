@@ -11,6 +11,8 @@ target_audience:
   - Startup
   - Individuals
   - Established corp
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
@@ -25,6 +27,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 2
+  discord: []
   blog:
     - date: 2023-12-31
       value: 1876

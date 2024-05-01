@@ -11,12 +11,16 @@ target_audience:
   - Governmental org
   - Startup
   - Individuals
+ecosystem:
+  - Polkadot
 layer:
   - Layer-2
 web:
   logo: OriginTrail.jpg
   site: https://origintrail.io/
   twitter: origin_trail
+  discord: https://discord.com/invite/QctFuPCMew
+  contact: alliance@origin-trail.com
 metrics:
   twitter:
     - date: 2023-12-31
@@ -29,6 +33,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 164
+  discord:
+    - date: 2023-12-31
+      value: 5815
   blog:
     - date: 2023-12-31
       value: 1700

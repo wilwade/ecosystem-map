@@ -12,12 +12,17 @@ target_audience:
   - Dev teams
   - Startup
   - Institutional investors
+ecosystem:
+  - Ethereum
+  - Cosmos
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: Stafi Protocol.jpg
   site: https://www.stafi.io/
   twitter: StaFi_Protocol
+  discord: https://discord.com/invite/jB77etn
 metrics:
   twitter:
     - date: 2023-12-31
@@ -30,6 +35,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 46
+  discord:
+    - date: 2023-12-31
+      value: 10076
   blog:
     - date: 2023-12-31
       value: 3982

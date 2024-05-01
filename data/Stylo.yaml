@@ -14,7 +14,11 @@ target_audience:
   - Community DAO
   - Individuals
   - Startup
-layer: []
+ecosystem:
+  - Polkadot
+  - Kusama
+layer:
+  - None
 web:
   logo: default.png
   site: https://stylo-app.com/
@@ -29,6 +33,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 43
+  discord: []
   blog: []
   app_downloads:
     - date: 2023-12-31

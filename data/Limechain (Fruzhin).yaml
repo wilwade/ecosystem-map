@@ -12,12 +12,18 @@ readiness:
 target_audience:
   - Startup
   - Established corp
+ecosystem:
+  - Polkadot
+  - Polygon
+  - Avalanche
+  - NEAR
 layer:
   - Layer-1
 web:
   logo: default.png
   site: https://limechain.tech/
   twitter: LimeChainHQ
+  contact: hi@limechain.tech
 metrics:
   twitter:
     - date: 2023-12-31
@@ -26,6 +32,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 26
+  discord: []
   blog:
     - date: 2023-12-31
       value: 6853

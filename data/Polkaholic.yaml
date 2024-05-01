@@ -4,10 +4,12 @@ category:
   - API
 description: multichain indexer of Polkadot + Kusama ecosystems
 readiness:
-  technology: In production
+  technology: Discontinued
 target_audience:
   - Dev teams
-layer: []
+ecosystem: []
+layer:
+  - None
 web:
   logo: default.png
   site: https://polkaholic.io/
@@ -17,6 +19,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 25
+  discord: []
   blog:
     - date: 2023-12-31
       value: 9

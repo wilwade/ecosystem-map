@@ -11,18 +11,26 @@ readiness:
   technology: In production
 target_audience:
   - Individuals
+ecosystem:
+  - Polkadot
+  - Moonbeam
 layer:
   - Layer-3
 web:
   logo: default.png
-  site: https://yuser.co/
+  site: https://rebl.ai/
   twitter: reblapp
+  discord: https://discord.com/invite/uRRxnfAjhY
+  contact: support@REBL.co
 metrics:
   twitter:
     - date: 2023-12-31
       value: 7722
   youtube: []
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 4428
   blog:
     - date: 2023-12-31
       value: 6243

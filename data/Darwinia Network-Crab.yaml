@@ -13,12 +13,18 @@ target_audience:
   - Community DAO
   - Personal investors
   - Individuals
+ecosystem:
+  - Polkadot
+  - Kusama
+  - Ethereum
 layer:
   - Layer-1
 web:
   logo: Darwinia Network-Crab.jpg
   site: https://darwinia.network/
   twitter: DarwiniaNetwork
+  discord: https://discord.com/invite/aQdK9H4MZS
+  contact: hello@darwinia.network
 metrics:
   twitter:
     - date: 2023-12-31
@@ -29,6 +35,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 222
+  discord:
+    - date: 2023-12-31
+      value: 2994
   blog:
     - date: 2023-12-31
       value: 4400

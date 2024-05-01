@@ -8,7 +8,10 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
-layer: []
+ecosystem:
+  - Astar Network
+layer:
+  - None
 web:
   logo: default.png
   site: https://www.arthswap.org
@@ -21,6 +24,7 @@ metrics:
   github:
     - date: 2023-12-31
       value: 11
+  discord: []
   blog:
     - date: 2023-12-31
       value: 2958

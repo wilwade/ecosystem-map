@@ -1,4 +1,4 @@
-name: Red kite (ex-polkafoundry)
+name: Firebird (ex-polkafoundry)
 category:
   - DeFi
   - EVM
@@ -12,17 +12,25 @@ readiness:
 target_audience:
   - Personal investors
   - Institutional investors
-layer: []
+ecosystem:
+  - Polygon
+  - Ethereum
+  - Avalanche
+  - BNB Chain
+layer:
+  - None
 web:
   logo: default.png
   site: https://redkitepad.com/#/
   twitter: redkitepad
+  contact: info@redkitepad.com
 metrics:
   twitter:
     - date: 2023-12-31
       value: 467039
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads:
     - date: 2023-12-31

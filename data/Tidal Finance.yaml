@@ -12,12 +12,16 @@ target_audience:
   - Institutional investors
   - Community DAO
   - Established corp
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: Tidal Finance.jpg
   site: https://www.tidal.finance/
   twitter: tidaldefi
+  discord: https://discord.com/invite/rZhuzJzXqV
+  contact: https://docs.google.com/forms/d/e/1FAIpQLSfjS2QzSkzyWm1M8siiKkoYPOb5o41QqnJm6n5FOKenUNGq7w/viewform
 metrics:
   twitter:
     - date: 2023-12-31
@@ -28,6 +32,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 9
+  discord:
+    - date: 2023-12-31
+      value: 1887
   blog:
     - date: 2023-12-31
       value: 1903

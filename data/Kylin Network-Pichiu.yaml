@@ -8,17 +8,20 @@ description: infra to build multi-purpose oracles, provide valid, reliable,
   secure, cost-effective, and easily-coordinated data sources and data analytics
 readiness:
   business: Scaling/Alliance
-  technology: Connected to Relay chain
+  technology: Discontinued
 target_audience:
   - Startup
   - Community DAO
   - Dev teams
+ecosystem:
+  - Polkadot
 layer:
   - Layer-1
 web:
   logo: Kylin Network-Pichiu.jpg
   site: https://www.kylin.network/
   twitter: Kylin_Network
+  discord: https://discord.com/invite/PwYCssr
 metrics:
   twitter:
     - date: 2023-12-31
@@ -31,6 +34,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 41
+  discord:
+    - date: 2023-12-31
+      value: 3703
   blog:
     - date: 2023-12-31
       value: 3300

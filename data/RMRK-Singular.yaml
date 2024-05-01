@@ -13,6 +13,11 @@ target_audience:
   - Personal investors
   - Dev teams
   - Community DAO
+ecosystem:
+  - Polygon
+  - Ethereum
+  - Moonbeam
+  - Astar Network
 layer:
   - Layer-3
   - Layer-4
@@ -20,6 +25,7 @@ web:
   logo: RMRK-Singular.jpg
   site: https://www.rmrk.app
   twitter: RmrkApp
+  discord: https://discord.com/invite/c74wTQFwhR
 metrics:
   twitter:
     - date: 2023-12-31
@@ -32,6 +38,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 69
+  discord:
+    - date: 2023-12-31
+      value: 12871
   blog:
     - date: 2023-12-31
       value: 1540

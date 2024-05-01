@@ -7,8 +7,9 @@ description: UniArts is a multi-network NFT ecosystem with substrate developed
   also provides crowd voting incentives, DAO curation and art grant to help
   better achieve democratization of art
 readiness:
-  technology: In research
+  technology: Discontinued
 target_audience: []
+ecosystem: []
 layer:
   - Layer-1
 web:
@@ -21,6 +22,7 @@ metrics:
       value: 29846
   youtube: []
   github: []
+  discord: []
   blog: []
   app_downloads: []
 inactive: true

@@ -15,12 +15,17 @@ readiness:
 target_audience:
   - Community DAO
   - Personal investors
+ecosystem:
+  - Polkadot
+  - Kusama
+  - Ethereum
 layer:
   - Layer-2
 web:
   logo: default.png
   site: https://parallel.fi
   twitter: ParallelFi
+  discord: https://discord.com/invite/buKKx4dySW
 metrics:
   twitter:
     - date: 2023-12-31
@@ -33,6 +38,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 90
+  discord:
+    - date: 2023-12-31
+      value: 107619
   blog:
     - date: 2023-12-31
       value: 573

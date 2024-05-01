@@ -4,19 +4,29 @@ category:
 description: Web3 music marketplace
 readiness:
   business: Business concept/low adoption
+  technology: In production
 target_audience:
   - Individuals
   - Established corp
-layer: []
+ecosystem:
+  - Polkadot
+  - Moonbeam
+layer:
+  - None
 web:
   logo: default.png
   site: https://app.publicpressure.io/
   twitter: jointhepressure
+  discord: https://discord.com/invite/tvs4QMs9yS
+  contact: info@publicpressure.io
 metrics:
   twitter:
     - date: 2023-12-31
       value: 7274
   youtube: []
   github: []
+  discord:
+    - date: 2023-12-31
+      value: 2102
   blog: []
   app_downloads: []

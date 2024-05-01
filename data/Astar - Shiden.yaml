@@ -9,12 +9,18 @@ target_audience:
   - Startup
   - Personal investors
   - Institutional investors
+ecosystem:
+  - Polkadot
+  - Kusama
+  - Astar Network
 layer:
   - Layer-3
 web:
   logo: Astar - Shiden.jpg
   site: https://astar.network/
   twitter: AstarNetwork
+  discord: https://discord.com/invite/astarnetwork
+  contact: https://48plu9nrgbf.typeform.com/to/Z9EpmvwP
 metrics:
   twitter:
     - date: 2023-12-31
@@ -27,6 +33,9 @@ metrics:
   github:
     - date: 2023-12-31
       value: 678
+  discord:
+    - date: 2023-12-31
+      value: 64633
   blog:
     - date: 2023-12-31
       value: 7600
