@@ -139,8 +139,8 @@ export default function EcosystemMap() {
         </div>
         <div className="sub-header">
           curated by JUST Opensource team. This is a preview of our database,
-          for further details please visit our Github. Filter by category, type
-          and potential audience.
+          for further details please visit <a href="https://github.com/JUSTBeteiligungen/ecosystem-map">our Github</a>. Filter by category, type
+          and potential audience. The directory is available for general information purposes only and is not an official endorsement of the projects by JUST team.
         </div>
       </div>
       <div style={{ display: "flex", flexDirection: "column", gap: "8px" }}>
@@ -167,12 +167,6 @@ export default function EcosystemMap() {
           Linkedin, Github, app stores, teams websites and comms, gov proposals)
           some fields might be empty. We welcome you to update it as well,
           especially if you are part of the project.
-        </div>
-        <div>
-          <i>
-            The directory is available for general information purposes only and
-            is not an official endorsement of the projects by JUST team.
-          </i>
         </div>
       </div>
     </div>
