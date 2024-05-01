@@ -1,5 +1,7 @@
 export interface Web {
   logo: string;
+  discord?: string;
+  contact?: string;
   site: string;
   twitter: string;
 }
@@ -20,6 +22,7 @@ export interface Metrics {
   github: MetricsData[];
   blog: MetricsData[];
   app_downloads: MetricsData[];
+  discord?: MetricsData[];
 }
 
 export interface ProjectInfo {
@@ -27,6 +30,7 @@ export interface ProjectInfo {
   description: string;
   category: string[];
   target_audience: string[];
+  ecosystem?: string[];
   layer: string[];
   web: Web;
   metrics: Metrics;
