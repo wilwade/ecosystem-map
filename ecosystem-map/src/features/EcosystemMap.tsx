@@ -12,6 +12,7 @@ const catMapping: { [P in keyof IFilters]: string } = {
   category: "Category",
   layer: "Type",
   target_audience: "Audience",
+  ecosystem: "Ecosystem"
 };
 
 export default function EcosystemMap() {
@@ -22,7 +23,8 @@ export default function EcosystemMap() {
   const [filters, setFilters] = React.useState<IFilters>({
     layer: {},
     category: {},
-    target_audience: {},
+    target_audience: {}, 
+    ecosystem: {},
   });
   const [colorMap, setColorMap] = React.useState<IColorMap>({});
   
@@ -52,13 +54,15 @@ export default function EcosystemMap() {
     const audience = Object.keys(filters.target_audience).filter(
       (k) => filters.target_audience[k],
     );
+    const ecosystem = Object.keys(filters.ecosystem).filter((k) => filters.ecosystem[k]);
 
     setData(
       ecosystemProjects.filter(
         (p) =>
           category.every((c) => p.category.find((d) => d === c)) &&
           layer.every((c) => p.layer.find((d) => d === c)) &&
-          audience.every((c) => p.target_audience.find((d) => d === c)),
+          audience.every((c) => p.target_audience.find((d) => d === c)) &&
+          ecosystem.every((c) => p.ecosystem.find((d) => d === c))
       ),
     );
   };
@@ -78,6 +82,7 @@ export default function EcosystemMap() {
     layer: (k: string) => toggleFilterByCategory("layer", k),
     target_audience: (k: string) =>
       toggleFilterByCategory("target_audience", k),
+    ecosystem: (k: string) => toggleFilterByCategory("ecosystem", k),
   };
 
   React.useEffect(() => {
@@ -86,23 +91,29 @@ export default function EcosystemMap() {
     fetch(url)
       .then((res) => res.json())
       .then((d) => {
-        const f: IFilters = { layer: {}, category: {}, target_audience: {} };
+        const f: IFilters = { layer: {}, category: {}, target_audience: {}, ecosystem: {} };
 
         d.forEach((c: ProjectInfo) => {
-          c.layer.forEach((l) => {
+          c?.layer?.forEach((l) => {
             if (l) {
               f.layer[l] = false;
             }
           });
-          c.category.forEach((l) => {
+          c?.category?.forEach((l) => {
             if (l) {
               f.category[l] = false;
             }
           });
 
-          c.target_audience.forEach((l) => {
+          c?.target_audience?.forEach((l) => {
             if (l) {
               f.target_audience[l] = false;
+            }
+          });
+
+          c?.ecosystem?.forEach((l) => {
+            if (l) {
+              f.ecosystem[l] = false;
             }
           });
         });
@@ -114,6 +125,7 @@ export default function EcosystemMap() {
           ...Object.keys(f.category),
           ...Object.keys(f.layer),
           ...Object.keys(f.target_audience),
+          ...Object.keys(f.ecosystem),
         ].forEach((k, idx) => {
           c[k] = (colors[idx % colors.length] ?? [33, 150, 243]).join(",");
         });
@@ -139,11 +151,11 @@ export default function EcosystemMap() {
         </div>
         <div className="sub-header">
           Curated by JUST Open Source team. This is a preview of our database,
-          for further details please visit <a href="https://github.com/JUSTBeteiligungen/ecosystem-map">our Github</a>. Filter by category, type
+          for further details please visit <a href="https://github.com/JUSTBeteiligungen/ecosystem-map">our Github</a>. Filter by category, type, ecosystem 
           and potential audience.
           <br />
           <i>
-            The directory is available for general information purposes only and is not an official endorsement of the projects by JUST team.
+            The directory is available for general information purposes only and is not an official endorsement of the projects by JUST team. Although we do our best to verify the data, there may be errors in the entries. Please check the details yourself!
           </i>
         </div>
       </div>
@@ -167,10 +179,8 @@ export default function EcosystemMap() {
 
       <div>
         <div>
-          All of the data is taken from open sources (mostly X, Youtube, Medium,
-          Linkedin, Github, app stores, teams websites and comms, gov proposals)
-          some fields might be empty. We welcome you to update it as well,
-          especially if you are part of the project.
+          All of the data is taken from open sources (mostly social media, Github, app stores, teams websites and comms, gov proposals)
+          some fields might be empty. We welcome you to update it as well, especially if you are part of the project.
         </div>
       </div>
     </div>

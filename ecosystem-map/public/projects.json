@@ -1,394 +1,360 @@
-[{
-    "name": "Acala / Karura",
-    "category": ["DeFi"],
-    "description": "DeFi platform that offers a suite of financial products and services, including lending, borrowing, staking, and trading, in a secure and scalable way. Acala is also Ethereum-compatible, making it easy for developers to bring their existing applications to the Polkadot ecosystem.",
-    "readiness": {
-        "business": "Scaling/Alliance",
-        "technology": "Connected to Relay chain"
+[
+    {
+        "name": "Acala / Karura",
+        "category": [
+            "DeFi"
+        ],
+        "description": "DeFi platform that offers a suite of financial products and services, including lending, borrowing, staking, and trading, in a secure and scalable way. Acala is also Ethereum-compatible, making it easy for developers to bring their existing applications to the Polkadot ecosystem.",
+        "readiness": {
+            "business": "Scaling/Alliance",
+            "technology": "Connected to Relay chain"
+        },
+        "target_audience": [
+            "Dev teams",
+            "Startup",
+            "Personal investors",
+            "Institutional investors",
+            "Community DAO"
+        ],
+        "ecosystem": [
+            "Polkadot",
+            "Acala Network"
+        ],
+        "layer": [
+            "Layer-3"
+        ],
+        "web": {
+            "logo": "Acala - Karura.jpg",
+            "site": "https://acala.network/",
+            "twitter": "AcalaNetwork",
+            "discord": "https://discord.com/invite/amxDHYvy",
+            "contact": "hello@acala.network"
+        },
+        "metrics": {
+            "twitter": [
+                {
+                    "date": "2023-12-31",
+                    "value": 260292
+                },
+                {
+                    "date": "2022-12-31",
+                    "value": 269100
+                }
+            ],
+            "youtube": [
+                {
+                    "date": "2023-12-31",
+                    "value": 17300
+                }
+            ],
+            "github": [
+                {
+                    "date": "2023-12-31",
+                    "value": 708
+                }
+            ],
+            "discord": [
+                {
+                    "date": "2023-12-31",
+                    "value": 3537
+                }
+            ],
+            "blog": [
+                {
+                    "date": "2023-12-31",
+                    "value": 5954
+                }
+            ],
+            "app_downloads": [
+                {
+                    "date": "2023-12-31",
+                    "value": 0
+                }
+            ]
+        }
     },
-    "target_audience": ["Dev teams", "Startup", "Personal investors", "Institutional investors", "Community DAO"],
-    "layer": ["Layer-3"],
-    "web": {
-        "logo": "Acala - Karura.jpg",
-        "site": "https://acala.network/",
-        "twitter": "AcalaNetwork"
+    {
+        "name": "Acurast",
+        "category": [
+            "Oracle",
+            "Infra",
+            "Data"
+        ],
+        "description": "Decentralized Serverless Cloud protocol",
+        "readiness": {
+            "technology": "Validated POC / testnet"
+        },
+        "target_audience": [
+            "Dev teams",
+            "Startup"
+        ],
+        "ecosystem": [
+            "Polkadot",
+            "Polygon",
+            "Kusama",
+            "Aleph Zero",
+            "Ethereum"
+        ],
+        "layer": [
+            "Layer-1"
+        ],
+        "web": {
+            "logo": "Acurast.jpg",
+            "site": "https://acurast.com/",
+            "twitter": "Acurast",
+            "discord": "https://discord.com/invite/wqgC6b6aKe",
+            "contact": "hi@acurast.com"
+        },
+        "metrics": {
+            "twitter": [
+                {
+                    "date": "2023-12-31",
+                    "value": 18227
+                }
+            ],
+            "youtube": [
+                {
+                    "date": "2023-12-31",
+                    "value": 71
+                }
+            ],
+            "github": [
+                {
+                    "date": "2023-12-31",
+                    "value": 3
+                }
+            ],
+            "discord": [
+                {
+                    "date": "2023-12-31",
+                    "value": 9595
+                }
+            ],
+            "blog": [
+                {
+                    "date": "2023-12-31",
+                    "value": 80
+                }
+            ],
+            "app_downloads": [
+                {
+                    "date": "2023-12-31",
+                    "value": 0
+                }
+            ]
+        }
     },
-    "metrics": {
-        "twitter": [{
-            "date": "2023-12-31",
-            "value": 260292
-        }, {
-            "date": "2022-12-31",
-            "value": 269100
-        }],
-        "youtube": [{
-            "date": "2023-12-31",
-            "value": 17300
-        }],
-        "github": [{
-            "date": "2023-12-31",
-            "value": 708
-        }],
-        "blog": [{
-            "date": "2023-12-31",
-            "value": 5954
-        }],
-        "app_downloads": [{
-            "date": "2023-12-31",
-            "value": 0
-        }]
+    {
+        "name": "Airgap",
+        "category": [
+            "Wallet"
+        ],
+        "description": "non-custodial cold secure mobile wallet",
+        "readiness": {
+            "technology": "Validated POC / testnet"
+        },
+        "target_audience": [
+            "Personal investors",
+            "Individuals"
+        ],
+        "ecosystem": [
+            "Bitcoin",
+            "Ethereum",
+            "Polkadot",
+            "Kusama",
+            "Cosmos",
+            "Tezos"
+        ],
+        "layer": [
+            "Layer-4"
+        ],
+        "web": {
+            "logo": "Airgap.jpg",
+            "site": "https://airgap.it",
+            "twitter": "AirGap_it",
+            "contact": "hi@airgap.it"
+        },
+        "metrics": {
+            "twitter": [
+                {
+                    "date": "2023-12-31",
+                    "value": 6544
+                },
+                {
+                    "date": "2022-12-31",
+                    "value": 4700
+                }
+            ],
+            "youtube": [
+                {
+                    "date": "2023-12-31",
+                    "value": 240
+                }
+            ],
+            "github": [
+                {
+                    "date": "2023-12-31",
+                    "value": 384
+                }
+            ],
+            "discord": [],
+            "blog": [
+                {
+                    "date": "2023-12-31",
+                    "value": 284
+                }
+            ],
+            "app_downloads": [
+                {
+                    "date": "2023-12-31",
+                    "value": 10000
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ajuna/Bajun",
+        "category": [
+            "Game",
+            "NFT",
+            "Privacy"
+        ],
+        "description": "hosting and support for Unity games",
+        "readiness": {
+            "business": "Scaling/Alliance",
+            "technology": "Connected to Relay chain"
+        },
+        "target_audience": [
+            "Startup"
+        ],
+        "ecosystem": [
+            "Polkadot",
+            "Kusama"
+        ],
+        "layer": [
+            "Layer-2"
+        ],
+        "web": {
+            "logo": "Ajuna-Bajun.jpg",
+            "site": "https://ajuna.io/baju/",
+            "twitter": "AjunaNetwork",
+            "discord": "https://discord.com/invite/cE72GYcFgY",
+            "contact": "https://ajuna.io/contact/"
+        },
+        "metrics": {
+            "twitter": [
+                {
+                    "date": "2023-12-31",
+                    "value": 21256
+                },
+                {
+                    "date": "2022-12-31",
+                    "value": 16400
+                }
+            ],
+            "youtube": [
+                {
+                    "date": "2023-12-31",
+                    "value": 360
+                }
+            ],
+            "github": [
+                {
+                    "date": "2023-12-31",
+                    "value": 37
+                }
+            ],
+            "discord": [
+                {
+                    "date": "2023-12-31",
+                    "value": 7962
+                }
+            ],
+            "blog": [
+                {
+                    "date": "2023-12-31",
+                    "value": 3500
+                }
+            ],
+            "app_downloads": [
+                {
+                    "date": "2023-12-31",
+                    "value": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": "Aleph Zero",
+        "category": [
+            "Privacy",
+            "Smart Contracts",
+            "Wallet"
+        ],
+        "description": "Public blockchain",
+        "readiness": {
+            "business": "Scaling/Alliance",
+            "technology": "In production"
+        },
+        "target_audience": [
+            "Established corp",
+            "Institutional investors"
+        ],
+        "ecosystem": [
+            "Aleph Zero",
+            "Polkadot"
+        ],
+        "layer": [
+            "Layer-1"
+        ],
+        "web": {
+            "logo": "Aleph Zero.jpg",
+            "site": "https://alephzero.org/",
+            "twitter": "Aleph__Zero",
+            "discord": "https://discord.com/invite/alephzero",
+            "contact": "hello@cardinals.cc"
+        },
+        "metrics": {
+            "twitter": [
+                {
+                    "date": "2023-12-31",
+                    "value": 159723
+                },
+                {
+                    "date": "2022-12-31",
+                    "value": 109500
+                }
+            ],
+            "youtube": [
+                {
+                    "date": "2023-12-31",
+                    "value": 1890
+                }
+            ],
+            "github": [
+                {
+                    "date": "2023-12-31",
+                    "value": 94
+                }
+            ],
+            "discord": [
+                {
+                    "date": "2023-12-31",
+                    "value": 13096
+                }
+            ],
+            "blog": [
+                {
+                    "date": "2023-12-31",
+                    "value": 182
+                }
+            ],
+            "app_downloads": [
+                {
+                    "date": "2023-12-31",
+                    "value": 0
+                }
+            ]
+        }
     }
-}, {
-    "name": "Acurast",
-    "category": ["Oracle", "Infra", "Data"],
-    "description": "Decentralized Serverless Cloud protocol",
-    "readiness": {
-        "technology": "Validated POC / testnet"
-    },
-    "target_audience": ["Dev teams", "Startup"],
-    "layer": ["Layer-1"],
-    "web": {
-        "logo": "Acurast.jpg",
-        "site": "https://acurast.com/",
-        "twitter": "Acurast"
-    },
-    "metrics": {
-        "twitter": [{
-            "date": "2023-12-31",
-            "value": 18227
-        }],
-        "youtube": [{
-            "date": "2023-12-31",
-            "value": 71
-        }],
-        "github": [{
-            "date": "2023-12-31",
-            "value": 3
-        }],
-        "blog": [{
-            "date": "2023-12-31",
-            "value": 80
-        }],
-        "app_downloads": [{
-            "date": "2023-12-31",
-            "value": 0
-        }]
-    }
-}, {
-    "name": "Airgap",
-    "category": ["Wallet"],
-    "description": "non-custodial cold secure mobile wallet",
-    "readiness": {
-        "technology": "Validated POC / testnet"
-    },
-    "target_audience": ["Personal investors", "Individuals"],
-    "layer": ["Layer-4"],
-    "web": {
-        "logo": "Airgap.jpg",
-        "site": "https://airgap.it",
-        "twitter": "AirGap_it"
-    },
-    "metrics": {
-        "twitter": [{
-            "date": "2023-12-31",
-            "value": 6544
-        }, {
-            "date": "2022-12-31",
-            "value": 4700
-        }],
-        "youtube": [{
-            "date": "2023-12-31",
-            "value": 240
-        }],
-        "github": [{
-            "date": "2023-12-31",
-            "value": 384
-        }],
-        "blog": [{
-            "date": "2023-12-31",
-            "value": 284
-        }],
-        "app_downloads": [{
-            "date": "2023-12-31",
-            "value": 10000
-        }]
-    }
-}, {
-    "name": "Ajuna/Bajun",
-    "category": ["Game", "NFT", "Privacy"],
-    "description": "hosting and support for Unity games",
-    "readiness": {
-        "business": "Scaling/Alliance",
-        "technology": "Connected to Relay chain"
-    },
-    "target_audience": ["Startup"],
-    "layer": ["Layer-2"],
-    "web": {
-        "logo": "Ajuna-Bajun.jpg",
-        "site": "https://ajuna.io/baju/",
-        "twitter": "AjunaNetwork"
-    },
-    "metrics": {
-        "twitter": [{
-            "date": "2023-12-31",
-            "value": 21256
-        }, {
-            "date": "2022-12-31",
-            "value": 16400
-        }],
-        "youtube": [{
-            "date": "2023-12-31",
-            "value": 360
-        }],
-        "github": [{
-            "date": "2023-12-31",
-            "value": 37
-        }],
-        "blog": [{
-            "date": "2023-12-31",
-            "value": 3500
-        }],
-        "app_downloads": [{
-            "date": "2023-12-31",
-            "value": 0
-        }]
-    }
-}, {
-    "name": "Aleph Zero",
-    "category": ["Privacy", "Smart Contracts", "Wallet"],
-    "description": "Public blockchain",
-    "readiness": {
-        "business": "Scaling/Alliance",
-        "technology": "In production"
-    },
-    "target_audience": ["Established corp", "Institutional investors"],
-    "layer": ["Layer-1"],
-    "web": {
-        "logo": "Aleph Zero.jpg",
-        "site": "https://alephzero.org/",
-        "twitter": "Aleph__Zero"
-    },
-    "metrics": {
-        "twitter": [{
-            "date": "2023-12-31",
-            "value": 159723
-        }, {
-            "date": "2022-12-31",
-            "value": 109500
-        }],
-        "youtube": [{
-            "date": "2023-12-31",
-            "value": 1890
-        }],
-        "github": [{
-            "date": "2023-12-31",
-            "value": 94
-        }],
-        "blog": [{
-            "date": "2023-12-31",
-            "value": 182
-        }],
-        "app_downloads": [{
-            "date": "2023-12-31",
-            "value": 0
-        }]
-    }
-}, {
-    "name": "Algem",
-    "category": ["DeFi", "Dapp"],
-    "description": "liquid staking DeFi dApp on top of Astar Network",
-    "readiness": {
-        "business": "Verified in market/high adoption",
-        "technology": "Connected to Parachain"
-    },
-    "target_audience": ["Personal investors", "Institutional investors"],
-    "layer": ["Layer-3"],
-    "web": {
-        "logo": "default.png",
-        "site": "https://www.algem.io/",
-        "twitter": "Algem_io"
-    },
-    "metrics": {
-        "twitter": [{
-            "date": "2023-12-31",
-            "value": 8612
-        }],
-        "youtube": [],
-        "github": [{
-            "date": "2023-12-31",
-            "value": 4
-        }],
-        "blog": [],
-        "app_downloads": []
-    }
-}, {
-    "name": "Apexti/web3metrics",
-    "category": ["Data", "Analytics", "Indexer"],
-    "description": "infrastructure and indexing services",
-    "readiness": {},
-    "target_audience": ["Dev teams"],
-    "layer": [],
-    "web": {
-        "logo": "default.png",
-        "site": "https://www.apexti.com/",
-        "twitter": "apexti"
-    },
-    "metrics": {
-        "twitter": [{
-            "date": "2023-12-31",
-            "value": 11
-        }],
-        "youtube": [],
-        "github": [],
-        "blog": [],
-        "app_downloads": []
-    }
-}, {
-    "name": "Apillon",
-    "category": ["Infra", "API"],
-    "description": "unified API endpoints to web3 services",
-    "readiness": {
-        "business": "Verified in market/high adoption",
-        "technology": "Validated POC / testnet"
-    },
-    "target_audience": ["Startup", "Established corp", "Dev teams"],
-    "layer": ["Layer-4", "Layer-2"],
-    "web": {
-        "logo": "Apillon.jpg",
-        "site": "https://apillon.io",
-        "twitter": "Apillon"
-    },
-    "metrics": {
-        "twitter": [{
-            "date": "2023-12-31",
-            "value": 42000
-        }, {
-            "date": "2022-12-31",
-            "value": 37700
-        }],
-        "youtube": [{
-            "date": "2023-12-31",
-            "value": 99
-        }],
-        "github": [{
-            "date": "2023-12-31",
-            "value": 8
-        }],
-        "blog": [{
-            "date": "2023-12-31",
-            "value": 306
-        }],
-        "app_downloads": [{
-            "date": "2023-12-31",
-            "value": 0
-        }]
-    }
-}, {
-    "name": "Apron Labs",
-    "category": ["Data", "API"],
-    "description": "API access to various blockchain networks",
-    "readiness": {
-        "business": "Scaling/Alliance",
-        "technology": "In development"
-    },
-    "target_audience": ["Startup", "Dev teams"],
-    "layer": ["Layer-3"],
-    "web": {
-        "logo": "Apron Labs.jpg",
-        "site": "https://apron.network/",
-        "twitter": "apronofficial1"
-    },
-    "metrics": {
-        "twitter": [{
-            "date": "2023-12-31",
-            "value": 30383
-        }, {
-            "date": "2022-12-31",
-            "value": 32500
-        }],
-        "youtube": [{
-            "date": "2023-12-31",
-            "value": 0
-        }],
-        "github": [{
-            "date": "2023-12-31",
-            "value": 3
-        }],
-        "blog": [{
-            "date": "2023-12-31",
-            "value": 32923
-        }],
-        "app_downloads": [{
-            "date": "2023-12-31",
-            "value": 0
-        }]
-    }
-}, {
-    "name": "Ares Protocol/Mars",
-    "category": ["Oracle", "Indexer"],
-    "description": "decentralized cross-chain oracle",
-    "readiness": {
-        "business": "Scaling/Alliance",
-        "technology": "In development"
-    },
-    "target_audience": ["Dev teams", "Startup"],
-    "layer": ["Layer-1"],
-    "web": {
-        "logo": "Ares Protocol-Mars.jpg",
-        "site": "https://www.aresprotocol.io/",
-        "twitter": "AresProtocolLab"
-    },
-    "metrics": {
-        "twitter": [{
-            "date": "2023-12-31",
-            "value": 29822
-        }],
-        "youtube": [{
-            "date": "2023-12-31",
-            "value": 125
-        }],
-        "github": [{
-            "date": "2023-12-31",
-            "value": 54
-        }],
-        "blog": [{
-            "date": "2023-12-31",
-            "value": 2650
-        }],
-        "app_downloads": [{
-            "date": "2023-12-31",
-            "value": 0
-        }]
-    }
-}, {
-    "name": "Arthswap",
-    "category": ["DeFi"],
-    "description": "Defi services like swap, pools, staking on Astar",
-    "readiness": {
-        "business": "Verified in market/high adoption",
-        "technology": "Connected to Parachain"
-    },
-    "target_audience": ["Personal investors", "Institutional investors"],
-    "layer": [],
-    "web": {
-        "logo": "default.png",
-        "site": "https://www.arthswap.org",
-        "twitter": "arthswap"
-    },
-    "metrics": {
-        "twitter": [{
-            "date": "2023-12-31",
-            "value": 96638
-        }],
-        "youtube": [],
-        "github": [{
-            "date": "2023-12-31",
-            "value": 11
-        }],
-        "blog": [{
-            "date": "2023-12-31",
-            "value": 2958
-        }],
-        "app_downloads": []
-    }
-}]
+]

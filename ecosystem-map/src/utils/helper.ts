@@ -3,7 +3,7 @@ import { TCategory } from "types";
 export const round = (n: Number, multi = 1) =>
   Math.round(Number(n) * multi) / multi;
 
-export const cats: TCategory[] = ["category", "layer", "target_audience"];
+export const cats: TCategory[] = ["category", "layer", "target_audience", "ecosystem"];
 
 export const colors = [
   [237, 136, 141],
