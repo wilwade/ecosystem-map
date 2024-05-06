@@ -22,7 +22,7 @@ export interface Metrics {
   github: MetricsData[];
   blog: MetricsData[];
   app_downloads: MetricsData[];
-  discord?: MetricsData[];
+  discord: MetricsData[];
 }
 
 export interface ProjectInfo {
@@ -30,7 +30,7 @@ export interface ProjectInfo {
   description: string;
   category: string[];
   target_audience: string[];
-  ecosystem?: string[];
+  ecosystem: string[];
   layer: string[];
   web: Web;
   metrics: Metrics;
@@ -47,6 +47,9 @@ export interface IFilters {
   target_audience: {
     [key: string]: boolean;
   };
+  ecosystem: {
+    [key: string]: boolean;
+  }
 }
 
 export type TCategory = keyof IFilters;
