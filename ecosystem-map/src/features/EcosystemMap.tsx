@@ -59,10 +59,10 @@ export default function EcosystemMap() {
     setData(
       ecosystemProjects.filter(
         (p) =>
-          category.every((c) => p.category.find((d) => d === c)) &&
-          layer.every((c) => p.layer.find((d) => d === c)) &&
-          audience.every((c) => p.target_audience.find((d) => d === c)) &&
-          ecosystem.every((c) => p.ecosystem.find((d) => d === c))
+          category.every((c) => p.category?.find((d) => d === c)) &&
+          layer.every((c) => p.layer?.find((d) => d === c)) &&
+          audience.every((c) => p.target_audience?.find((d) => d === c)) &&
+          ecosystem.every((c) => p.ecosystem?.find((d) => d === c))
       ),
     );
   };
