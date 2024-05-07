@@ -40,6 +40,7 @@ As things change and grow, so does this repo. It may evolve over time as the com
 - In production
 - Connected to relay chain
 - Connected to parachain
+- Discontinued
 
 ## Business readiness
 
@@ -55,9 +56,9 @@ As things change and grow, so does this repo. It may evolve over time as the com
 >
 > To verify the assumption, that deviation from the median is not significant for the majority of projects, thus indirectly confirming the total number of users engaged with the ecosystem and individual projects and that fluctuations in the number of engaged users within individual projects on yearly snapshots can be an indication of their success or decline
 
-Education - The percentage of ppl who dive deeper into videos/articles after reading the team’s X
+Education - The percentage of ppl who dive deeper into videos/articles/Discord after reading the team’s X
 
-Tech engagement - The percentage of ppl who star repo after seeing videos/reading articles
+Tech engagement - The percentage of ppl who star repo after seeing videos/reading articles/joining Discord
 
 Engagement - The percentage of app downloads/installations after reading the team’s X
 
