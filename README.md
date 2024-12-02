@@ -1,4 +1,4 @@
-# [Polkadot ecosystem map](https://justbeteiligungen.github.io/ecosystem-map/)
+# [Polkadot ecosystem map](https://JUSTVenturesGmbH.github.io/ecosystem-map/)
 
 👋 This repository is the data source for the community-sourced Ecosystem directory curated by JUST Opensource team. 
 
