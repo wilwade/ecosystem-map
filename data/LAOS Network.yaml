@@ -1,0 +1,33 @@
+name: LAOS Network
+category:
+  - game
+  - NFT
+  - EVM
+description: The Universal Layer-1 for Digital Assets Across All Blockchains
+readiness:
+  business: 
+  technology: In development
+target_audience:
+  - Dev teams
+  - Startup
+ecosystem:
+  - Kusama
+layer:
+  - Layer-1
+web:
+  logo: 
+  site: laosnetwork.io
+  twitter: laosnetwork
+  discord: discord.gg/HgnVEYfX2V
+  contact: info@laosfoundation.io
+metrics:
+  twitter:
+    - date: 2023-12-31
+      value: 8649
+  youtube: []
+  github:
+  discord: []
+     - date: 2023-12-31
+      value: 10425
+  blog:
+  app_downloads: []
