@@ -15,10 +15,10 @@ yaml = YAML()
 yaml.default_flow_style = False
 yaml.indent(mapping=2, sequence=4, offset=2)
 
-GITHUB_TOKEN = os.environ.get("GITHUB_API_TOKEN", None)
+GITHUB_TOKEN = os.environ.get("API_TOKEN_GITHUB", None)
 if GITHUB_TOKEN is None:
     logging.error("Error: Github API token is missing")
-    logging.info("Set GITHUB_API_TOKEN env variable")
+    logging.info("Set API_TOKEN_GITHUB env variable")
     sys.exit(1)
 
 YAML_DIR = "../data"
