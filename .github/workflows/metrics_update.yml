@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 1 * *'
+env:
+  API_TOKEN_GITHUB: ${{ vars.API_TOKEN_GITHUB }}
 
 permissions:
   contents: write
