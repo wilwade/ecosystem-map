@@ -1,7 +1,8 @@
 name: Airgap
 category:
   - Wallet
-description: non-custodial mobile wallet. AirGap Vault handles your private key offline. Wallet companion communicates with blockchains.
+description: non-custodial mobile wallet. AirGap Vault handles your private key offline.
+  Wallet companion communicates with blockchains.
 readiness:
   technology: In production
 target_audience:
@@ -30,8 +31,6 @@ metrics:
   twitter:
     - date: 2023-12-31
       value: 6544
-    - date: 2022-12-31
-      value: 4700
   youtube:
     - date: 2023-12-31
       value: 240
