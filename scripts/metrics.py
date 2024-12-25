@@ -39,8 +39,9 @@ class MetricEntry:
         self.date = datetime.now().date()
 
     def update_value(self, new_value: int):
-        self.value = new_value
-        self.update_date()
+        if self.value != new_value:
+          self.value = new_value
+          self.update_date()
 
     @classmethod
     def from_dict(cls, data: dict):
