@@ -1,4 +1,4 @@
-name: Dock
+name: Dock - Trouvera
 category:
   - Wallet
   - Privacy
@@ -21,20 +21,25 @@ web:
   twitter: docknetwork
   discord: https://discord.com/invite/feW8KGf7r3
   contact: marketing@dock.io
+  github: https://github.com/docknetwork/sdk
+  documentation: https://docs.truvera.io/
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 60682
-    - date: 2022-12-31
-      value: 65300
   youtube:
     - date: 2023-12-31
       value: 257
   github:
-    - date: 2023-12-31
-      value: 86
+    - date: 2024-12-25
+      value: 89
   discord:
-    - date: 2023-12-31
-      value: 4918
+    - date: 2024-12-25
+      value: 4960
   blog: []
   app_downloads: []
+  github_pushed_at:
+    - date: 2024-12-25
+      value: 1735121439

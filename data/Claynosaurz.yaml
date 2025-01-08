@@ -16,6 +16,10 @@ web:
   logo: default.png
   site: https://claynosaurz.com/
   twitter: Claynosaurz
+  discord: https://discord.com/invite/claynosaurz
+  documentation: https://claynosaurz.gitbook.io/home
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

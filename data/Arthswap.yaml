@@ -16,16 +16,24 @@ web:
   logo: default.png
   site: https://www.arthswap.org
   twitter: arthswap
+  discord: https://discord.com/invite/jvRMAGkPGc
+  github: https://github.com/ArthSwap/arthswap-core
+  documentation: https://docs.arthswap.org
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
       value: 96638
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 11
+    - date: 2024-12-25
+      value: 10
   discord: []
   blog:
     - date: 2023-12-31
       value: 2958
   app_downloads: []
+  github_pushed_at:
+    - date: 2024-12-25
+      value: 1647278261

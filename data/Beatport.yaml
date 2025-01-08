@@ -3,9 +3,9 @@ category:
   - Marketplace
   - NFT
   - Social
-description: marketplace exploring the future of electronic music built on
-  Polkadot’s parachain Aventus, an enterprise-grade blockchain which is a layer
-  1 (parachain) on Polkadot.
+description: marketplace exploring the future of electronic music built on Polkadot’s
+  parachain Aventus, an enterprise-grade blockchain which is a layer 1 (parachain)
+  on Polkadot.
 readiness:
   business: Business concept/low adoption
   technology: Connected to Parachain
@@ -21,6 +21,8 @@ web:
   site: https://beatport.io/
   twitter: btprtio
   contact: partnerships@beatport.io
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31

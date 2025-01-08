@@ -13,12 +13,12 @@ web:
   logo: default.png
   site: https://dotscanner.com/
   twitter: TheDotScanner
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 62
-    - date: 2022-12-31
-      value: 55
   youtube: []
   github: []
   discord: []

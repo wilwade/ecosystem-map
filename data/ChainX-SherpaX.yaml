@@ -20,16 +20,23 @@ web:
   site: https://chainx.org
   twitter: chainx_org
   contact: hi@chainx.org
+  github: https://github.com/chainx-org/ChainX
+  documentation: https://chainx-org.github.io/documentation/
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 96457
   youtube: []
   github:
-    - date: 2023-12-31
-      value: 298
+    - date: 2024-12-25
+      value: 326
   discord: []
   blog:
     - date: 2023-12-31
       value: 4870
   app_downloads: []
+  github_pushed_at:
+    - date: 2024-12-25
+      value: 1716361664

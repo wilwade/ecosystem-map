@@ -3,8 +3,8 @@ category:
   - Exchange
   - EVM
   - DeFi
-description: The infrastructure enabling native swaps between Ethereum and other
-  blockchains using multi-chain ZK rollup technology
+description: The infrastructure enabling native swaps between Ethereum and other blockchains
+  using multi-chain ZK rollup technology
 readiness:
   business: Verified in market/high adoption
   technology: Connected to Relay chain
@@ -21,12 +21,12 @@ web:
   site: https://www.mangata.finance/
   twitter: Gasp_xyz
   discord: https://discord.com/invite/mangata
+treasury_funded: false
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 23204
-    - date: 2022-12-31
-      value: 9200
   youtube:
     - date: 2023-12-31
       value: 227
@@ -34,8 +34,8 @@ metrics:
     - date: 2023-12-31
       value: 65
   discord:
-    - date: 2023-12-31
-      value: 691
+    - date: 2024-12-25
+      value: 2315
   blog:
     - date: 2023-12-31
       value: 107

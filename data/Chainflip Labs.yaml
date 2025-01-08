@@ -18,19 +18,26 @@ web:
   logo: Chainflip Labs.jpg
   site: https://chainflip.io/
   twitter: Chainflip
-  contact: https://docs.google.com/forms/d/e/1FAIpQLSeH-IXNGzcMNLNFFaTxWYcMXNPOeEQHSggs_5P9RASV22_WkQ/viewform
+  discord: https://discord.com/invite/chainflip-community
+  contact: 
+    https://docs.google.com/forms/d/e/1FAIpQLSeH-IXNGzcMNLNFFaTxWYcMXNPOeEQHSggs_5P9RASV22_WkQ/viewform
+  github: https://github.com/chainflip-io/chainflip-backend
+  documentation: https://docs.chainflip.io/concepts/welcome
+treasury_funded: false
+audit: true
 metrics:
   twitter:
     - date: 2023-12-31
       value: 62751
-    - date: 2022-12-31
-      value: 17300
   youtube:
     - date: 2023-12-31
       value: 156
   github:
-    - date: 2023-12-31
-      value: 11
+    - date: 2024-12-25
+      value: 53
   discord: []
   blog: []
   app_downloads: []
+  github_pushed_at:
+    - date: 2024-12-25
+      value: 1735043290
