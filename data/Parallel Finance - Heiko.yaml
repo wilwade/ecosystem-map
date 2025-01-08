@@ -26,6 +26,10 @@ web:
   site: https://parallel.fi
   twitter: ParallelFi
   discord: https://discord.com/invite/buKKx4dySW
+  github: https://github.com/parallel-finance/parallel
+  documentation: https://docs.parallel.fi/
+treasury_funded: false
+audit: true  
 metrics:
   twitter:
     - date: 2023-12-31

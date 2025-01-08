@@ -27,6 +27,12 @@ web:
   logo: Nova Wallet - Spektr / Vault.jpg
   site: https://novasama.io/
   twitter: NovaWalletApp
+  github: https://github.com/novasamatech/nova-spektr
+  documentation: https://docs.novawallet.io/nova-wallet-wiki
+  playstore: https://play.google.com/store/apps/details?id=io.novafoundation.nova.market
+  appstore: https://apps.apple.com/us/app/nova-polkadot-wallet/id1597119355
+treasury_funded: true
+audit: false  
 metrics:
   twitter:
     - date: 2023-12-31
