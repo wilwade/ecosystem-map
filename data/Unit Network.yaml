@@ -28,6 +28,9 @@ web:
   twitter: theunitnetwork
   discord: https://discord.com/invite/unitnetwork
   contact: support@unit.network
+  documentation: https://unit.network/documentation-hub/
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

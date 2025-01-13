@@ -5,7 +5,7 @@ category:
 description: Yield farming and DeFi hub
 readiness:
   business: Business concept/low adoption
-  technology: Validated POC / testnet
+  technology: Discontinued
 target_audience:
   - Personal investors
   - Institutional investors
@@ -19,6 +19,9 @@ web:
   site: https://yieldbay.io/
   twitter: yield_bay
   discord: https://discord.com/invite/AKHuvbz7q4
+  github: https://github.com/yield-bay/bay-web
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31

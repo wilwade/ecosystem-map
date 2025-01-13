@@ -19,6 +19,10 @@ web:
   site: https://raresama.com/
   twitter: RaresamaNFT
   discord: https://discord.com/invite/moonsama
+  github: https://github.com/moonsama/raresama-custom-collections
+  documentation: https://wiki.moonsama.com/?page=raresama-marketplace-k3qts31kk3
+treasury_funded: false
+audit: false 
 metrics:
   twitter:
     - date: 2023-12-31
@@ -30,8 +34,8 @@ metrics:
     - date: 2023-12-31
       value: 0
   discord:
-    - date: 2025-01-08
-      value: 8381
+    - date: 2024-12-25
+      value: 8413
   blog:
     - date: 2023-12-31
       value: 0
