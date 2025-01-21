@@ -6,7 +6,8 @@ Our aim is to curate an accurate, up-to-date database of projects in the Polkado
 
 It’s a shared space for all of us to geek out on cool projects where we aim to pursue the values of Web3 and maintain an open and transparent environment. We do, however, reserve the right to omit some projects or metrics without further explanation.
 
-As things change and grow, so does this repo. It may evolve over time as the community helps our team maintain the map going forward and propose new ideas and directions. 
+As things change and grow, so does this repo. It may evolve over time as the community helps our team maintain the map going forward and propose new ideas and directions. For example, some data types are not displayed on the site or in tables, due to the fact that the database goals have changed over time.
+
 
 # ✨ Potential use-cases
 
@@ -88,59 +89,6 @@ Engagement - The percentage of app downloads/installations after reading the tea
 | EVM | Aggregator |
 | API | NFT |
 | Smart contracts | Privacy |
-
-# 🤝 How To Contribute & Guidelines
-
-We welcome you to independently verify the information and contribute to the dataset.
-
-Adding a new entity consists of two simple steps:
-
-1. Fork the repository. Create a new markdown file in the directory with the copy of the template, filled with your details. Add a new .svg or .png logo image in the directory. 
-2. Once you're done, create a pull request in the main repo. The pull request should only contain *two new files*—the Markdown file created from the template and a logo image.
-
-Below is an example submission for Acala
-```
-
-name: Acala / Karura
-category:
-  - DeFi
-description: DeFi platform that offers a suite of financial products and
-  services, including lending, borrowing, staking, and trading, in a secure and
-  scalable way. Acala is also Ethereum-compatible, making it easy for developers
-  to bring their existing applications to the Polkadot ecosystem.
-readiness:
-  business: Scaling/Alliance
-  technology: Connected to Relay chain
-target_audience:
-  - Dev teams
-  - Startup
-  - Personal investors
-  - Institutional investors
-  - Community DAO
-layer:
-  - Layer-3
-web:
-  logo: Acala - Karura.jpg
-  site: https://acala.network/
-  twitter: AcalaNetwork
-
-```
-
-Below are the available markdown headers for adding entities with guidelines for each header (only input what is applicable for what you are adding):
-
-- `name`: The project  name (will also be used as page name)
-- `category`: A  list of categories describing the project, each starts by dash and on the new line. [See the list](#category)
-- `description`: The short project description
-- `Business readiness`: Choose one from the [list](#business-readiness)
-- `Technology readiness`: Choose one from the [list](#technology-readiness)
-- `Target audience`: A list of customers, each starts by dash and on the new line. [See the list](#target-audience)
-- `Layer`: A list of layers, each starts by dash and on the new line. [See the list](#typelayer)
-- `logo`: A relative path to the corresponding SVG/PNG image
-- `website`: A URL to the project website
-- `twitter`: A Twitter handle
-- `youtube`: A YouTube handle
-- `blog`: A URL to the blogging platform of choice (Medium/Linkedin/etc.), preferably with subscribers counter
-- `github`: A URL to the GitHub page
 
 # 🗿 Data sources
 
