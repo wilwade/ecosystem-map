@@ -29,7 +29,7 @@ web:
   discord: https://discord.com/invite/subsquid
   github: https://github.com/subsquid/squid-sdk
   documentation: https://docs.sqd.dev/
-treasury_funded: false
+treasury_funded: true
 audit: false
 metrics:
   twitter:

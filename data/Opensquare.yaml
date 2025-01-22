@@ -30,7 +30,7 @@ web:
   twitter: OpensquareN
   contact: hi@opensquare.network
   github: https://github.com/opensquare-network/dotreasury
-treasury_funded: false
+treasury_funded: true
 audit: false
 metrics:
   twitter:

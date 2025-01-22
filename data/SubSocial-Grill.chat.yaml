@@ -25,7 +25,7 @@ web:
   contact: subsocial@pm.me
   github: https://github.com/dappforce/subsocial-parachain
   documentation: https://docs.subsocial.network
-treasury_funded: false
+treasury_funded: true
 audit: false
 metrics:
   twitter:

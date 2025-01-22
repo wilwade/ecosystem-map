@@ -1,0 +1,30 @@
+name: Velocity Labs
+category:
+  - Infra
+description: A cross-functional team of Polkadot veterans and DeFi experts commited to buildingcritical market infrastructure and tooling to unlock Polkadot's full potential.
+readiness:
+  business: 
+  technology: 
+target_audience:
+  - Startup
+  - Dev teams
+ecosystem:
+  - Kusama
+  - Polkadot
+layer:
+  - Layer-3
+web:
+  logo: default.png
+  site: https://www.velocitylabs.org
+  twitter: v_labs
+  github: https://github.com/velocitylabs-org/turtle
+  documentation: 
+treasury_funded: false
+audit: false
+metrics:
+  twitter: []
+  youtube: []
+  github: []
+  discord: []
+  blog: []
+  app_downloads: []

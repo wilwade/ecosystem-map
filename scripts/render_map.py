@@ -35,7 +35,6 @@ LINK_MAPPING = {
     "webstore": "Extension",
 }
 
-
 def generate_github_anchor(heading_text: str) -> str:
     """
     Mimics GitHub's auto-generated ID for markdown headings:
@@ -52,7 +51,6 @@ def generate_github_anchor(heading_text: str) -> str:
     # Strip trailing dashes
     heading = heading.strip("-")
     return heading
-
 
 def safe_get(dictionary: Dict, keys: List[Any], default: Any = None) -> Any:
     """Safely retrieve a nested dictionary or list value."""
@@ -200,9 +198,7 @@ def process_yaml_files():
         if file_name.endswith((".yaml", ".yml"))
     )
 
-    file_data = [
-        read_yaml(os.path.join(YAML_DIR, file_name)) for file_name in yaml_files
-    ]
+    file_data = [read_yaml(os.path.join(YAML_DIR, file_name)) for file_name in yaml_files]
 
     # Collect categories
     categories = set()
@@ -213,21 +209,12 @@ def process_yaml_files():
 
     # Print the introductory text
     print(
-        "\n".join(
-            [
-                "This repository is the data source for the community-sourced Ecosystem directory curated by JUST Opensource team. It is a shared space for all of us to geek out on cool projects where we aim to pursue the values of Web3 and maintain an open and transparent environment.",
-                "\n",
-                "Our aim is to curate an accurate, up-to-date database of projects in the Polkadot ecosystem to help orient the new teams and provide a solid base for user research and collaboration for already existing teams, as well as a base for the future ecosystem maps and awesome lists. Therefore, we have made this an open, community-driven repo which anyone can contribute to.",
-                "\n",
-                "We purposely keep old projects around, even if no one is working on them anymore. This helps us stay on top of what's changing and trending.",
-                "\n",
-                "There is a website(link) that allows filtering. Feel free to contribute to remaking it. The current version is presented as a set of tables that groups projects by types, as suggested in some of the discussions within the ecosystem. More details in the description.",
-                "\n",
-                "Please check the contribution guidelines(link) for information on formatting and writing pull requests.",
-                "\n",
-                "The directory is not an official endorsement of the projects by JUST team. Although we do our best to verify the data, there may be errors in the entries.",
-            ]
-        )
+        "This repository is the data source for the community-sourced Ecosystem directory curated by JUST team. It is a shared space for all of us to geek out on cool projects where we aim to pursue the values of Web3 and maintain an open and transparent environment. "
+        "Our aim is to curate an accurate, up-to-date database of projects in the Polkadot ecosystem to help orient the new teams and provide a solid base for user research and collaboration for already existing teams, as well as a base for the future ecosystem maps and awesome lists. Therefore, we have made this an open, community-driven repo which anyone can contribute to.  "
+        "We purposely keep old projects around, even if no one is working on them anymore. This helps us stay on top of what's changing and trending.  "
+        "There is a [website that allows filtering](https://justventuresgmbh.github.io/ecosystem-map/). Feel free to contribute to remaking it. The current version is presented as a set of tables that groups projects by types, as suggested in some of the discussions within the ecosystem. More details in the description.  "
+        "Please check the [contribution guidelines](https://github.com/JUSTVenturesGmbH/ecosystem-map/blob/main/CONTRIBUTING.md) for information on formatting and writing pull requests. "
+        "The directory is not an official endorsement of the projects by JUST team. Although we do our best to verify the data, there may be errors in the entries.  "
     )
 
     # Generate and print Table of Contents
