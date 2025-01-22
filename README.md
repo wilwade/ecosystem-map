@@ -1,4 +1,4 @@
-This repository is the data source for the community-sourced Ecosystem directory curated by JUST Opensource team. It is a shared space for all of us to geek out on cool projects where we aim to pursue the values of Web3 and maintain an open and transparent environment.
+This repository is the data source for the community-sourced Ecosystem directory curated by the JUST team. It is a shared space for all of us to geek out on cool projects where we aim to pursue the values of Web3 and maintain an open and transparent environment.
 
 
 Our aim is to curate an accurate, up-to-date database of projects in the Polkadot ecosystem to help orient the new teams and provide a solid base for user research and collaboration for already existing teams, as well as a base for the future ecosystem maps and awesome lists. Therefore, we have made this an open, community-driven repo which anyone can contribute to.
