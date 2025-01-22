@@ -1,5 +1,19 @@
-This repository is the data source for the community-sourced Ecosystem directory curated by JUST Opensource team. It is a shared space for all of us to geek out on cool projects where we aim to pursue the values of Web3 and maintain an open and transparent environment.  Our aim is to curate an accurate, up-to-date database of projects in the Polkadot ecosystem to help orient the new teams and provide a solid base for user research and collaboration for already existing teams, as well as a base for the future ecosystem maps and awesome lists. Therefore, we have made this an open, community-driven repo which anyone can contribute to.  We purposely keep old projects around, even if no one is working on them anymore. This helps us stay on top of what's changing and trending.  There is a website(link) that allows filtering. Feel free to contribute to remaking it. The current version is presented as a set of tables that groups projects by types, as suggested in some of the discussions within the ecosystem. More details in the description.  Please check the contribution guidelines(link) for information on formatting and writing pull requests. The directory is not an official endorsement of the projects by JUST team. Although we do our best to verify the data, there may be errors in the entries.  Table of contents: 
+This repository is the data source for the community-sourced Ecosystem directory curated by JUST Opensource team. It is a shared space for all of us to geek out on cool projects where we aim to pursue the values of Web3 and maintain an open and transparent environment.
 
+
+Our aim is to curate an accurate, up-to-date database of projects in the Polkadot ecosystem to help orient the new teams and provide a solid base for user research and collaboration for already existing teams, as well as a base for the future ecosystem maps and awesome lists. Therefore, we have made this an open, community-driven repo which anyone can contribute to.
+
+
+We purposely keep old projects around, even if no one is working on them anymore. This helps us stay on top of what's changing and trending.
+
+
+There is a website(link) that allows filtering. Feel free to contribute to remaking it. The current version is presented as a set of tables that groups projects by types, as suggested in some of the discussions within the ecosystem. More details in the description.
+
+
+Please check the contribution guidelines(link) for information on formatting and writing pull requests.
+
+
+The directory is not an official endorsement of the projects by JUST team. Although we do our best to verify the data, there may be errors in the entries.
 ## Table of Contents
 - [API](#category-api)
 - [Aggregator](#category-aggregator)
