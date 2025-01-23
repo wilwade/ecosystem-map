@@ -18,7 +18,6 @@ web:
   site: https://www.velocitylabs.org
   twitter: v_labs
   github: https://github.com/velocitylabs-org/turtle
-  documentation: 
 treasury_funded: false
 audit: false
 metrics:
