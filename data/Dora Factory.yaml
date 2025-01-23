@@ -41,7 +41,9 @@ metrics:
   github:
     - date: 2024-12-25
       value: 5
-  discord: []
+  discord:
+    - date: 2025-01-23
+      value: 8273
   blog:
     - date: 2023-12-31
       value: 839

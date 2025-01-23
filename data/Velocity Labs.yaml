@@ -1,7 +1,9 @@
 name: Velocity Labs
 category:
   - Infra
-description: A cross-functional team of Polkadot veterans and DeFi experts commited to buildingcritical market infrastructure and tooling to unlock Polkadot's full potential.
+description: A cross-functional team of Polkadot veterans and DeFi experts commited
+  to buildingcritical market infrastructure and tooling to unlock Polkadot's full
+  potential.
 readiness:
   business: Business concept/low adoption
   technology: In development
@@ -23,7 +25,12 @@ audit: false
 metrics:
   twitter: []
   youtube: []
-  github: []
+  github:
+    - date: 2025-01-23
+      value: 7
   discord: []
   blog: []
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-23
+      value: 1737631892

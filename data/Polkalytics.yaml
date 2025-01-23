@@ -18,13 +18,18 @@ web:
   twitter: Polkalytics
   github: https://github.com/Polkalytics/Polkadot-Data-Ecosystem
 treasury_funded: true
-audit: false  
+audit: false
 metrics:
   twitter:
     - date: 2023-12-31
       value: 487
   youtube: []
-  github: []
+  github:
+    - date: 2025-01-23
+      value: 1
   discord: []
   blog: []
   app_downloads: []
+  github_pushed_at:
+    - date: 2025-01-23
+      value: 1689373957
