@@ -17,7 +17,7 @@ As things change and grow, so does this repo. It may evolve over time as the com
 
 **🔬** Gather basic metrics to build project/team KPIs
 
-**🧫** Use it as a base for product/UX/stakeholders research
+**🧫** Use the dataset as a base for product/UX/stakeholders research or to build your own website/ecosystem map
 
 **🪄** If you are interested in those, but don’t know where to start - reach out to JUST team, we provide advisory services.
 
@@ -33,6 +33,39 @@ As things change and grow, so does this repo. It may evolve over time as the com
 | Personal investor | Individual tinkerer |
 | | Dev team (grants) |
 
+## Github activity
+
+- Updates last month: "Active": "🟢" 
+- Updates last 6 months: "Moderate activity": "🟡":  
+- No updates in 6+ months: "Inactive": "💤"
+
+## Category
+
+| Infrastructure | Ecosystem |
+| -------------- | --------- |
+| exchange | DAO |
+| oracle | wallet |
+| validator provider | game |
+| indexer | DeFi |
+| analytics | Marketplace |
+| data | Social |
+| bridge | dApp |
+| EVM | Aggregator |
+| API | NFT |
+| Smart contracts | Privacy |
+
+## Type/layer
+
+0 - protocol
+
+1 - consensus (consensus, node operators, parachains)
+
+2 - scaling (off-chain computing, messages, governance, bridges)
+
+3 - smart contracts, dApps
+
+4 - identity, keys
+
 ## Technology readiness
 
 - In research
@@ -43,7 +76,7 @@ As things change and grow, so does this repo. It may evolve over time as the com
 - Connected to parachain
 - Discontinued
 
-## Business readiness
+## Business readiness (in comparison with the same types of projects in the eco)
 
 - Business concept/low adoption
 - Verified in market/high adoption
@@ -51,6 +84,7 @@ As things change and grow, so does this repo. It may evolve over time as the com
 
 ## Awareness funnel
 
+**⚠️**  Awareness metrics are only working on a webpage and may not be accurate as the script that updates Twitter is outdated. We can still make it work if the need arises.
 > [!NOTE]
 > Media exposure is the metrics that we used for several reasons:
 > Identify the most popular marketing channels and calculate average values across the engagement funnel for the ecosystem to then compare with the competitors.
@@ -75,20 +109,6 @@ Engagement - The percentage of app downloads/installations after reading the tea
 
 4 - identity, keys
 
-## Category
-
-| Infrastructure | Ecosystem |
-| -------------- | --------- |
-| exchange | DAO |
-| oracle | wallet |
-| validator provider | game |
-| indexer | DeFi |
-| analytics | Marketplace |
-| data | Social |
-| bridge | dApp |
-| EVM | Aggregator |
-| API | NFT |
-| Smart contracts | Privacy |
 
 # 🗿 Data sources
 
