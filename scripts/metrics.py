@@ -78,7 +78,7 @@ class EcosystemProject:
         flag = False
         if link:
             flag = True
-            if name not in self.metrics:
+            if name not in self.metrics or len(self.metrics[name]) == 0:
                 flag = True
             elif len(self.metrics[name]) and self.metrics[name][0].is_older_than(
                 STALE_METRIC_DAYS
@@ -89,7 +89,8 @@ class EcosystemProject:
         return (flag, link)
 
     def set_metric(self, name: str, value: int):
-        if name not in self.metrics:
+        logging.info(f'Setting metric for {self.file_name} {name}:{value}')
+        if name not in self.metrics or len(self.metrics[name]) == 0:
             self.metrics[name] = [
                 MetricEntry.from_dict({"date": datetime.now().date(), "value": value})
             ]
@@ -158,6 +159,11 @@ def update_github(metrics_data: EcosystemProject):
                     "github_pushed_at",
                     int(datetime.fromisoformat(last_update).timestamp()),
                 )
+    else:
+        if update and not link.startswith(link_prefix):
+            logging.warning(f"link prefix for {name} is invalid")
+        else:
+            logging.info(f"No update required for {name}")
 
 
 def update_discord(metrics_data: EcosystemProject):
@@ -178,6 +184,11 @@ def update_discord(metrics_data: EcosystemProject):
             value = response.get("approximate_member_count", None)
             if value is not None:
                 metrics_data.set_metric(name, value)
+    else:
+        if update and not link.startswith(link_prefix):
+            logging.warning(f"link prefix for {name} is invalid")
+        else:
+            logging.info(f"No update required for {name}")
 
 
 def update_metrics(metrics_data: EcosystemProject):
