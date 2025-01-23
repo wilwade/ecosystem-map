@@ -1,0 +1,35 @@
+name: Hyperbridge
+category:
+  - Bridge
+description: Interoperability protocol connecting blockchain networks.
+readiness:
+  business: 
+  - Verified in market/high adoption
+  technology: 
+  - Connected to Relay chain
+target_audience:
+  - Established corp
+  - Dev teams
+  - Startup
+ecosystem:
+  - Ethereum
+  - Polkadot
+  - BNB Chain
+layer:
+  - Layer-1
+web:
+  logo: default.png
+  site: https://hyperbridge.network
+  twitter: hyperbridge
+  github: https://github.com/polytope-labs/hyperbridge
+  discord: https://discord.com/invite/WYTUQrTR9y
+  documentation: https://docs.hyperbridge.network
+treasury_funded: false
+audit: false
+metrics:
+  twitter: []
+  youtube: []
+  github: []
+  discord: []
+  blog: []
+  app_downloads: []
