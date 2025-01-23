@@ -16,6 +16,7 @@
     "build": "rimraf dist && node build.prod.js",
     "lint": "eslint --ext=ts,tsx 'src/**'",
     "lint:fix": "eslint 'src/**' --fix",
+    "lint:yaml": "bash ../scripts/validate.sh",
     "stylelint": "stylelint src/**.css",
     "stylelint:fix": "stylelint src/**.css --fix",
     "typecheck": "tsc --noEmit"
@@ -33,6 +34,7 @@
     "eslint-plugin-react": "^7.34.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "ignore-styles": "^5.0.1",
+    "pajv": "^1.2.0",
     "prettier": "^3.2.5",
     "rimraf": "^5.0.5",
     "stylelint": "^16.2.1",
