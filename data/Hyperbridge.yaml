@@ -3,10 +3,8 @@ category:
   - Bridge
 description: Interoperability protocol connecting blockchain networks.
 readiness:
-  business: 
-  - Verified in market/high adoption
-  technology: 
-  - Connected to Relay chain
+  business: Verified in market/high adoption
+  technology: Connected to Relay chain
 target_audience:
   - Established corp
   - Dev teams
