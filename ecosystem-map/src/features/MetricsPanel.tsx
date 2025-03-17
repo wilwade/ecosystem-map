@@ -1,6 +1,5 @@
-import React from "react";
+import React, { PropsWithChildren } from "react";
 import { ProjectInfo } from "types";
-import { round } from "../utils/helper";
 
 function TwitterLogo() {
   return (
@@ -44,6 +43,19 @@ function GithubLogo() {
   );
 }
 
+function PolkadotLogo() {
+  return (
+    <svg width="15" height="15" viewBox="0 0 254 246" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M127.287 52.1521C151.391 52.1521 170.93 40.6431 170.93 26.4462C170.93 12.2492 151.391 0.740234 127.287 0.740234C103.184 0.740234 83.644 12.2492 83.644 26.4462C83.644 40.6431 103.184 52.1521 127.287 52.1521Z" fill="#FF2670"/>
+      <path d="M127.287 245.74C151.391 245.74 170.93 234.231 170.93 220.034C170.93 205.837 151.391 194.328 127.287 194.328C103.184 194.328 83.644 205.837 83.644 220.034C83.644 234.231 103.184 245.74 127.287 245.74Z" fill="#FF2670"/>
+      <path d="M66.4582 87.6934C78.5099 66.5654 78.435 43.6848 66.2908 36.5881C54.1466 29.4915 34.5319 40.866 22.4802 61.994C10.4285 83.1219 10.5035 106.003 22.6477 113.099C34.7919 120.196 54.4065 108.821 66.4582 87.6934Z" fill="#FF2670"/>
+      <path d="M232.112 184.487C244.164 163.359 244.086 140.477 231.939 133.379C219.792 126.28 200.175 137.653 188.123 158.781C176.071 179.909 176.149 202.791 188.296 209.89C200.443 216.988 220.06 205.615 232.112 184.487Z" fill="#FF2670"/>
+      <path d="M66.2915 209.897C78.4388 202.798 78.5162 179.916 66.4645 158.788C54.4128 137.66 34.7957 126.287 22.6484 133.386C10.5011 140.484 10.4236 163.366 22.4754 184.494C34.5271 205.622 54.1442 216.995 66.2915 209.897Z" fill="#FF2670"/>
+      <path d="M231.935 113.094C244.082 105.996 244.16 83.1138 232.108 61.9859C220.056 40.8579 200.439 29.4848 188.292 36.5833C176.145 43.6818 176.067 66.5639 188.119 87.6918C200.171 108.82 219.788 120.193 231.935 113.094Z" fill="#FF2670"/>
+    </svg>
+  );
+}
+
 // function BlogLogo() {
 //   return (
 //     <svg version="1.1" viewBox="0 0 975 725" height="15" width="15">
@@ -52,141 +64,87 @@ function GithubLogo() {
 //   );
 // }
 
-function YoutubeLogo() {
+// function YoutubeLogo() {
+//   return (
+//     <svg version="1.1"  viewBox="0 0 310 310" height="15" width="15">
+//      <path d="M297.917,64.645c-11.19-13.302-31.85-18.728-71.306-18.728H83.386c-40.359,0-61.369,5.776-72.517,19.938 C0,79.663,0,100.008,0,128.166v53.669c0,54.551,12.896,82.248,83.386,82.248h143.226c34.216,0,53.176-4.788,65.442-16.527
+// 		C304.633,235.518,310,215.863,310,181.835v-53.669C310,98.471,309.159,78.006,297.917,64.645z M199.021,162.41l-65.038,33.991
+// 		c-1.454,0.76-3.044,1.137-4.632,1.137c-1.798,0-3.592-0.484-5.181-1.446c-2.992-1.813-4.819-5.056-4.819-8.554v-67.764
+// 		c0-3.492,1.822-6.732,4.808-8.546c2.987-1.814,6.702-1.938,9.801-0.328l65.038,33.772c3.309,1.718,5.387,5.134,5.392,8.861
+// 		C204.394,157.263,202.325,160.684,199.021,162.41z"/>
+// </svg>
+//   );
+// }
+
+// function MediumLogo() {
+//   return (
+//     <svg version="1.1"  viewBox="0 -55 256 256" height="15" width="15">
+//      <path d="M72.2009141,1.42108547e-14 C112.076502,1.42108547e-14 144.399375,32.5485469 144.399375,72.6964154 C144.399375,112.844284 112.074049,145.390378 72.2009141,145.390378 C32.327779,145.390378 0,112.844284 0,72.6964154 C0,32.5485469 32.325326,1.42108547e-14 72.2009141,1.42108547e-14 Z M187.500628,4.25836743 C207.438422,4.25836743 223.601085,34.8960455 223.601085,72.6964154 L223.603538,72.6964154 C223.603538,110.486973 207.440875,141.134463 187.503081,141.134463 C167.565287,141.134463 151.402624,110.486973 151.402624,72.6964154 C151.402624,34.9058574 167.562834,4.25836743 187.500628,4.25836743 Z M243.303393,11.3867175 C250.314,11.3867175 256,38.835526 256,72.6964154 C256,106.547493 250.316453,134.006113 243.303393,134.006113 C236.290333,134.006113 230.609239,106.554852 230.609239,72.6964154 C230.609239,38.837979 236.292786,11.3867175 243.303393,11.3867175 Z" fill="#000000" />
+// </svg>
+//   );
+// }
+
+// function AppLogo() {
+//   return (
+//     <svg xmlns="http://www.w3.org/2000/svg" fill="#000000" height="15px" width="15px" version="1.1" viewBox="0 0 512 512">
+//       <g>
+//         <g>
+//           <path d="M410.8,12H103.2C74.4,12,51,35.5,51,64.3v385.4c0,28.9,23.4,52.3,52.2,52.3h307.5c28.8,0,52.2-23.5,52.2-52.3V64.3    C463,35.5,439.6,12,410.8,12z M422.2,449.7c0,6.3-5.1,11.5-11.5,11.5H103.2c-6.3,0-11.5-5.2-11.5-11.5V64.3    c0-6.3,5.1-11.5,11.5-11.5h307.5c6.3,0,11.5,5.2,11.5,11.5V449.7z"/>
+//           <path d="m315.7,209.7c-9.4-6.2-22-3.6-28.3,5.8l-10,15.2v-114.9c0-11.3-9.1-20.4-20.4-20.4-11.3,0-20.4,9.1-20.4,20.4v114.9l-10-15.2c-6.2-9.4-18.9-12-28.3-5.8-9.4,6.2-12,18.9-5.8,28.3l47.4,71.9c3.8,5.7 10.2,9.2 17,9.2 6.8,0 13.2-3.4 17-9.2l47.4-71.9c6.4-9.4 3.8-22.1-5.6-28.3z"/>
+//           <path d="m272.7,401.2h-31.4c-11.3,0-20.4,9.1-20.4,20.4s9.1,20.4 20.4,20.4h31.4c11.3,0 20.4-9.1 20.4-20.4s-9.1-20.4-20.4-20.4z"/>
+//         </g>
+//       </g>
+//     </svg>
+//   )
+// }
+
+interface ExternalLinkProps {
+  href: string | undefined;
+}
+
+export function ExternalLink({ href, children }: PropsWithChildren<ExternalLinkProps>) {
+  if (!href) {
+    return null;
+  }
+
+  const isEmail = href.includes('@');
+
+  const addr = isEmail ? `mailto:${href}` : href;
+
   return (
-    <svg version="1.1"  viewBox="0 0 310 310" height="15" width="15">
-     <path d="M297.917,64.645c-11.19-13.302-31.85-18.728-71.306-18.728H83.386c-40.359,0-61.369,5.776-72.517,19.938 C0,79.663,0,100.008,0,128.166v53.669c0,54.551,12.896,82.248,83.386,82.248h143.226c34.216,0,53.176-4.788,65.442-16.527
-		C304.633,235.518,310,215.863,310,181.835v-53.669C310,98.471,309.159,78.006,297.917,64.645z M199.021,162.41l-65.038,33.991
-		c-1.454,0.76-3.044,1.137-4.632,1.137c-1.798,0-3.592-0.484-5.181-1.446c-2.992-1.813-4.819-5.056-4.819-8.554v-67.764
-		c0-3.492,1.822-6.732,4.808-8.546c2.987-1.814,6.702-1.938,9.801-0.328l65.038,33.772c3.309,1.718,5.387,5.134,5.392,8.861
-		C204.394,157.263,202.325,160.684,199.021,162.41z"/>
-</svg>
+    <a href={addr} target="_blank" rel="noopener noreferrer">
+      {children}
+    </a>
   );
 }
 
-function MediumLogo() {
-  return (
-    <svg version="1.1"  viewBox="0 -55 256 256" height="15" width="15">
-     <path d="M72.2009141,1.42108547e-14 C112.076502,1.42108547e-14 144.399375,32.5485469 144.399375,72.6964154 C144.399375,112.844284 112.074049,145.390378 72.2009141,145.390378 C32.327779,145.390378 0,112.844284 0,72.6964154 C0,32.5485469 32.325326,1.42108547e-14 72.2009141,1.42108547e-14 Z M187.500628,4.25836743 C207.438422,4.25836743 223.601085,34.8960455 223.601085,72.6964154 L223.603538,72.6964154 C223.603538,110.486973 207.440875,141.134463 187.503081,141.134463 C167.565287,141.134463 151.402624,110.486973 151.402624,72.6964154 C151.402624,34.9058574 167.562834,4.25836743 187.500628,4.25836743 Z M243.303393,11.3867175 C250.314,11.3867175 256,38.835526 256,72.6964154 C256,106.547493 250.316453,134.006113 243.303393,134.006113 C236.290333,134.006113 230.609239,106.554852 230.609239,72.6964154 C230.609239,38.837979 236.292786,11.3867175 243.303393,11.3867175 Z" fill="#000000" />
-</svg>
-  );
-}
-
-function AppLogo() {
-  return (
-    <svg xmlns="http://www.w3.org/2000/svg" fill="#000000" height="15px" width="15px" version="1.1" viewBox="0 0 512 512">
-      <g>
-        <g>
-          <path d="M410.8,12H103.2C74.4,12,51,35.5,51,64.3v385.4c0,28.9,23.4,52.3,52.2,52.3h307.5c28.8,0,52.2-23.5,52.2-52.3V64.3    C463,35.5,439.6,12,410.8,12z M422.2,449.7c0,6.3-5.1,11.5-11.5,11.5H103.2c-6.3,0-11.5-5.2-11.5-11.5V64.3    c0-6.3,5.1-11.5,11.5-11.5h307.5c6.3,0,11.5,5.2,11.5,11.5V449.7z"/>
-          <path d="m315.7,209.7c-9.4-6.2-22-3.6-28.3,5.8l-10,15.2v-114.9c0-11.3-9.1-20.4-20.4-20.4-11.3,0-20.4,9.1-20.4,20.4v114.9l-10-15.2c-6.2-9.4-18.9-12-28.3-5.8-9.4,6.2-12,18.9-5.8,28.3l47.4,71.9c3.8,5.7 10.2,9.2 17,9.2 6.8,0 13.2-3.4 17-9.2l47.4-71.9c6.4-9.4 3.8-22.1-5.6-28.3z"/>
-          <path d="m272.7,401.2h-31.4c-11.3,0-20.4,9.1-20.4,20.4s9.1,20.4 20.4,20.4h31.4c11.3,0 20.4-9.1 20.4-20.4s-9.1-20.4-20.4-20.4z"/>
-        </g>
-      </g>
-    </svg>
-  )
-}
 
 export default function Metrics({ project }: { project: ProjectInfo }) {
-  const twitter = React.useMemo(
-    () =>
-      project.metrics?.twitter?.length
-        ? project.metrics.twitter[0]?.value
-        : undefined,
-    [project.metrics.twitter],
-  );
-
-  const blog = React.useMemo(
-    () =>
-      project.metrics?.blog?.length
-        ? project.metrics.blog[0]?.value
-        : undefined,
-    [project.metrics.blog],
-  );
-
-  const discord = React.useMemo(
-    () =>
-      project.metrics?.discord?.length
-        ? project.metrics.discord[0]?.value
-        : undefined,
-    [project.metrics.discord],
-  );
-
   const github = React.useMemo(
     () =>
       project.metrics?.github?.length
         ? project.metrics.github[0]?.value
         : undefined,
-    [project.metrics.github],
+    [project.metrics?.github],
   );
-
-  const youtube = React.useMemo(
-    () =>
-      project.metrics?.youtube?.length
-        ? project.metrics.youtube[0]?.value
-        : undefined,
-    [project.metrics.youtube],
-  );
-
-  const appDownloads = React.useMemo(
-    () =>
-      project.metrics?.app_downloads?.length
-        ? project.metrics.app_downloads[0]?.value
-        : undefined,
-    [project.metrics.app_downloads],
-  );
-
-  const education = React.useMemo(() => {
-    if (twitter === undefined || blog === undefined || youtube === undefined || discord === undefined) {
-      return undefined;
-    }
-
-    return twitter > 0
-      ? round(((blog + youtube + discord) / twitter) * 100, 100)
-      : undefined;
-  }, [blog, youtube, twitter, discord]);
-
-  const techEngagement = React.useMemo(() => {
-      const s = Number(blog) + Number(youtube) + Number(discord);
-      return s > 0 ? round((Number(github) / s) * 100, 100) : undefined;
-  }, [github, blog, youtube, discord]);
-
-  const engagement = React.useMemo(() => Number(twitter) > 0
-      ? round((Number(appDownloads) / Number(twitter)) * 100, 100)
-      : undefined, [appDownloads, twitter, github, blog, youtube, discord]);
 
   return (
-    <div className="metrics-panel">
-      <div className="roboto-medium">Reach</div>
-      <div className="roboto-medium">Engagement</div>
-      <div className="roboto-medium">Readiness</div>
-      <div>
-        {project.web.twitter ?
-          <a href={`https://x.com/${project.web.twitter}`}><TwitterLogo /> {twitter ?? "—"}</a> :
-          <><TwitterLogo /> {twitter ?? "—"}</>
-        }
-      </div>
-      <div />
-      <div>{project.readiness.business ?? "—"}</div>
-
-      <div>
-        <DiscordLogo /> <YoutubeLogo /> <MediumLogo />
-      </div>
-      <div style={{ opacity: 0.5 }}>{education ? `${education}%` : "—"}</div>
-      <div>{project.readiness.technology ?? "—"}</div>
-
-      <div>
-        <GithubLogo /> {github ?? "—"}
-      </div>
-      <div style={{ opacity: 0.5 }}>{techEngagement ? `${techEngagement}%` : "—"}</div>
-      <div />
-      {appDownloads ? (
-        <>
-          <div><AppLogo /> {appDownloads ?? "—"}</div>
-          <div style={{ opacity: 0.5 }}>{engagement ? `${engagement}%` : "—"}</div>
-          <div />
-        </>
-      ) : undefined}
-      
+    <div style={{display: 'flex', alignItems: 'center', gap: '3rem'}}>
+      <ExternalLink href={project.web.blog}>📖</ExternalLink>
+      {/* <ExternalLink href={project.web.person}>👤</ExternalLink> */}
+      <ExternalLink href={project.web.contact}>✉️</ExternalLink>
+      <ExternalLink href={project.web.twitter ? `https://x.com/${project.web.twitter}` : undefined}>
+        <TwitterLogo />{/* twitter ?? "—" */}
+      </ExternalLink>
+      <ExternalLink href={project.web.discord}><DiscordLogo />{/* discord ?? "—" */}</ExternalLink>
+      <ExternalLink href={project.web.github}>
+        <span style={{display: 'flex', alignItems: 'center'}} ><GithubLogo />⭐ {github}</span>
+      </ExternalLink>
+      {project.treasury_funded ? (
+        <span style={{display: 'flex', alignItems: 'center', fontSize: '10px'}}>
+          <PolkadotLogo />&nbsp;&nbsp;
+          <span>Funded by<br />treasury</span>
+        </span>) : undefined}
     </div>
   );
 }

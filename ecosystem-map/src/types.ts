@@ -1,9 +1,15 @@
 export interface Web {
-  logo: string;
-  discord?: string;
-  contact?: string;
   site: string;
-  twitter: string;
+  logo: string;
+  twitter?: string;
+  blog?: string;
+  discord?: string;
+  github?: string;
+  contact?: string;
+  documentation?: string;
+  playstore?: string;
+  appstore?: string;
+  webstore?: string;
 }
 
 export interface Readiness {
@@ -17,24 +23,27 @@ export interface MetricsData {
 }
 
 export interface Metrics {
-  twitter: MetricsData[];
-  youtube: MetricsData[];
-  github: MetricsData[];
-  blog: MetricsData[];
-  app_downloads: MetricsData[];
-  discord: MetricsData[];
+  twitter?: MetricsData[];
+  blog?: MetricsData[];
+  youtube?: MetricsData[];
+  discord?: MetricsData[];
+  github?: MetricsData[];
+  github_pushed_at?: MetricsData[];
+  app_downloads?: MetricsData[];
 }
 
 export interface ProjectInfo {
   name: string;
   description: string;
-  category: string[];
-  target_audience: string[];
-  ecosystem: string[];
+  category?: string[];
+  target_audience?: string[];
+  ecosystem?: string[];
   layer: string[];
   web: Web;
-  metrics: Metrics;
-  readiness: Readiness;
+  metrics?: Metrics;
+  readiness?: Readiness;
+  treasury_funded?: boolean;
+  audit?: boolean;
 }
 
 export interface IFilters {
