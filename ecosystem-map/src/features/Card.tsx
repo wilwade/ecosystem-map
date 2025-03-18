@@ -32,10 +32,10 @@ interface ActivityIndicatorProps {
 }
 
 const ACTIVITY_INDICATORS = {
-  active: '🟢',
-  moderate: '🟡',
-  inactive: '💤',
-  default: '❔',
+  active: 'Active 🟢',
+  moderate: 'Moderate 🟡',
+  inactive: 'Inactive 💤',
+  default: 'Unknown ❔',
 };
 
 function getActivityIndicator(githubPushedAt: number | undefined): string {
@@ -82,9 +82,10 @@ export default function Card({
     [P in TCategory]: (key: string) => void;
   };
 }) {
+  const inactive = card?.readiness?.technology === "Discontinued" ? "project-card--inactive" : "";
 
   return (
-    <div className="project-card">
+    <div className={`project-card ${inactive}`}>
       <div className="project-card__header">
         <div className="project-card__header--logo">
           <img
@@ -98,7 +99,7 @@ export default function Card({
         </div>
         <div className="project-card__header--name">
           <a target="_blank" href={card.web.site} rel="noreferrer noopener">
-            {card.name}
+            {card.name} {inactive ? "[inactive]" : ""}
           </a>
         </div>
         <div style={{ marginLeft: 'auto' }}>
